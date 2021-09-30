@@ -55,7 +55,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 > Texto resumindo o projeto.
 
 ## Slides da Apresentação
-> Coloque aqui o link para o PDF da apresentação
+> https://docs.google.com/presentation/d/1iqakiNuX8BURFj4XlMaR3HR2TpyldDnl5OtQ1EmLynE/edit?usp=sharing
 
 Estrutura de pastas:
 
