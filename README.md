@@ -52,7 +52,12 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 * Leonardo Almeida Reis - 239104
 
 ## Resumo do Projeto
-> Texto resumindo o projeto.
+> Tema: Influência da personalidade/hábitos no gosto musical
+> 
+> Motivação: interesse musical do grupo e curiosidade em saber como se formam os gostos musicais
+> 
+> Contexto gerador: pesquisando datasets, encontramos vários relacionados à música e surgiu a ideia do tema
+
 
 ## Slides da Apresentação
 > https://docs.google.com/presentation/d/1iqakiNuX8BURFj4XlMaR3HR2TpyldDnl5OtQ1EmLynE/edit?usp=sharing
