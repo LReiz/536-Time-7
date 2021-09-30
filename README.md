@@ -60,7 +60,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 
 ## Slides da Apresentação
-> https://docs.google.com/presentation/d/1iqakiNuX8BURFj4XlMaR3HR2TpyldDnl5OtQ1EmLynE/edit?usp=sharing
+> [Apresentação](assets/slides.pdf)
 
 Estrutura de pastas:
 
