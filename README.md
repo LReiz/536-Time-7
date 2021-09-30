@@ -48,7 +48,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Equipe Time 7 - TIME7
 * Pedro Henrique Rodrigues de Araújo - 223382
-* `<nome completo>` - `<RA>`
+* Vitor Rodrigues Pietrobom - 245584
 * `<nome completo>` - `<RA>`
 
 ## Resumo do Projeto
