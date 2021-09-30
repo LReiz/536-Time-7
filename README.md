@@ -44,18 +44,18 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Modelo para Apresentação da Entrega Parcial do Projeto
 
-# Projeto `<Título do Projeto/Jogo>`
+# Projeto `MUSICATION`
 
 # Equipe Time 7 - TIME7
 * Pedro Henrique Rodrigues de Araújo - 223382
 * Vitor Rodrigues Pietrobom - 245584
-* `<nome completo>` - `<RA>`
+* Leonardo Almeida Reis - 239104
 
 ## Resumo do Projeto
 > Texto resumindo o projeto.
 
 ## Slides da Apresentação
-> https://docs.google.com/presentation/d/1iqakiNuX8BURFj4XlMaR3HR2TpyldDnl5OtQ1EmLynE/edit?usp=sharing
+> Coloque aqui o link para o PDF da apresentação
 
 Estrutura de pastas:
 
