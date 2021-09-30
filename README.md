@@ -46,8 +46,8 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Projeto `<Título do Projeto/Jogo>`
 
-# Equipe `<nome da equipe>` - `<sigla da equipe>`
-* `<nome completo>` - `<RA>`
+# Equipe Time 7 - TIME7
+* Pedro Henrique Rodrigues de Araújo - 223382
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`
 
