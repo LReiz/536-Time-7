@@ -15,6 +15,8 @@ Estrutura de pastas:
 
 ## Modelo Lógico Combinado do Banco de Dados de Grafos
 > Tomamos como fator de mudança o objetivo de tornar o dataset mais simples e de fácil entendimento, para isso, resolvemos realizar uma operação de projeção baseado nos temas como fobia, filmes e personalidades para relacionar as músicas, estabelecendo assim relações medidas entre elas e deixando de depender das pessoas, podendo abrir mais o leque de datasets, de forma a transformar o banco de dados exclusivamente em um banco de dados de musica.
+
+
 > Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
 > Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
 >
