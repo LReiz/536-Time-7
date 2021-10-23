@@ -10,7 +10,7 @@ Estrutura de pastas:
 
 # Equipe `Time 7` - `Time7`
 * `Vitor Rodrigues Pietrobom` - `245584`
-* `<nome completo>` - `<RA>`
+* `Leonardo Almeida Reis` - `239104`
 * `<nome completo>` - `<RA>`
 
 ## Modelo Lógico Combinado do Banco de Dados de Grafos
