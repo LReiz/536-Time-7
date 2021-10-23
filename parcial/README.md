@@ -1,4 +1,4 @@
-Projeto Parcial entregue na data XX/XX/XXXX e movido para esta pasta na data 23/10/2021
+Projeto Parcial entregue na data 30/09/2021 e movido para esta pasta na data 23/10/2021
 # Projeto `MUSICATION`
 
 # Equipe Time 7 - TIME7
