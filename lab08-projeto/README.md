@@ -11,7 +11,7 @@ Estrutura de pastas:
 # Equipe `Time 7` - `Time7`
 * `Vitor Rodrigues Pietrobom` - `245584`
 * `Leonardo Almeida Reis` - `239104`
-* `<nome completo>` - `<RA>`
+* `Pedro Henrique Rodrigues de Araújo` - `223382`
 
 ## Modelo Lógico Combinado do Banco de Dados de Grafos
 > Tomamos como fator de mudança o objetivo de tornar o dataset mais simples e de fácil entendimento, para isso, resolvemos realizar uma operação de projeção baseado nos temas como fobia, filmes e personalidades para relacionar as músicas, estabelecendo assim relações medidas entre elas e deixando de depender das pessoas, podendo abrir mais o leque de datasets, de forma a transformar o banco de dados exclusivamente em um banco de dados de musica.
