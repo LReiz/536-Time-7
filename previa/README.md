@@ -53,7 +53,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 * `Pedro Henrique Rodrigues de Araújo` - `223382`
 
 ## Resumo do Projeto
-> Texto resumindo o projeto.
+> 	O projeto se baseia em criar um banco de dados de recomendação de música. Para isso, este utiliza características das pessoas que gostam de determinadas músicas para criar uma relação de semelhança entre músicas.
 
 ## Slides da Apresentação
 > Coloque aqui o link para o PDF da apresentação prévia
