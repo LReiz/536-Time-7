@@ -1,4 +1,4 @@
-# Modelo de Apresentação da Entrega Prévia
+# Previa
 
 # Estrutura de Arquivos e Pastas
 
@@ -53,10 +53,10 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 * `Pedro Henrique Rodrigues de Araújo` - `223382`
 
 ## Resumo do Projeto
-> 	O projeto se baseia em criar um banco de dados de recomendação de música. Para isso, este utiliza características das pessoas que gostam de determinadas músicas para criar uma relação de semelhança entre músicas.
+> 	O projeto se baseia em criar um banco de dados de recomendação de música. Para isso, este utiliza características das pessoas que gostam de determinadas músicas para criar uma relação de semelhança entre músicas, gerando assim um grafo com arestas direcionadas e com peso que representam as relações
 
 ## Slides da Apresentação
-> Coloque aqui o link para o PDF da apresentação prévia
+> https://docs.google.com/presentation/d/1Gkc1cwBLx4gM0si9Lq_ivmETll0VnqJc-4auenZmeM8/edit?usp=sharing
 
 ## Modelo Conceitual Preliminar
 
