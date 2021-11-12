@@ -45,12 +45,12 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Modelo para Apresentação da Entrega Prévia do Projeto
 
-# Projeto `<Título do Projeto>`
+# Projeto `Musication`
 
-# Equipe `<nome da equipe>` - `<sigla da equipe>`
-* `<nome completo>` - `<RA>`
-* `<nome completo>` - `<RA>`
-* `<nome completo>` - `<RA>`
+# Equipe `Time 7` - `TIME7`
+* `Leonardo Almeida Reis` - `239104`
+* `Vitor Rodrigues Pietrobom` - `245584`
+* `Pedro Henrique Rodrigues de Araújo` - `223382`
 
 ## Resumo do Projeto
 > Texto resumindo o projeto.
