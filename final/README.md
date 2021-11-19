@@ -48,9 +48,9 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 # Projeto Musication
 
 # Equipe Time 7 - TIME7
-* Pedro Henrique Rodrigues de Araújo - 223382
-* `<nome completo>` - `<RA>`
-* `<nome completo>` - `<RA>`
+* `Pedro Henrique Rodrigues de Araújo` - `223382`
+* `Vitor Rodrigues Pietrobom` - `245584`
+* `Leonardo Almeida Reis` - `239104`
 
 ## Resumo do Projeto
 > Texto resumindo o projeto.
