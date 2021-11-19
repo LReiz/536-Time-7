@@ -53,7 +53,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 * `Leonardo Almeida Reis` - `239104`
 
 ## Resumo do Projeto
-> Texto resumindo o projeto.
+> O projeto visa verificar qual a influência da personalidade/hábitos de uma pessoa no gosto musical. Analisando essa relação, o projeto também visa prever outras músicas que determinada pessoa estaria propensa a gostar com base nas músicas que ele já tem interesse.
 
 ## Slides da Apresentação
 > Coloque aqui o link para o PDF da apresentação final
