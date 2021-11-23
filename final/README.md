@@ -60,7 +60,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 ## Modelo Conceitual
 
-> ![ER Taxi](images/modelo-conceitual.png)
+> ![Modelo Conceitual](images/modelo-conceitual.png)
 
 ## Modelos Lógicos
 
