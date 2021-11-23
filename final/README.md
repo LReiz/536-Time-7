@@ -60,8 +60,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 ## Modelo Conceitual
 
-> Coloque aqui a imagem do modelo conceitual final em ER ou UML, como o exemplo a seguir:
-> ![ER Taxi](images/er-taxi.png)
+> ![ER Taxi](images/modelo-conceitual.png)
 
 ## Modelos Lógicos
 
@@ -69,9 +68,10 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 > Exemplo de modelo lógico relacional
 ~~~
-PESSOA(_Código_, Nome, Telefone)
-ARMÁRIO(_Código_, Tamanho, Ocupante)
-  Ocupante chave estrangeira -> PESSOA(Código)
+MUSICA(_Id_, Nome, Artista, Popularidade, Explícito, TipoDeMusica)
+RELACAO(_IdMusica1_, _IdMusica2_, Peso)
+  _IdMusica1_ chave estrangeira -> MUSICA(_Id_)
+  _IdMusica2_ chave estrangeira -> MUSICA(_Id_)
 ~~~
 
 > Para o modelo de grafos de propriedades, utilize este
