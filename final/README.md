@@ -64,9 +64,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 ## Modelos Lógicos
 
-> Coloque aqui os modelos lógicos dos bancos de dados relacionados aos modelos conceituais. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos, sugere-se aqueles apresentados em sala.
-
-> Exemplo de modelo lógico relacional
+> Modelo lógico relacional
 ~~~
 MUSICA(_Id_, Nome, Artista, Popularidade, Explícito, TipoDeMusica)
 RELACAO(_IdMusica1_, _IdMusica2_, Peso)
@@ -80,20 +78,13 @@ RELACAO(_IdMusica1_, _IdMusica2_, Peso)
 >
 > ![Modelo Lógico de Grafos](images/modelo-logico-grafos.png)
 
-> Para o modelo de grafos de conhecimento, utilize a abordagem
-> (recurso, propriedade, valor) para apresentar seu grafo exemplo.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image).
+> Modelo de grafos de conhecimento
 >
-> Você pode usar um grafo ilustrando as classes, como este:
-> ![Modelo Lógico de Grafos de Conhecimento](images/grafo-conhecimento-classes.png)
+> Ilustração das Classes:
+> ![Modelo Lógico de Grafos de Conhecimento](images/modelo-logico-grafo-classes.png)
 >
-> Além de outro com exemplo de instâncias, como este:
-> ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplo.png)
-
-> Para modelos hierárquicos (XML e JSON), utilize um formato
-> conforme o abaixo:
-
-> ![Modelo Lógico Hierárquico](images/modelo-logico-hierarquico.png)
+> Exemplo de Instâncias:
+> ![Modelo Lógico de Grafos](images/modelo-logico-grafo-instancias.png)
 
 ## Dataset Publicado
 > Elencar os arquivos/bases preliminares dos datasets serão publicados.
