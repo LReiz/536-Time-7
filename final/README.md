@@ -83,11 +83,10 @@ RELACAO(_IdMusica1_, _IdMusica2_, Peso)
 
 ## Dataset Publicado
 > Elencar os arquivos/bases preliminares dos datasets serão publicados.
-
+> 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`musicoset_metadata.zip` | `https://marianaossilva.github.io/DSW2019/index.html` | `Dataset com algumas informações sobre as músicas. Dentre as informações úteis, temos: artistas, popularidade, conteúdo explícito, tipo de música`
-`musicoset_metadata.zip` | `https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge` | `Dataset com um grande conjunto de playlists. Além disso informa quantas e quais músicas existem em cada playlist.`
+`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
 
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
@@ -98,7 +97,9 @@ título do arquivo/base | link | breve descrição
 
 título da base | link | breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+`musicoset_metadata.zip` | `https://marianaossilva.github.io/DSW2019/index.html` | `Dataset com algumas informações sobre as músicas. Dentre as informações úteis, temos: artistas, popularidade, conteúdo explícito, tipo de música`
+`musicoset_metadata.zip` | `https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge` | `Dataset com um grande conjunto de playlists. Além disso informa quantas e quais músicas existem em cada playlist.`
+
 
 ## Detalhamento do Projeto
 > Apresente aqui detalhes do processo de construção do dataset e análise. Nesta seção ou na seção de Perguntas podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
