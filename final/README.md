@@ -86,14 +86,15 @@ RELACAO(_IdMusica1_, _IdMusica2_, Peso)
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`<título do arquivo/base>` | `<link para arquivo/base>` | `<breve descrição do arquivo/base>`
+`musicoset_metadata.zip` | `https://marianaossilva.github.io/DSW2019/index.html` | `Dataset com algumas informações sobre as músicas. Dentre as informações úteis, temos: artistas, popularidade, conteúdo explícito, tipo de música`
+`musicoset_metadata.zip` | `https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge` | `Dataset com um grande conjunto de playlists. Além disso informa quantas e quais músicas existem em cada playlist.`
+
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
 > Coloque arquivos que não estejam disponíveis online e sejam acessados pelo notebook. Relacionais (usualmente CSV), XML, JSON e CSV ou triplas para grafos.
 > Este é o conjunto mínimo de informações que deve constar na disponibilização do Dataset, mas a equipe pode enriquecer esta seção.
 
 ## Bases de Dados
-> Elencar as bases de dados fonte utilizadas no projeto.
 
 título da base | link | breve descrição
 ----- | ----- | -----
