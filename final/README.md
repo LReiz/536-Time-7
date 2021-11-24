@@ -102,14 +102,51 @@ título da base | link | breve descrição
 
 
 ## Detalhamento do Projeto
-> Apresente aqui detalhes do processo de construção do dataset e análise. Nesta seção ou na seção de Perguntas podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
+
+> Iniciamos importando o dataset MusicOSet, o qual continha informações como os ids das musicas, seus nomes, populariade e outras propriedades importantes, do nosso drive compartilhado utilizando pandas:
+
 
 ~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
+drive.mount('/content/drive')
+!ls "/content/drive/Shareddrives/Time 7 - BANCO DE DADOS/musicoset_metadata/songs.csv"
+df = pd.read_csv("/content/drive/Shareddrives/Time 7 - BANCO DE DADOS/musicoset_metadata/songs.csv", error_bad_lines=False)
+~~~
+
+> Depois definimos cada uma das funções que iria influenciar na relação das músicas, estabelecendo como entrada o dataset obtido acima, uma matriz de adjacencias contendo os pesos das relações e o peso que dariamos para a relação em questão, tendo portanto formatos parecidos com este
+
+
+~~~python
+def relation_popularity(dataset, songs_table, weight):
+  for i in range(len(songs_table)):
+    for j in range(i+1,len(songs_table[i])):
+      relation = (dataset['popularity'][i] + dataset['popularity'][j])/200
+      songs_table[i][j] += relation*weight
+~~~
+
+> Importante notar que cada propriedade tem seu próprio método de obtenção da relação, o a cima por exemplo utiliza a popularidade de ambas as musicas analisadas para compor seu peso de relação
+
+> Após definir as funções, definimos a matriz que utilizariamos e rodamos as funções uma a uma inicialmente, para que fosse possível gerar grafos exclusivos para cada uma das propriedades, resultando em inúmeros grafos. 
+
+> Concluida esta análise inicial, partimos para a análise completa considerando todas as propriedades selecionadas, para isso executamos todas as funções criadas na matriz, conseguindo assim a matriz completa com as relações finais
+
+~~~python
+matrix = np.zeros((5000, 5000))
+relationExplicit(df,matrix, 1)
+relation_popularity(df, matrix, 1)
+relation_song_type(df,matrix, 1)
+relation_artist(df, matrix, 1)
+~~~
+
+> Com isso geramos o grafo completo, gerando também uma imagem para este. Com a matriz também criamos a tabela contendo cada uma das relações para possibilitar a utilização das Queries, juntamente com uma segunda tabela que consistia basicamente da limpeza do MusicOSet original para caber no nosso objetivo.
+
+~~~python
+table = []
+for i in range(len(matrix)):
+  for j in range(len(matrix)):
+    if (matrix[i][j] != 0):
+      table.append([df['song_name'][i], df['song_name'][j], matrix[i][j] ])
+table = pd.DataFrame(table, columns = ['Song_1', 'Song_2','Relation'])
+table.to_csv('relationTable5000.csv', sep=',')
 ~~~
 
 > Se usar Orange para alguma análise, você pode apresentar uma captura do workflow, como o exemplo a seguir e descrevê-lo:
