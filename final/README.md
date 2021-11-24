@@ -187,17 +187,16 @@ table.to_csv('relationTable5000.csv', sep=',')
 >   * Com base nas músicas que uma pessoa gosta, podemos verificar que outras músicas tem maior relação com estas e recomendá-las
 
 #### Pergunta/Análise 3
-> * Quais as músicas mais singulares?
+> * As músicas menos ouvidas têm menos relação com outras músicas?
 >   
->   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
-
+>   * Analogamente às músicas mais requisitadas, podemos verificar quais as músicas menos ouvidas e verificar se elas têm poucas relações com outras músicas
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * As músicas menos ouvidas têm menos relação com outras músicas?
+> * Quais as músicas mais singulares?
 >   
->   * Analogamente às músicas mais requisitadas, podemos verificar quais as músicas menos ouvidas e verificar se elas têm poucas relações com outras músicas
+>   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
 
 #### Pergunta/Análise 2
 > * Qual a relação entre músicas com conteúdo explícito e não explícito?
