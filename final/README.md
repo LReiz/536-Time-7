@@ -144,38 +144,37 @@ plt.show();
 > ![Comunidade no Cytoscape](images/cytoscape-comunidade.png)
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * Quais as músicas que conseguem agradar o maior escopo de pessoas?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
 
 #### Pergunta/Análise 2
-> * Pergunta 2
+> * Que outras músicas eu provavelmente gostaria?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Com base nas músicas que uma pessoa gosta, podemos verificar que outras músicas tem maior relação com estas e recomendá-las
 
 #### Pergunta/Análise 3
-> * Pergunta 3
+> * Quais as músicas mais singulares?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
+
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * As músicas menos ouvidas têm menos relação com outras músicas?
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Analogamente às músicas mais requisitadas, podemos verificar quais as músicas menos ouvidas e verificar se elas têm poucas relações com outras músicas
 
 #### Pergunta/Análise 2
-> * Pergunta 2
+> * Qual a relação entre músicas com conteúdo explícito e não explícito?
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Músicas com conteúdo explícito tendem a ter menos relação com músicas não explícitas? Ou isso não é um fator tão relevante?
 
 #### Pergunta/Análise 3
-> * Pergunta 3
+> * Que características das músicas são mais requisitadas?
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Existem características que os artistas podem focar na produção da suas músicas para fazerem mais sucesso?
+
 
 > Coloque um link para o arquivo do notebook que executa o conjunto de queries. Ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
