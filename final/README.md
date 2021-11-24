@@ -20,7 +20,7 @@ A estrutura aqui apresentada é uma simplificação daquela proposta pelo [Cooki
 ├── src                <- fonte em linguagem de programação ou sistema (e.g., Orange, Cytoscape)
 │   └── README.md      <- instruções básicas de instalação/execução
 │
-└── assets             <- mídias usadas no projeto
+└── images            <- mídias usadas no projeto
 ~~~
 
 Na raiz deve haver um arquivo de nome `README.md` contendo a apresentação do projeto, como detalhado na seção seguinte.
