@@ -152,8 +152,7 @@ table.to_csv('relationTable5000.csv', sep=',')
 
 > Coloque um link para o arquivo do notebook, programas ou workflows que executam as operações que você apresentar.
 
-
-> Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+![Notebook usado para tratamento os dados](notebooks/tratamento-de-dados.ipynb)
 
 ## Evolução do Projeto
 > * Ideia Inicial: Analisar como as características pessoais de um determinado indivíduo influenciam no seu gosto musical. Com base no gosto dos indivíduos por gêneros musicais, poderíamos verificar quais características tem mais peso na atração por determinado gênero musical.
