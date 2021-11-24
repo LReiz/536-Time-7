@@ -43,7 +43,6 @@ Projeto na linguagem escolhida caso não seja usado o notebook, incluindo todos 
 
 Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. Coloque os arquivos aqui (mesmo que você mantenha uma cópia no diretório do código).
 
-# Modelo para Apresentação da Entrega Prévia do Projeto
 
 # Projeto Musication
 
