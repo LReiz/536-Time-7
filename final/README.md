@@ -20,7 +20,7 @@ A estrutura aqui apresentada é uma simplificação daquela proposta pelo [Cooki
 ├── src                <- fonte em linguagem de programação ou sistema (e.g., Orange, Cytoscape)
 │   └── README.md      <- instruções básicas de instalação/execução
 │
-└── assets             <- mídias usadas no projeto
+└── images            <- mídias usadas no projeto
 ~~~
 
 Na raiz deve haver um arquivo de nome `README.md` contendo a apresentação do projeto, como detalhado na seção seguinte.
@@ -43,7 +43,6 @@ Projeto na linguagem escolhida caso não seja usado o notebook, incluindo todos 
 
 Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. Coloque os arquivos aqui (mesmo que você mantenha uma cópia no diretório do código).
 
-# Modelo para Apresentação da Entrega Prévia do Projeto
 
 # Projeto Musication
 
@@ -86,7 +85,8 @@ RELACAO(_IdMusica1_, _IdMusica2_, Peso)
 > 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+`musicTable1000.csv` | `(data/processed/musicTable1000.csv)` | `Conjunto de dados contendo propriedades sobre 1000 músicas`
+`relationTable1000.csv` | `(data/processed/relationTable1000.csv)` | `Conjunto de dados contendo as relações entre 1000 músicas`
 
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
@@ -167,15 +167,7 @@ table.to_csv('relationTable5000.csv', sep=',')
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
-> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
-
-> Liste aqui as perguntas de pesquisa/análise e respectivas análises. Nem todas as perguntas precisam de queries que as implementam. É possível haver perguntas em que a solução é apenas descrita para demonstrar o potencial da base. Abaixo são ilustradas três perguntas, mas pode ser um número maior a critério da equipe.
->
 ### Perguntas/Análise com Resposta Implementada
-
-> As respostas às perguntas podem devem ser ilustradas da forma mais rica possível com tabelas resultantes, grafos ou gráficos que apresentam os resultados. Os resultados podem ser analisados e comentados. Veja um exemplo de figura ilustrando uma comunidade detectada no Cytoscape:
-
-> ![Comunidade no Cytoscape](images/cytoscape-comunidade.png)
 
 #### Pergunta/Análise 1
 > * Quais as músicas que conseguem agradar o maior escopo de pessoas?
@@ -188,17 +180,16 @@ table.to_csv('relationTable5000.csv', sep=',')
 >   * Com base nas músicas que uma pessoa gosta, podemos verificar que outras músicas tem maior relação com estas e recomendá-las
 
 #### Pergunta/Análise 3
-> * Quais as músicas mais singulares?
+> * As músicas menos ouvidas têm menos relação com outras músicas?
 >   
->   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
-
+>   * Analogamente às músicas mais requisitadas, podemos verificar quais as músicas menos ouvidas e verificar se elas têm poucas relações com outras músicas
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * As músicas menos ouvidas têm menos relação com outras músicas?
+> * Quais as músicas mais singulares?
 >   
->   * Analogamente às músicas mais requisitadas, podemos verificar quais as músicas menos ouvidas e verificar se elas têm poucas relações com outras músicas
+>   * Centralidade para identificar de forma clara as músicas com o maior número de relacionamentos e as músicas que têm menores caminhos para a maioria
 
 #### Pergunta/Análise 2
 > * Qual a relação entre músicas com conteúdo explícito e não explícito?
