@@ -1,0 +1,1001 @@
+,song_id,song_name,billboard,artists,popularity,explicit,song_type
+0,3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next","('Thank U, Next', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},86,True,Solo
+1,5p7ujcrUXASCNwRaWNHR1C,Without Me,"('Without Me', 'Halsey')",{'26VFTg2z8YR0cCuwLzESi2': 'Halsey'},87,True,Solo
+2,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,"('Sicko Mode', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},85,True,Solo
+3,3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,"('Sunflower (Spider-Man: Into The Spider-Verse)', 'Post Malone & Swae Lee')","{'246dkjvS1zLTtiykXe5h60': 'Post Malone', '1zNqQNIdeOUZHb8zbZRFMX': 'Swae Lee'}",92,False,Collaboration
+4,1rqqCSm0Qe4I9rUvWncaom,High Hopes,"('High Hopes', 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},86,False,Solo
+5,0bYg9bo50gSsH3LtXe2SQn,All I Want for Christmas Is You,"('All I Want For Christmas Is You', 'Mariah Carey')",{'4iHNK0tOyZPYnBU7nGAgpQ': 'Mariah Carey'},63,False,Solo
+6,5hslUAKq9I9CG2bAulFkHN,It's the Most Wonderful Time of the Year,"(""It's The Most Wonderful Time Of The Year"", 'Andy Williams')",{'4sj6D0zlMOl25nprDJBiU9': 'Andy Williams'},52,False,Solo
+7,2EjXfH91m7f8HiJN1yQg97,Rockin' Around The Christmas Tree,"(""Rockin' Around The Christmas Tree"", 'Brenda Lee')",{'4cPHsZM98sKzmV26wlwD2W': 'Brenda Lee'},53,False,Solo
+8,0MMSmg7zyo6pOKZrfHUOqu,A Holly Jolly Christmas,"('A Holly Jolly Christmas', 'Burl Ives')",{'0MHgLfmQdutffmvWe5XBTN': 'Burl Ives'},3,False,Solo
+9,6Z924AupOiJLdnAKH6UgCu,Jingle Bell Rock,"('Jingle Bell Rock', 'Bobby Helms')",{'38EmEgXkgK51MT2tPY0EoC': 'Bobby Helms'},51,False,Solo
+10,1xzBco0xcoJEDXktl7Jxrr,Mo Bamba,"('Mo Bamba', 'Sheck Wes')",{'2RDOrhPqAM4jzTRCEb19qX': 'Sheck Wes'},81,True,Solo
+11,4PS1e8f2LvuTFgUs1Cn3ON,The Christmas Song (Merry Christmas To You),"('The Christmas Song (Merry Christmas To You)', 'Nat King Cole')",{'7v4imS0moSyGdXyLgVTIV7': 'Nat King Cole'},48,False,Solo
+12,4OafepJy2teCjYJbvFE60J,breathin,"('Breathin', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},78,True,Solo
+13,55S2PQgSMYAhgoTCcGCDfw,Youngblood,"('Youngblood', '5 Seconds Of Summer')",{'5Rl15oVamLq7FbSb0NNBNy': '5 Seconds of Summer'},77,False,Solo
+14,7dt6x5M1jzdTEt8oCbisTK,Better Now,"('Better Now', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},86,True,Solo
+15,285pBltuF7vW8TeWk8hdRR,Lucid Dreams,"('Lucid Dreams', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},85,True,Solo
+16,39LmTF9RgyakzSYX8txrow,imagine,"('Imagine', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},76,True,Solo
+17,2FRnf9qhLbvw8fu4IBXx78,Last Christmas,"('Last Christmas', 'Wham!')",{'5lpH0xAS4fVfLkACg9DAuM': 'Wham!'},55,False,Solo
+18,1dtIaSlyrLI04sqYa8nLyN,Rudolph the Red-Nosed Reindeer,"('Rudolph The Red-Nosed Reindeer', 'Gene Autry')",{'5ixB75BQR3ADoWQkcHQJTs': 'Gene Autry'},36,False,Solo
+19,6CTWathupIiDs7U4InHnDA,Trip,"('Trip', 'Ella Mai')",{'7HkdQ0gt53LP4zmHsL0nap': 'Ella Mai'},77,False,Solo
+20,2GGMabyHXnJmjY6CXhhB2e,Money,"('Money', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},79,True,Solo
+21,14mHfNsSHN0FbLftyjrV9g,Leave Me Alone,"('Leave Me Alone', 'Flipp Dinero')",{'2HUwZ0kumzCSlhFcjFZfpp': 'Flipp Dinero'},80,True,Solo
+22,2uFaJJtFpPDc5Pa95XzTvg,Let It Snow! Let It Snow! Let It Snow!,"('Let It Snow, Let It Snow, Let It Snow', 'Dean Martin')",{'49e4v89VmlDcFCMyDv9wQ9': 'Dean Martin'},47,False,Solo
+23,5ASM6Qjiav2xPe7gRkQMsQ,Sleigh Ride,"('Sleigh Ride', 'The Ronettes')",{'7CyeXFnOrfC1N6z4naIpgo': 'The Ronettes'},46,False,Solo
+24,7taXf5odg9xCAZERYfyOkS,Feliz Navidad,"('Feliz Navidad', 'Jose Feliciano')",{'7K78lVZ8XzkjfRSI7570FF': 'José Feliciano'},46,False,Solo
+25,25leEEaz1gIpp7o21Fqyjo,Here Comes Santa Claus (Right Down Santa Claus Lane),"('Here Comes Santa Claus (Down Santa Claus Lane)', 'Gene Autry')",{'5ixB75BQR3ADoWQkcHQJTs': 'Gene Autry'},41,False,Solo
+26,3GJ4hzg4lrGwU51Y3VARbF,Speechless,"('Speechless', 'Dan + Shay')",{'7z5WFjZAIYejWy0NI5lv4T': 'Dan + Shay'},74,False,Solo
+27,0U2pP3HpalMInP1lOhECsw,Love Lies,"('Love Lies', 'Khalid & Normani')",{'0kwBswqLAwOSM0PdZAEKaM': '2018 DJ Grime'},2,False,Solo
+28,4T3fNx3CgwDRRYgmFCbD4J,Better,"('Better', 'Khalid')",{'6LuN9FCkKOj5PcnpouEgny': 'Khalid'},75,False,Solo
+29,3T6Lsd2qR4nk92hwxJ5sBW,(There's No Place Like) Home for the Holidays,"(""(There's No Place Like) Home For The Holidays"", 'Perry Como')","{'0HS96tPggl2nwiz3gNWWI5': 'Mitchell Ayres & His Orchestra', '5v8jlSmAQfrkTjAlpUfWtu': 'Perry Como', '2FbG2PIAVFvzszwgz2QuOL': 'The Ray Charles Singers'}",3,False,Collaboration
+30,2FY7b99s15jUprqC0M5NCT,Natural,"('Natural', 'Imagine Dragons')",{'53XhwfbYqKCa1cC15pYq2q': 'Imagine Dragons'},82,False,Solo
+31,2MShy1GSSgbmGUxADNIao5,Calling My Spirit,"('Calling My Spirit', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},75,True,Solo
+32,75nEUfYzeskPFRBQk5BvCg,Wonderful Christmastime,"('Wonderful Christmastime', 'Paul McCartney')","{'4STHEaNw4mPZ2tzheohgXB': 'Paul McCartney', '7mAcgRMD6EfCKHO6cIkDOP': 'Jimmy Fallon', '78xUyw6FkVZrRAtziFdtdu': 'The Roots'}",20,False,Collaboration
+33,4so0Wek9Ig1p6CRCHuINwW,White Christmas,"('White Christmas', 'Bing Crosby')","{'69UfPJgUmFFAVT740qGVZi': 'Ken Darby Singers', '6ZjFtWeHP9XN7FeKSUe80S': 'Bing Crosby', '735L650pvygCZZlPMyHqsN': 'John Scott Trotter & His Orchestra'}",49,False,Collaboration
+34,3wScL5W8H40zzCKN0atfBk,Uproar,"('Uproar', 'Lil Wayne')","{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne', '2cADQgiLMjNhbsfeN52Bf3': 'Swizz Beatz'}",73,True,Collaboration
+35,46pF1zFimM582ss1PrMy68,Christmas (Baby Please Come Home),"('Christmas (Baby Please Come Home)', 'Darlene Love')",{'391oLRVmoTkumiN79HkTWu': 'Darlene Love'},41,False,Solo
+36,698eQRku24PIYPQPHItKlA,She Got the Best of Me,"('She Got The Best Of Me', 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},75,False,Solo
+37,4CH66Rxcjcj3VBHwmIBj4T,BAD!,"('BAD!', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},72,False,Solo
+38,1G4cdOtF36ZCs6i2dZoC87,Drunk Me,"('Drunk Me', 'Mitchell Tenpenny')",{'1p6CdzJRoicjRcSdWoB9Qc': 'Mitchell Tenpenny'},72,False,Solo
+39,3VamXAvVMczcS2PTYtPfBQ,Best Shot,"('Best Shot', 'Jimmie Allen')",{'147nKr9upHZSSxqCzh9j7c': 'Jimmie Allen'},71,False,Solo
+40,6Up545NUflOiXo8cEraH49,You Say,"('You Say', 'Lauren Daigle')",{'40LHVA5BTQp9RxHOQ9JPYj': 'Lauren Daigle'},79,False,Solo
+41,5wujBwqG7INdStqGd4tRMX,Armed And Dangerous,"('Armed And Dangerous', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},79,True,Solo
+42,3EPXxR3ImUwfayaurPi3cm,Be Alright,"('Be Alright', 'Dean Lewis')",{'3QSQFmccmX81fWCUSPTS7y': 'Dean Lewis'},83,True,Solo
+43,3pJkBPHadRAxBBo484RipI,Sixteen,"('Sixteen', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},67,False,Solo
+44,7sTtHHrD0zDpmzQzH3zegz,Consequences,"('Consequences', 'Camila Cabello')",{'4nDoRrQiYLoBzwC5BhVJzF': 'Camila Cabello'},71,False,Solo
+45,577YBGuskWkVDCxZrLRB4v,Pure Cocaine,"('Pure Cocaine', 'Lil Baby')",{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby'},76,True,Solo
+46,2GHO21NrpLapnnfx5z2UL6,Girl Like You,"('Girl Like You', 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},48,False,Solo
+47,5HnXcJJbNXQQ7tRlQ9VN1v,Good Girl,"('Good Girl', 'Dustin Lynch')",{'1dID9zgn0OV0Y8ud7Mh2tS': 'Dustin Lynch'},71,False,Solo
+48,6Gg25EZRbQd4IHiJz2KSY0,Testimony,"('Testimony', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},60,True,Solo
+49,01jIO8SJFnpSiNLH1JaBZ5,You,"('You', 'Jacquees')",{'4tMm1dU6Gn04VAZ9ClHcIZ': 'Jacquees'},70,True,Solo
+50,43zdsphuZLzwA9k4DJhU0I,when the party's over,"(""When The Party's Over"", 'Billie Eilish')",{'6qqNVTkY8uBg9cP3Jd7DAH': 'Billie Eilish'},87,False,Solo
+51,6viHvc13l9A6Ua6xugpeX6,Last Shot,"('Last Shot', 'Kip Moore')",{'2hJPr4lk7Q8SSvCVBl9fWM': 'Kip Moore'},65,False,Solo
+52,7pdF27mSDuPWhppnHAmWHa,whoa (mind in awe),"('whoa (mind in awe)', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},74,False,Solo
+53,2rxQMGVafnNaRaXlRMWPde,Beautiful Crazy,"('Beautiful Crazy', 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},79,False,Solo
+54,5274I4mUMnYczyeXkGDWZN,Fine China,"('Fine China', 'Future & Juice WRLD')","{'1RyvyyTE3xzB2ZywiAwp0i': 'Future', '4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'}",77,True,Collaboration
+55,34DFpyq5NJJ79GnGbbJH3p,This Is It,"('This Is It', 'Scotty McCreery')",{'6ZV6lGY0prbqpTD0Md8i29': 'Scotty McCreery'},71,False,Solo
+56,25sgk305KZfyuqVBQIahim,Sweet but Psycho,"('Sweet But Psycho', 'Ava Max')",{'4npEfmQ6YuiwW1GpUmaq3F': 'Ava Max'},86,False,Solo
+57,05t7JMip6JrLuSrMV5yYjX,Envy Me,"('Envy Me', 'Calboy')",{'0HkcYmcjrBR3SCw9Ld5VZk': 'Calboy'},79,True,Solo
+58,7lAK3oHbfEnvUQWosrMMpR,YOSEMITE,"('Yosemite', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},78,True,Solo
+59,68JS5SFTnW5Yv9Vzw81Jf0,Millionaire,"('Millionaire', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},67,False,Solo
+60,3Ol2xnObFdKV9pmRD2t9x8,Look Back at It,"('Look Back At It', 'A Boogie Wit da Hoodie')",{'31W5EY0aAly4Qieq6OFu6I': 'A Boogie Wit da Hoodie'},81,True,Solo
+61,6XcfKZvJio9Z0fQy11GnNX,broken,"('Broken', 'lovelytheband')",{'4KJ6jujcNPzOyhdNoiNftp': 'lovelytheband'},73,False,Solo
+62,7uqcLJFlSYjVPLUz1vPxkY,Guardian angel,"('Guardian Angel', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},67,True,Solo
+63,5OCJzvD7sykQEKHH7qAC3C,God is a woman,"('God Is A Woman', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},80,True,Solo
+64,4axYWgXASdsCBHuwInAubT,I don’t let go,"(""I Don't Let Go"", 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},66,True,Solo
+65,5lar0mCUejpILVkAz50s2J,Train food,"('Train Food', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},61,True,Solo
+66,57nOpVSc3j9o03Cr928ZM4,what are you so afraid of,"('What Are You So Afraid Of', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},66,False,Solo
+67,4KpKyRFwN0gcwj58Uqjv7q,STARING AT THE SKY,"('Staring At The Sky', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},62,False,Solo
+68,07FkzikE6FuHIa8Ma7zJGc,Lie,"('Lie', 'NF')",{'6fOMl44jA4Sp5b9PpYCkzz': 'NF'},76,False,Solo
+69,5itzep0nGnq7hxCfFNsTIR,difference (interlude),"('Difference (Interlude)', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},63,False,Solo
+70,5c0Vl3yklw5WX9YI36dPLd,That's On Me,"(""That's On Me"", 'Yella Beezy')",{'7kwCkEJ384PWm0UQW3hxjS': 'Yella Beezy'},64,True,Solo
+71,3EQ9QP2E7wjYQba8OSPBst,Intro,"('Intro', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},61,True,Solo
+72,6pUBrvKfJL4qmn95mxU7rC,Respect The Game,"('Respect The Game', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},58,True,Solo
+73,45CCe4gu08OYG1I4MH8TU6,Trauma,"('Trauma', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},57,True,Solo
+74,1bx4Jw8A7GQtImIQGccI6D,Almost Slipped,"('Almost Slipped', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},56,True,Solo
+75,3EikYy40GMSp8l5mDV6IQo,Foot Fungus,"('Foot Fungus', 'Ski Mask The Slump God')",{'2rhFzFmezpnW82MNqEKVry': 'Ski Mask The Slump God'},72,True,Solo
+76,39RWYLt6hgk9BbhkDgaHW9,Crush A Lot,"('Crush A Lot', 'Lil Baby')",{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby'},59,True,Solo
+77,0jqLv5PuEUA0GthFjdtlS1,Oodles O' Noodles Babies,"(""Oodles O' Noodles Babies"", 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},55,True,Solo
+78,7cW1wHpSLYgKWzoWlOCPFJ,Global,"('Global', 'Lil Baby')",{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby'},60,True,Solo
+79,52i143Ph5c3RQaQFBXWix1,Word On The Street,"('Word On The Street', 'Lil Baby')",{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby'},58,True,Solo
+80,2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,"('In My Feelings', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},82,True,Solo
+81,2Kpc6hdJqHCG2tt0JW9pyl,Lose It,"('Lose It', 'Kane Brown')",{'3oSJ7TBVCWMDMiYjXNiCKE': 'Kane Brown'},70,False,Solo
+82,42fw0rxRO2xbesF6mJfd4Y,Tequila,"('Tequila', 'Dan + Shay')",{'7z5WFjZAIYejWy0NI5lv4T': 'Dan + Shay'},73,False,Solo
+83,0TlLq3lA83rQOYtrqBqSct,Nonstop,"('Nonstop', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},81,True,Solo
+84,0At2qAoaVjIwWNAqrscXli,Boo'd Up,"(""Boo'd Up"", 'Ella Mai')",{'7HkdQ0gt53LP4zmHsL0nap': 'Ella Mai'},74,False,Solo
+85,5aXgz1oKK8Q9z9xvTmSnrO,Topanga,"('Topanga', 'Trippie Redd')",{'6Xgp2XMz1fhVYe7i6yNAax': 'Trippie Redd'},75,True,Solo
+86,7wC5eZcFS1Q1BsQ35DU6H4,come out and play,"('Come Out And Play', 'Billie Eilish')",{'6qqNVTkY8uBg9cP3Jd7DAH': 'Billie Eilish'},75,False,Solo
+87,04ZTP5KsCypmtCmQg5tH9R,I'm a Mess,"(""I'm A Mess"", 'Bebe Rexha')",{'64M6ah0SkkRsnPGtGiRAbb': 'Bebe Rexha'},80,False,Solo
+88,6CyJlVAEFlNdpggOLanytL,Hangin' On,"(""Hangin' On"", 'Chris Young')",{'4BYxqVkZyFjtik7crYLg5Q': 'Chris Young'},66,False,Solo
+89,4H0vNUFcHPz5lytcLjwqkr,Rich,"('Rich', 'Maren Morris')",{'6WY7D3jk8zTrHtmkqqo5GI': 'Maren Morris'},61,False,Solo
+90,2oPCR02nduYVpj7CTfsA0d,Blue Tacoma,"('Blue Tacoma', 'Russell Dickerson')",{'1E2AEtxaFaJtH0lO7kgNKw': 'Russell Dickerson'},72,False,Solo
+91,7hDVYcQq6MxkdJGweuCtl9,ocean eyes,"('Ocean Eyes', 'Billie Eilish')",{'6qqNVTkY8uBg9cP3Jd7DAH': 'Billie Eilish'},82,False,Solo
+92,7zLYKWcXnYeHHWidalz7rj,Noticed,"('Noticed', 'Lil Mosey')",{'5zctI4wO9XSKS8XwcnqEHk': 'Lil Mosey'},80,True,Solo
+93,1wjzFQodRWrPcQ0AnYnvQ9,I Like Me Better,"('I Like Me Better', 'Lauv')",{'5JZ7CnR6gTvEMKX4g70Amv': 'Lauv'},82,False,Solo
+94,3ee8Jmje8o58CHK66QrVC2,SAD!,"('Sad!', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},84,True,Solo
+95,3z8h0TU7ReDPLIbEnYhWZb,Bohemian Rhapsody,"('Bohemian Rhapsody', 'Queen')",{'1dfeR4HaWDbWqFHLkxsg1d': 'Queen'},72,False,Solo
+96,1XJBDDpeuZaj5fvmwhdIMw,Take One,"('Take One', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},58,True,Solo
+97,2VX37A1p7tkvrH2UJwAU0T,Desperate Man,"('Desperate Man', 'Eric Church')",{'2IvkS5MXK0vPGnwyJsrEyV': 'Eric Church'},57,False,Solo
+98,4u8Gkqyg87iGSW3hQbbnQZ,Burn the House Down,"('Burn The House Down', 'AJR')",{'6s22t5Y3prQHyaHWUN1R1C': 'AJR'},63,True,Solo
+99,0AcicReEGm1qcENjqzh1Tg,Love Scars 3,"('Love Scars 3', 'Trippie Redd')",{'6Xgp2XMz1fhVYe7i6yNAax': 'Trippie Redd'},70,True,Solo
+100,2RSHsoi04658QL5xgQVov3,Bad Liar,"('Bad Liar', 'Imagine Dragons')",{'53XhwfbYqKCa1cC15pYq2q': 'Imagine Dragons'},82,False,Solo
+101,2rbDhOo9Fh61Bbu23T2qCk,Always Remember Us This Way,"('Always Remember Us This Way', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},79,False,Solo
+102,1SxagO9GK0UUeEYLmH8Pln,Toxic Waste,"('Toxic Waste', 'Trippie Redd')",{'6Xgp2XMz1fhVYe7i6yNAax': 'Trippie Redd'},63,True,Solo
+103,0OgGn1ofaj55l2PcihQQGV,Drew Barrymore,"('Drew Barrymore', 'Bryce Vine')",{'1ShZZUjkbXCjhwrb18BA8I': 'Bryce Vine'},73,True,Solo
+104,514rhnksEwHUh6LxXsQ4Y9,Back To You,"('Back To You', 'Selena Gomez')",{'0C8ZW7ezQVs4URX5aX7Kqx': 'Selena Gomez'},73,False,Solo
+105,6NFyWDv5CjfwuzoCkw47Xf,Delicate,"('Delicate', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},74,False,Solo
+106,1fvCggAYrW0VtCljtqv4h2,Last Memory,"('Last Memory', 'TakeOff')",{'3EW0kQ1skZiK1NHg3Spt9J': 'Takeoff'},61,True,Solo
+107,33471tzU1VghDg9zNgGRpz,Hotel Key,"('Hotel Key', 'Old Dominion')",{'6y8XlgIV8BLlIg1tT1R10i': 'Old Dominion'},68,False,Solo
+108,1jo3TwNGCXfNdB5uba3ZVv,Killshot,"('Killshot', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},76,True,Solo
+109,1B4gJRq61xTs6r1O0Uq2iY,Casper,"('Casper', 'TakeOff')",{'3EW0kQ1skZiK1NHg3Spt9J': 'Takeoff'},71,True,Solo
+110,7azo4rpSUh8nXgtonC6Pkq,Thriller,"('Thriller', 'Michael Jackson')",{'3fMbdgg4jU18AjLCKBhRSm': 'Michael Jackson'},66,False,Solo
+111,09IStsImFySgyp0pIQdqAc,The Middle,"('The Middle', 'Zedd, Maren Morris & Grey')","{'6WY7D3jk8zTrHtmkqqo5GI': 'Maren Morris', '4lDBihdpMlOalxy1jkUbPl': 'Grey', '2qxJFvFYMEDqd7ui6kSAcq': 'Zedd'}",83,False,Collaboration
+112,1kFBLqkTuNKlspkJ1EOGjN,Drunk Girl,"('Drunk Girl', 'Chris Janson')",{'60gmlHZmT16wiO9GiXKYK9': 'Chris Janson'},65,False,Solo
+113,0oagwWkGlBoACUuKvTmqZV,A Million Dreams,"('A Million Dreams', 'P!nk')",{'1KCSPY1glIKqW2TotWuXOR': 'P!nk'},68,False,Solo
+114,0Fpen1PTuEnCmOJtUU9Iud,New Patek,"('New Patek', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},73,True,Solo
+115,7uVkYr8gxcPEgqohvynpdN,Break Up in the End,"('Break Up In The End', 'Cole Swindell')",{'1mfDfLsMxYcOOZkzBxvSVW': 'Cole Swindell'},51,False,Solo
+116,3to5UxKsozb4T6CfwHuhLJ,Kamikaze,"('Kamikaze', 'Lil Mosey')",{'5zctI4wO9XSKS8XwcnqEHk': 'Lil Mosey'},75,True,Solo
+117,2qT1uLXPVPzGgFOx4jtEuo,no tears left to cry,"('No Tears Left To Cry', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},82,False,Solo
+118,2vs5ubqg8QUbfyWZpMfvWe,Astronauts,"('Astronauts', 'Future & Juice WRLD')","{'1RyvyyTE3xzB2ZywiAwp0i': 'Future', '4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'}",61,True,Collaboration
+119,7stcuQtnHL7C6XdPvpwywv,Vertigo,"('Vertigo', 'Khalid')",{'6LuN9FCkKOj5PcnpouEgny': 'Khalid'},67,False,Solo
+120,2EhJijFUs0WUmNClDBpYJq,Make It Back,"('Make It Back', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},62,True,Solo
+121,7jr3iPu4O4bTCVwLMbdU2i,Kiss and Make Up,"('Kiss And Make Up', 'Dua Lipa & BLACKPINK')","{'41MozSoPIsD1dJM0CLPjZF': 'BLACKPINK', '6M2wZ9GZgrQXHCFfjv46we': 'Dua Lipa'}",79,False,Collaboration
+122,3ZPKocroJIcnHGcnJVlLKD,Africa,"('Africa', 'Weezer')",{'3jOstUTkEu2JkjvRdBA5Gu': 'Weezer'},64,False,Solo
+123,3lFf4DnT68QjQGB3iq1BJ9,Meant To Be,"('Meant To Be', 'Bebe Rexha & Florida Georgia Line')",{'2Z88fKsL22PDUEVWwAR1RT': '2017 Dynamo Hitz'},5,False,Solo
+124,4L9Ds4mpD3SuYoWwFUlv16,Simple,"('Simple', 'Florida Georgia Line')",{'3b8QkneNDz4JHKKKlLgYZg': 'Florida Georgia Line'},76,False,Solo
+125,4lFfMRH0YH4pW5gczTDbNC,Medicine,"('Medicine', 'Queen Naija')",{'3nViOFa3kZW8OMSNOzwr98': 'Queen Naija'},69,False,Solo
+126,6Q36XucqrejMId3RydVhch,BIGGEST ALLEY OOP,"('Biggest Alley Oop', 'Quavo')",{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo'},60,True,Solo
+127,7pVzUPjJ83QojsVcOthmxP,HUNCHO DREAMS,"('Huncho Dreams', 'Quavo')",{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo'},51,True,Solo
+128,53yTYusPQJ1AApL1hi0Dnc,"Sunrise, Sunburn, Sunset","('Sunrise, Sunburn, Sunset', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},68,False,Solo
+129,7HdNB8nvJOBwHa8hIkzvxp,"If I'm Lyin, I'm Flyin","(""If I'm Lyin, I'm Flyin"", 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},63,True,Solo
+130,378u8gf9qpJ4ZhxHEvrodl,Is That Alright?,"('Is That Alright?', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},62,False,Solo
+131,0Y7di9ZCmB6Elad5WISaPc,Dedicate,"('Dedicate', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},62,True,Solo
+132,1E1uGhNdBe6Dddbgs2KqtZ,Jumpsuit,"('Jumpsuit', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},73,False,Solo
+133,5HeKOKc4phmLn8e4I7EkzD,My Blood,"('My Blood', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},73,False,Solo
+134,6qNALlmZa1ESnCxJmXE1K9,The Way I Am,"('The Way I Am', 'Charlie Puth')",{'6VuMaDnrHyPL1p4EHjYLi7': 'Charlie Puth'},70,False,Solo
+135,5cGpjfgAvidLy6znwkCxkP,Can't Be Broken,"(""Can't Be Broken"", 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},62,True,Solo
+136,4z2XPrpHz1raJibarWFY7Z,Maybe It's Time,"(""Maybe It's Time"", 'Bradley Cooper')",{'4VIvfOurcf0vuLRxLkGnIG': 'Bradley Cooper'},64,False,Solo
+137,5SehvGGC53A7SZKCLXQcyt,Nico And The Niners,"('Nico And The Niners', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},72,False,Solo
+138,2DnH4XlEkghUdE8ymdVom5,Open Letter,"('Open Letter', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},56,True,Solo
+139,0ubdf6zWT1It2saK41SkO0,Problems,"('Problems', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},54,True,Solo
+140,5s6pKnF3ZPtuqvEx1i1V7U,Hittas,"('Hittas', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},54,True,Solo
+141,7EgI0dCaQuHFe3OTj5EpWI,Open Safe,"('Open Safe', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},56,True,Solo
+142,1Dk3CfJEtqvj7Xg2AWwfEn,Took His Time,"('Took His Time', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},56,True,Solo
+143,6y4pOReFqH2wzo4CV91cZC,Mess,"('Mess', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},57,True,Solo
+144,3BUWNzPWz2mDbptZmGEXpB,Let It All Work Out,"('Let It All Work Out', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},61,True,Solo
+145,68lOQPb5tX8U2cQRuas0L2,Used 2,"('Used 2', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},57,True,Solo
+146,63TyoT9Ee03rQxv8xmdJ2l,RAP DEVIL,"('Rap Devil', 'Machine Gun Kelly')",{'6TIYQ3jFPwQSRmorSezPxX': 'Machine Gun Kelly'},67,True,Solo
+147,1kaxyXcAi5ZHF3Q94QXsHK,Demon,"('Demon', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},55,True,Solo
+148,4E3qImtJzRqLt8ZZyLceOE,Perfect Strangers,"('Perfect Strangers', 'Lil Wayne')",{'55Aa2cqylxrFIXC767Z865': 'Lil Wayne'},55,True,Solo
+149,7gY3cyGcB2wnk2xDXiA0pe,Head Above Water,"('Head Above Water', 'Avril Lavigne')",{'0p4nmQO2msCgU4IF37Wi3j': 'Avril Lavigne'},72,False,Solo
+150,0tgVpDi06FyKpA1z0VMD4v,Perfect,"('Perfect', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},85,False,Solo
+151,3CA9pLiwRIGtUBiMjbZmRw,Nice For What,"('Nice For What', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},80,True,Solo
+152,6DCZcSspjsKoFjzjrWoCdn,God's Plan,"(""God's Plan"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},83,True,Solo
+153,6Poyf51k7W3NKnsGwAI90B,Barbie Dreams,"('Barbie Dreams', 'Nicki Minaj')",{'0hCNtLu0JehylgoiP8L4Gh': 'Nicki Minaj'},66,True,Solo
+154,4VXIryQMWpIdGgYR4TrjT1,All Girls Are The Same,"('All Girls Are The Same', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},80,True,Solo
+155,58QhkbaAkLFnn7JwAnAato,Fall,"('Fall', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},72,True,Solo
+156,4Vxu50qVrQcycjRyJQaZLC,Life Changes,"('Life Changes', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},68,False,Solo
+157,3DV49ruvI5Sl6iisPZAc2c,Hooked,"('Hooked', 'Dylan Scott')",{'78YqeIji3mgAS2K1Maca6x': 'Dylan Scott'},67,False,Solo
+158,7wBJfHzpfI3032CSD7CE2m,STARGAZING,"('Stargazing', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},77,True,Solo
+159,3oDkdAySo1VQQG0ptV7uwa,Lean Wit Me,"('Lean Wit Me', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},77,True,Solo
+160,5bJ1DrEM4hNCafcDd1oxHx,Self Care,"('Self Care', 'Mac Miller')",{'4LLpKhyESsyAXpc4laK94U': 'Mac Miller'},76,True,Solo
+161,2jt2WxXMCD4zjACthkJQVE,The Ringer,"('The Ringer', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},73,True,Solo
+162,2VIPU72L6tIR4w8J8ap6Kp,Mercy,"('Mercy', 'Brett Young')",{'0fiWOxhsBsQQvFDtxUQWo0': 'Brett Young'},70,False,Solo
+163,7B9UAoGiN4iMCv4s40xoiM,Cry Pretty,"('Cry Pretty', 'Carrie Underwood')",{'4xFUf1FHVy696Q1JQZMTRj': 'Carrie Underwood'},58,False,Solo
+164,2gsNpSn7VvvJuSrIDfRoYy,Kamikaze,"('Kamikaze', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},70,True,Solo
+165,7uzmGiiJyRfuViKKK3lVmR,Mine,"('Mine', 'Bazzi')",{'4GvEc3ANtPPjt1ZJllr5Zl': 'Bazzi'},80,True,Solo
+166,5p7GiBZNL1afJJDUrOA6C8,Hurt Feelings,"('Hurt Feelings', 'Mac Miller')",{'4LLpKhyESsyAXpc4laK94U': 'Mac Miller'},70,True,Solo
+167,2XTquzYQAdT1Hk78bOUwsv,Greatest,"('Greatest', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},70,True,Solo
+168,01z2fBGB8Hl3Jd3zXe4IXR,Come Back to Earth,"('Come Back To Earth', 'Mac Miller')",{'4LLpKhyESsyAXpc4laK94U': 'Mac Miller'},70,False,Solo
+169,7p4vHnYXkxlzvfePJVpcTr,Feels Like Summer,"('Feels Like Summer', 'Childish Gambino')",{'73sIBHcqh3Z3NyqHKZ7FOL': 'Childish Gambino'},73,False,Solo
+170,3qN5qMTKyEEmiTZD38BNTT,I'm Upset,"(""I'm Upset"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},73,True,Solo
+171,0wbnC9AUenxp613TYaJsGK,Narcos,"('Narcos', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},73,True,Solo
+172,0evt4UZbdhnHtcAnxkm6A1,Normal,"('Normal', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},66,True,Solo
+173,60Z57Wdrn0pEVpHI7d7GAX,Stepping Stone,"('Stepping Stone', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},67,True,Solo
+174,4j3GWI86JvSaF0BLdmgcfF,Summertime Magic,"('Summertime Magic', 'Childish Gambino')",{'73sIBHcqh3Z3NyqHKZ7FOL': 'Childish Gambino'},73,False,Solo
+175,08bNPGLD8AhKpnnERrAc6G,FRIENDS,"('Friends', 'Marshmello & Anne-Marie')","{'64KEffDW9EtZ1y2vBYgq8T': 'Marshmello', '1zNqDE7qDGCsyzJwohVaoX': 'Anne-Marie'}",82,True,Collaboration
+176,4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,"('Never Be The Same', 'Camila Cabello')",{'4nDoRrQiYLoBzwC5BhVJzF': 'Camila Cabello'},75,False,Solo
+177,0JP9xo3adEtGSdUEISiszL,Moonlight,"('Moonlight', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},84,True,Solo
+178,2ZFrEp20VO25BXYhMxh0GW,Get Along,"('Get Along', 'Kenny Chesney')",{'3grHWM9bx2E9vwJCdlRv9O': 'Kenny Chesney'},56,False,Solo
+179,33b2wX9d0kxqxhi7lcsC1A,Unica,"('Unica', 'Ozuna')",{'1i8SpTcr7yvPOmcqrbnVXY': 'Ozuna'},72,False,Solo
+180,7AFASza1mXqntmGtbxXprO,changes,"('Changes', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},82,False,Solo
+181,5ubwXXOsH9bUhZsQ0Cybha,Level Up,"('Level Up', 'Ciara')",{'2NdeV5rLm47xAvogXrYhJX': 'Ciara'},69,False,Solo
+182,4mHgYpuGHu99Mw69E83CP2,Taking A Walk,"('Taking A Walk', 'Trippie Redd')",{'6Xgp2XMz1fhVYe7i6yNAax': 'Trippie Redd'},74,True,Solo
+183,79Mjfhh393dZdAsTvUFDR6,Don't Go Breaking My Heart,"(""Don't Go Breaking My Heart"", 'Backstreet Boys')",{'5rSXSAkZ67PYJSvpUpkOr7': 'Backstreet Boys'},60,False,Solo
+184,7rC5Pl8rQSX4myONQHYPBK,Mob Ties,"('Mob Ties', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},73,True,Solo
+185,0b9oOr2ZgvyQu88wzixux9,This Is America,"('This Is America', 'Childish Gambino')",{'73sIBHcqh3Z3NyqHKZ7FOL': 'Childish Gambino'},75,True,Solo
+186,2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,"('In My Blood', 'Shawn Mendes')",{'7n2wHs1TKAczGzO7Dd2rGr': 'Shawn Mendes'},81,False,Solo
+187,70khXICDeTTxgYtw3EysKH,sweetener,"('Sweetener', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},71,True,Solo
+188,0WdR2AyLW1Drd3OUdwezM0,everytime,"('Everytime', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},70,True,Solo
+189,1xWH8zYtDeS9mW1JJG23VZ,R.E.M,"('R.E.M', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},70,True,Solo
+190,1mJMD1VIQ7jWTP9DK2zmY0,Kiss Somebody,"('Kiss Somebody', 'Morgan Evans')",{'6fzQ81ouajOEFqCIB9VwrS': 'Morgan Evans'},59,False,Solo
+191,14kYOiFVPb7E7NfFbqhdln,goodnight n go,"('Goodnight N Go', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},70,True,Solo
+192,003eoIwxETJujVWmNFMoZy,Growing Pains,"('Growing Pains', 'Alessia Cara')",{'2wUjUUtkb5lvLKcGKsKqsR': 'Alessia Cara'},59,False,Solo
+193,0XOnMqLQDO89iAg7dWWwnG,pete davidson,"('Pete Davidson', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},67,True,Solo
+194,1e4rwBPVI32vZtTJu7mJ4J,Chun-Li,"('Chun-Li', 'Nicki Minaj')",{'0hCNtLu0JehylgoiP8L4Gh': 'Nicki Minaj'},71,True,Solo
+195,2Yl4OmDby9iitgNWZPwxkd,Be Careful,"('Be Careful', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},71,True,Solo
+196,1xYpVRspgaLxdJLOTQkTjg,STOP TRYING TO BE GOD,"('Stop Trying To Be God', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},69,True,Solo
+197,27a1mYSG5tYg7dmEjWBcmL,CAN'T SAY,"(""Can't Say"", 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},74,True,Solo
+198,20MuVazoNMv6xjKPnRFOxG,WAKE UP,"('Wake Up', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},76,True,Solo
+199,4SZepBIPDRwPaHIjAKwRDb,R.I.P. SCREW,"('R.I.P Screw', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},68,True,Solo
+200,6OaVWaGfhXn70ZJfdVcabn,NO BYSTANDERS,"('No Bystanders', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},70,True,Solo
+201,7KZ5MMVgBVox9ycroB2UrI,CAROUSEL,"('Carousel', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},67,True,Solo
+202,6rDaCGqcQB1urhpCrrD599,Album of the Year - Freestyle,"('Album Of The Year (Freestyle)', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},62,True,Solo
+203,11kDth1aKUEUMq9r1pqyds,5% TINT,"('5% Tint', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},68,True,Solo
+204,7BXW1QCg56yzEBV8pW8pah,Have It All,"('Have It All', 'Jason Mraz')",{'4phGZZrJZRo4ElhRtViYdl': 'Jason Mraz'},66,False,Solo
+205,63SevszngYpZOwf63o61K4,Nevermind,"('Nevermind', 'Dennis Lloyd')",{'3EOEK57CV77D4ovYVcmiyt': 'Dennis Lloyd'},79,False,Solo
+206,6BJbOXDlgVAXSaq6wYFYT2,NC-17,"('NC-17', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},66,True,Solo
+207,4KYS9GK68yeuUJ8vJfPxrq,WHO? WHAT!,"('Who? What!', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},66,True,Solo
+208,6NMtzpDQBTOfJwMzgMX0zl,SKELETONS,"('Skeletons', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},67,True,Solo
+209,4MXhiYIRDMGAuvZc5IFTwC,ASTROTHUNDER,"('Astrothunder', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},69,True,Solo
+210,2cYqizR4lgvp4Qu6IQ3qGN,BUTTERFLY EFFECT,"('Butterfly Effect', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},78,False,Solo
+211,58TaFP5j5i9swOf584yon2,HOUSTONFORNICATION,"('Houstonfornication', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},69,True,Solo
+212,6vnfObZ4Ys70SBAtti1xZ9,COFFEE BEAN,"('Coffee Bean', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},66,True,Solo
+213,3dlCF1mzW1UKMOb4b1XN17,I Was Jack (You Were Diane),"('I Was Jack (You Were Diane)', 'Jake Owen')",{'1n2pb9Tsfe4SwAjmUac6YT': 'Jake Owen'},68,False,Solo
+214,6Qn5zhYkTa37e91HC1D7lb,Whatever It Takes,"('Whatever It Takes', 'Imagine Dragons')",{'53XhwfbYqKCa1cC15pYq2q': 'Imagine Dragons'},80,False,Solo
+215,0STK94RxUulYqWzwFlyAb5,Sober,"('Sober', 'Demi Lovato')",{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato'},74,False,Solo
+216,4BdGO1CaObRD4La9l5Zanz,Sit Next to Me,"('Sit Next To Me', 'Foster The People')",{'7gP3bB2nilZXLfPHJhMdvc': 'Foster The People'},72,False,Solo
+217,4gB7HrYHbJVJ5RFOjxmoq4,One Number Away,"('One Number Away', 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},74,False,Solo
+218,09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,"('Call Out My Name', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},80,False,Solo
+219,3U21A07gAloCc4P7J8rxcn,All Mine,"('All Mine', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},72,True,Solo
+220,3qmm9AdG0TnShv0drgXNIQ,Karma,"('Karma', 'Queen Naija')",{'3nViOFa3kZW8OMSNOzwr98': 'Queen Naija'},67,False,Solo
+221,39N9RPD9MRb5WmoLzNzPeA,X,"('X', 'Nicky Jam x J Balvin')","{'1SupJlEpv7RS2tPNRaHViT': 'Nicky Jam', '1vyhD5VmyZ7KMfW5gqLgo5': 'J Balvin'}",78,False,Collaboration
+222,3EApebexZ7YqDIqw2EMTDh,I Might Need Security,"('I Might Need Security', 'Chance The Rapper')",{'1anyVhU62p31KFi8MEzkbf': 'Chance the Rapper'},64,True,Solo
+223,3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,"('You Should See Me In A Crown', 'Billie Eilish')",{'6qqNVTkY8uBg9cP3Jd7DAH': 'Billie Eilish'},83,False,Solo
+224,5Psnhdkyanjpgc2P8A5TSM,Emotionless,"('Emotionless', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},66,True,Solo
+225,1dUHF4RyMmMTveJ0Rby6Xm,Can’t Take A Joke,"(""Can't Take A Joke"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},68,True,Solo
+226,3szf2z1Cy1QMrtHrbn8rz9,Elevate,"('Elevate', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},66,True,Solo
+227,4n1bdaKwynQndm47x5HqWX,Blue Tint,"('Blue Tint', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},66,True,Solo
+228,1vNoA9F5ASnlBISFekDmg3,Zombie,"('Zombie', 'Bad Wolves')",{'0eI3X5rAzHRZVe5FPk4MN1': 'Bad Wolves'},71,False,Solo
+229,0zqy3ss4CwD6u4QPksS0nI,8 Out Of 10,"('8 Out Of 10', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},64,True,Solo
+230,7MywASx2OFZngfoORjo1yy,31 DAYS,"('31 Days', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},54,True,Solo
+231,6WlxcZKpEV6Bwe9InoVhMp,WIFI LIT,"('Wifi Lit', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},56,True,Solo
+232,7m9OqQk4RVRkw9JJdeAw96,Jocelyn Flores,"('Jocelyn Flores', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},83,True,Solo
+233,6cblRiEGDRNZgowcm951R3,Sandra’s Rose,"(""Sandra's Rose"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},63,True,Solo
+234,4HG1YiGBseVKzjyKcmAJen,Summer Games,"('Summer Games', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},64,False,Solo
+235,4c2xt1trwYZpMqPWY35Xi9,Jaded,"('Jaded', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},68,True,Solo
+236,41a7dZcq30Ss5kPMayWRV0,That’s How You Feel,"(""That's How You Feel"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},65,True,Solo
+237,2yg9UN4eo5eMVJ7OB4RWj3,Survival,"('Survival', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},63,True,Solo
+238,5UVNjOSh27encRBqTpBWup,CUDDLE MY WRIST,"('Cuddle My Wrist', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},53,True,Solo
+239,4lc61NBCDzy2srBHDQeTfN,RACKS BLUE,"('Racks Blue', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},52,True,Solo
+240,2WP8G2pdddDmnh1xbfKBOI,Finesse,"('Finesse', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},66,False,Solo
+241,6tpHfEM8eaETzlPOARYWfZ,Drug Addicts,"('Drug Addicts', 'Lil Pump')",{'3wyVrVrFCkukjdVIdirGVY': 'Lil Pump'},61,True,Solo
+242,7yotKA30dwTKNEGomV9ZsI,KOD,"('KOD', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},73,True,Solo
+243,11L064movtyopGdLiX4sVg,Peak,"('Peak', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},63,True,Solo
+244,1Knctxx9vGZxpZfF66BIEa,Legends,"('Legends', 'Juice WRLD')",{'4MCBfE4596Uoi2O4DtmEMz': 'Juice WRLD'},74,True,Solo
+245,1Tnw0ItH1Macok8gblnPPd,Is There More,"('Is There More', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},62,True,Solo
+246,4SUwJA3eUVNHExxMPEUhQe,Ratchet Happy Birthday,"('Ratchet Happy Birthday', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},61,True,Solo
+247,44Du2IM1bGY7dicmLfXbUs,Final Fantasy,"('Final Fantasy', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},62,True,Solo
+248,09lmraDvzBT3pUQ2rUtJzK,March 14,"('March 14', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},60,True,Solo
+249,44KKhCyI0BGS6LvVyDqJtH,Esskeetit,"('Esskeetit', 'Lil Pump')",{'3wyVrVrFCkukjdVIdirGVY': 'Lil Pump'},68,True,Solo
+250,3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,"('Everybody Dies In Their Nightmares', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},80,True,Solo
+251,1qsHYUd2c1wFGcn7e63QmG,Yikes,"('Yikes', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},68,True,Solo
+252,5eFfsbjSouG8qOpg9ZqDl6,Downtown's Dead,"(""Downtown's Dead"", 'Sam Hunt')",{'2kucQ9jQwuD8jWdtR9Ef38': 'Sam Hunt'},61,False,Solo
+253,5PTG6rrL6EPFD9E2QMI2pl,JAPAN,"('Japan', 'Famous Dex')",{'0WOxhx4hikIsyF3CRPLC8W': 'Famous Dex'},75,True,Solo
+254,4UKCKdYiLN6IMA5ZESUTL7,the remedy for a broken heart (why am I so in love),"('The Remedy For A Broken Heart (Why Am I So In Love)', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},77,True,Solo
+255,5slddJ629YcePvqD6Uyk8r,I Lived It,"('I Lived It', 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},62,False,Solo
+256,1ZAyjvIk9YiD76yYy0TEG6,Plug Walk,"('Plug Walk', 'Rich The Kid')",{'1pPmIToKXyGdsCF6LmqLmI': 'Rich The Kid'},76,True,Solo
+257,1HXy5I3HTWq8OvxCn0z7G7,Heaven,"('Heaven', 'Kane Brown')",{'3oSJ7TBVCWMDMiYjXNiCKE': 'Kane Brown'},76,False,Solo
+258,2ekn2ttSfGqwhhate0LSR0,New Rules,"('New Rules', 'Dua Lipa')",{'6M2wZ9GZgrQXHCFfjv46we': 'Dua Lipa'},81,False,Solo
+259,3T9CfDxFYqZWSKxd0BhZrb,Wait,"('Wait', 'Maroon 5')",{'04gDigrS5kc9YWfZHwBETP': 'Maroon 5'},64,False,Solo
+260,6KuqAtoeVzxAYOaMveLNpH,Dura,"('Dura', 'Daddy Yankee')",{'4VMYDCV2IEDYJArk749S6m': 'Daddy Yankee'},75,False,Solo
+261,76vMKwFtdDDCLcM6zXybjB,Say Amen (Saturday Night),"('Say Amen (Saturday Night)', 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},70,False,Solo
+262,2ZRo7axmMPeSVUvDbGkJah,Hope,"('Hope', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},77,True,Solo
+263,3aW0ds4A4tSQDIp75FqWTo,FAKE LOVE,"('Fake Love', 'BTS')",{'3Nrfpe0tUJi4K4DXYWgMUX': 'BTS'},73,False,Solo
+264,01TnVDiet1DFTsyWKUKovl,NUMB,"('Numb', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},73,False,Solo
+265,17IFY26jZhgQG6mWzCGrTk,Powerglide,"('Powerglide', 'Rae Sremmurd & Juicy J')",{'0kwBswqLAwOSM0PdZAEKaM': '2018 DJ Grime'},0,False,Solo
+266,3A1BaBGT3HgzuDrV9pgX9v,Overdose,"('Overdose', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},61,True,Solo
+267,3nBXOlFTADNvG9nkqy2O2W,"Woman, Amen","('Woman, Amen', 'Dierks Bentley')",{'7x8nK0m0cP2ksQf0mjWdPS': 'Dierks Bentley'},66,False,Solo
+268,6VLEVV3KmHCiGHrY9qlXqB,BOSS,"('Boss', 'The Carters')",{'4fpTMHe34LC5t3h5ztK8qu': 'The Carters'},53,True,Solo
+269,2aI2k39nfa3KFsa4JclQzw,DDU-DU DDU-DU,"('DDU-DU DDU-DU', 'BLACKPINK')",{'41MozSoPIsD1dJM0CLPjZF': 'BLACKPINK'},75,False,Solo
+270,76cy1WJvNGJTj78UqeA5zr,IDGAF,"('IDGAF', 'Dua Lipa')",{'6M2wZ9GZgrQXHCFfjv46we': 'Dua Lipa'},81,True,Solo
+271,1jNg1rfjc7V9wagU9Xjxq2,SUMMER,"('Summer', 'The Carters')",{'4fpTMHe34LC5t3h5ztK8qu': 'The Carters'},50,False,Solo
+272,4RVbK6cV0VqWdpCDcx3hiT,Reborn,"('Reborn', 'KIDS SEE GHOSTS')",{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS'},72,True,Solo
+273,0ZceYubS95hN72WYE6dyPH,NICE,"('Nice', 'The Carters')",{'4fpTMHe34LC5t3h5ztK8qu': 'The Carters'},52,True,Solo
+274,4rBFiGHlaujBGnyQgSdWPh,FRIENDS,"('Friends', 'The Carters')",{'4fpTMHe34LC5t3h5ztK8qu': 'The Carters'},51,True,Solo
+275,3aUFrxO1B8EW63QchEl3wX,Feel The Love,"('Feel The Love', 'KIDS SEE GHOSTS')","{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS', '0ONHkAv9pCAFxb0zJwDNTy': 'Pusha T'}",66,True,Collaboration
+276,2zMDMCtGzTOD8qVHyznGIl,You Make It Easy,"('You Make It Easy', 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},58,False,Solo
+277,7GRTrWsP3yo2Fx8umJfA1X,Freeee (Ghost Town Pt. 2),"('Freeee (Ghost Town, Pt. 2)', 'KIDS SEE GHOSTS')","{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS', '7c0XG5cIJTrrAgEC3ULPiq': 'Ty Dolla $ign'}",60,True,Collaboration
+278,7oHkit3F3vimtsBbnZkU0G,Fire,"('Fire', 'KIDS SEE GHOSTS')",{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS'},61,True,Solo
+279,4kUZvXB3LC3an3HX6h0s17,Cudi Montage,"('Cudi Montage', 'KIDS SEE GHOSTS')",{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS'},64,True,Solo
+280,2I3dW2dCBZAJGj5X21E53k,Kids See Ghosts,"('KIDS SEE GHOSTS', 'KIDS SEE GHOSTS')","{'2hPgGN4uhvXAxiXQBIXOmE': 'KIDS SEE GHOSTS', '6r2niOTnexy9xss5g8GWXH': 'Yasiin Bey'}",62,True,Collaboration
+281,3s7MCdXyWmwjdcWh7GWXas,Violent Crimes,"('Violent Crimes', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},68,True,Solo
+282,3IPkbTA8KkdDXyWtGkfFXa,Singles You Up,"('Singles You Up', 'Jordan Davis')",{'77kULmXAQ6vWer7IIHdGzI': 'Jordan Davis'},64,False,Solo
+283,0yhxBvedRdGxsPZHJNI4VA,I Thought About Killing You,"('I Thought About Killing You', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},61,True,Solo
+284,35KV2Nuib6jPMVN00O8iba,No Mistakes,"('No Mistakes', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},61,True,Solo
+285,6ojicjDYUUoeE1tdSvfFo4,Must've Never Met You,"(""Must've Never Met You"", 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},69,False,Solo
+286,2VdT56BGpdqNHUgOe1j5vc,Rich & Sad,"('Rich & Sad', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},74,True,Solo
+287,7oJrVhiTPZGBXWPwhxjy9S,Lust,"('Lust', 'Lil Skies')",{'7d3WFRME3vBY2cgoP38RDo': 'Lil Skies'},77,True,Solo
+288,3fpVWegR6YOS1Yk5HSMYIq,Paranoid,"('Paranoid', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},75,False,Solo
+289,6cpsixIHI63L0hwh3CwZg3,Infrared,"('Infrared', 'Pusha T')",{'0ONHkAv9pCAFxb0zJwDNTy': 'Pusha T'},53,True,Solo
+290,12y5Aa7lUHD8BBuwYVl88A,King's Dead,"(""King's Dead"", 'Jay Rock, Kendrick Lamar, Future & James Blake')",{'0kwBswqLAwOSM0PdZAEKaM': '2018 DJ Grime'},0,False,Solo
+291,6bGwKHXHNLmTy6yt147FPh,If You Know You Know,"('If You Know You Know', 'Pusha T')",{'0ONHkAv9pCAFxb0zJwDNTy': 'Pusha T'},63,True,Solo
+292,0LG2cFomCi8Fb664Lvr3Nu,For The First Time,"('For The First Time', 'Darius Rucker')",{'7FY5V3XMwlNBPitEjXowHQ': 'Darius Rucker'},64,False,Solo
+293,79LAFAkR1ATb4iIQvZuCL0,Most People Are Good,"('Most People Are Good', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},68,False,Solo
+294,47M0FI03QiAuajGEx5h1Pe,Everyday,"('Everyday', 'Logic & Marshmello')",{'0kwBswqLAwOSM0PdZAEKaM': '2018 DJ Grime'},3,False,Solo
+295,7iEoaTyBCqLaAwJnOP1BTn,The Games We Play,"('The Games We Play', 'Pusha T')",{'0ONHkAv9pCAFxb0zJwDNTy': 'Pusha T'},62,True,Solo
+296,59XHPyb0MTMElZpkG0Wp69,Change Lanes,"('Change Lanes', 'Kevin Gates')",{'1gPhS1zisyXr5dHTYZyiMe': 'Kevin Gates'},59,True,Solo
+297,4caEPudXQ1xDd1garjHPFv,Like That,"('Like That', 'Kris Wu')",{'2lbUjuMzHkT4qIECvk2f3L': 'Kris Wu'},45,False,Solo
+298,5lf3ajySox32qFvGEf2TFM,Southside,"('Southside', 'Lil Baby')",{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby'},61,True,Solo
+299,090R9OdFMbQQksvwuXmNEY,Let It Sing,"('Let It Sing', 'Kevin Gates')",{'1gPhS1zisyXr5dHTYZyiMe': 'Kevin Gates'},54,True,Solo
+300,6XlSyYFTU1nodeWwwzVgTV,Sangria Wine,"('Sangria Wine', 'Pharrell Williams x Camila Cabello')","{'2RdwBSPQiwcmiDo9kixcl8': 'Pharrell Williams', '4nDoRrQiYLoBzwC5BhVJzF': 'Camila Cabello'}",63,False,Collaboration
+301,4H7WNRErSbONkM06blBoGc,Stay,"('Stay', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},77,True,Solo
+302,2UciqgwVDwro0fev3MFbxJ,ATM,"('ATM', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},68,True,Solo
+303,6tZ3b7ik1QDXFAZlXib0YZ,Kevin’s Heart,"(""Kevin's Heart"", 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},72,True,Solo
+304,7fCNUWi6uflDTQ08srxMZk,NO EXCUSES,"('No Excuses', 'Meghan Trainor')",{'6JL8zeS1NmiOftqZTRgdTz': 'Meghan Trainor'},69,False,Solo
+305,5PIfH6BzcmH04RDmtzF0BN,Outside Today,"('Outside Today', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},59,True,Solo
+306,2UVbBKQOdFAekPTRsnkzcf,Stir Fry,"('Stir Fry', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},74,True,Solo
+307,09IOPhEh1OMe0HD9b36FJk,Over Now,"('Over Now', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},74,True,Solo
+308,5lZZmityu9TAjNvSY6GLhR,Zack And Codeine,"('Zack And Codeine', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},71,True,Solo
+309,2HWelwHQS4EdRqIycZOc3O,When We,"('When We', 'Tank')",{'4mwXUEKaW4ftbncf9Hi58l': 'Tank'},61,True,Solo
+310,5ffntNJnJOeFv7b7DCd0Bw,Takin' Shots,"(""Takin' Shots"", 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},71,True,Solo
+311,1D2L6MefbXon28PzIk9I3r,92 Explorer,"('92 Explorer', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},74,True,Solo
+312,2qsQ8eVDPmobZpvDxQCVQu,Barbie Tingz,"('Barbie Tingz', 'Nicki Minaj')",{'0hCNtLu0JehylgoiP8L4Gh': 'Nicki Minaj'},64,True,Solo
+313,4qWCFTuNnmGNdY4egtb4ZY,Otherside,"('Otherside', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},71,True,Solo
+314,1ZemPoaj7LBj1RAQrb89EC,Blame It On Me,"('Blame It On Me', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},70,False,Solo
+315,1k7KigfkZh2Xb6khqV1a0K,Diamond Teeth Samurai,"('Diamond Teeth Samurai', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},59,True,Solo
+316,2HGymMoOdB4ZYv0AAqYmgF,Famous,"('Famous', 'Mason Ramsey')",{'6xvpfMjWTougrRRtK7iikz': 'Mason Ramsey'},54,False,Solo
+317,45RbAX2KxbPdNwUgeYA69j,Preach,"('Preach', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},58,True,Solo
+318,32lItqlMi4LBhb4k0BaSaC,Candy Paint,"('Candy Paint', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},79,True,Solo
+319,0MrRAUcB8AZiB9ue2VOBYe,Sugar Wraith,"('Sugar Wraith', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},71,True,Solo
+320,1AT4xjNarTswd0UZ5FlmKF,Motiv8,"('Motiv8', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},66,True,Solo
+321,0R6Jlsq25eZB3Wftpxi3oF,Jonestown (Interlude),"('Jonestown (Interlude)', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},62,False,Solo
+322,0bhnUFDQFCEHCBlsQfHnj5,Photograph,"('Photograph', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},64,True,Solo
+323,5sWbwccBcyHsg5LEKWGZo9,BRACKETS,"('Brackets', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},61,True,Solo
+324,4h8VwCb1MTGoLKueQ1WgbD,Wake Me Up,"('Wake Me Up!', 'Avicii')",{'1vCWHaC5f2uS3yhpwWbIA6': 'Avicii'},81,False,Solo
+325,1zB4vmk8tFRmM9UULNzbLB,Thunder,"('Thunder', 'Imagine Dragons')",{'53XhwfbYqKCa1cC15pYq2q': 'Imagine Dragons'},84,False,Solo
+326,0Px86mRlxdB3YqpK6KXWlr,Once an Addict - Interlude,"('Once An Addict (Interlude)', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},58,True,Solo
+327,52okn5MNA47tk87PeZJLEL,Let You Down,"('Let You Down', 'NF')",{'6fOMl44jA4Sp5b9PpYCkzz': 'NF'},81,False,Solo
+328,6QgjcU0zLnzq5OrUoSZ3OK,Feel It Still,"('Feel It Still', 'Portugal. The Man')",{'4kI8Ie27vjvonwaB2ePh8T': 'Portugal. The Man'},79,False,Solo
+329,4YwNf1fLZt9IQhJeHNWfBi,Intro,"('Intro', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},55,True,Solo
+330,5vuMtXS5kQ7F0o9V9rG1dG,The Long Way,"('The Long Way', 'Brett Eldredge')",{'0qSX3s5pJnAlSsgsCne8Cz': 'Brett Eldredge'},65,False,Solo
+331,74cVJfmK18rhWnscIpGXjt,Thru Your Phone,"('Thru Your Phone', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},67,True,Solo
+332,75ZvA4QfFiZvzhj2xkaWAh,I Fall Apart,"('I Fall Apart', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},82,True,Solo
+333,7y9iMe8SOB6z3NoHE2OfXl,Bad At Love,"('Bad At Love', 'Halsey')",{'26VFTg2z8YR0cCuwLzESi2': 'Halsey'},76,False,Solo
+334,0OWZFobGSIW9GrSlQ9C5pc,Marry Me,"('Marry Me', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},71,False,Solo
+335,17Yq72h0p15OhCbZ5lJ5gd,Bickenhead,"('Bickenhead', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},63,True,Solo
+336,0aVsVsOYDSEEigiwTrIab9,Let Me,"('Let Me', 'Zayn')",{'5ZsFI1h6hIdQRw2ti0hz81': 'ZAYN'},70,False,Solo
+337,7DKS0rX27cCEPsK0R6tFWS,Wasted Times,"('Wasted Times', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},69,True,Solo
+338,7p2ewixAShLpjDZrnzZK7c,Get Up 10,"('Get Up 10', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},63,True,Solo
+339,1vBeIXlzbAieGoDqInav5j,Money Bag,"('Money Bag', 'Cardi B')",{'4kYSro6naA4h99UJvo89HB': 'Cardi B'},62,True,Solo
+340,5KhFaq45chTw8RGfWo8T8J,BILLY,"('Billy', '6ix9ine')",{'7gZfnEnfiaHzxARJ2LeXrf': '6ix9ine'},72,True,Solo
+341,2p2cCrOaNrIOLk5ArtlHy6,She's With Me,"(""She's With Me"", 'High Valley')",{'5sQqZtsAbXAoAnvA8iN9kN': 'High Valley'},58,False,Solo
+342,2fXwCWkh6YG5zU1IyvQrbs,Broken Clocks,"('Broken Clocks', 'SZA')",{'7tYKF4w9nC0nq9CsPZTHyP': 'SZA'},70,True,Solo
+343,1eFrhAmzoQnTlwvnqvLt7D,Five More Minutes,"('Five More Minutes', 'Scotty McCreery')",{'6ZV6lGY0prbqpTD0Md8i29': 'Scotty McCreery'},65,False,Solo
+344,27oFpFktCq9JIXjJQRuv7a,GOTTI,"('Gotti', '6ix9ine')",{'7gZfnEnfiaHzxARJ2LeXrf': '6ix9ine'},70,True,Solo
+345,4hxfqUojJ5u9SyAjiXevmy,Hardaway,"('Hardaway', ""Derez De'Shon"")",{'1C5vXvYnmVVTKw4GVCKGzM': 'Derez De’Shon'},51,True,Solo
+346,1MKZaAEx8RrzoQjHhVuvgs,Tell Me You Love Me,"('Tell Me You Love Me', 'Demi Lovato')",{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato'},71,False,Solo
+347,4ppTAJUbNXELZcoUaL90wo,Try Me,"('Try Me', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},69,False,Solo
+348,06gD2ZtK3Dzc1BYqWExQJJ,Broken Halos,"('Broken Halos', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},70,False,Solo
+349,2mfahQ0EaaZWq4cFNg6A1o,All on Me,"('All On Me', 'Devin Dawson')",{'2ySHS7UojGu20XfUPaBlyu': 'Devin Dawson'},67,False,Solo
+350,222v3YWai71jHuHjeBCFBs,No Roots,"('No Roots', 'Alice Merton')",{'7f0OLhGgBMX9fUjm1dcPip': 'Alice Merton'},53,False,Solo
+351,4PpuH4mxL0rD35mOWaLoKS,Lemon,"('Lemon', 'N*E*R*D & Rihanna')","{'5wPoxI5si3eJsYYwyXV4Wi': 'N.E.R.D', '2RdwBSPQiwcmiDo9kixcl8': 'Pharrell Williams', '5pKCCKE2ajJHZ9KAiaK11H': 'Rihanna'}",65,True,Collaboration
+352,0Nwar8rweBUyfyuoyjjUvk,Privilege,"('Privilege', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},65,True,Solo
+353,57IRaiAB4hBZu3gnNVZC0v,No Smoke,"('No Smoke', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},68,True,Solo
+354,0709StHzSeXpdj2zmqF2o2,Tempo,"('Tempo', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},63,True,Solo
+355,74ZovzRxHBvCq5yIwe8boh,OKRA,"('OKRA', 'Tyler, The Creator')","{'4V8LLVI7PbaPR0K2TGSxFF': 'Tyler, The Creator'}",64,True,Solo
+356,2hl6q70unbviGo3g1R7uFx,Échame La Culpa,"('Echame La Culpa', 'Luis Fonsi & Demi Lovato')","{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato', '4V8Sr092TqfHkfAA5fXXqG': 'Luis Fonsi'}",71,False,Collaboration
+357,2A69wys3S9uiPSmn6UZWJn,Written in the Sand,"('Written In The Sand', 'Old Dominion')",{'6y8XlgIV8BLlIg1tT1R10i': 'Old Dominion'},71,False,Solo
+358,2DlIwu1iDTILEMXA7MUotn,Beautiful Trauma,"('Beautiful Trauma', 'P!nk')",{'1KCSPY1glIKqW2TotWuXOR': 'P!nk'},67,True,Solo
+359,3tZs3nVjySLbL320lP4mvs,Focus,"('Focus', 'H.E.R.')",{'3Y7RZ31TRPVadSFVy1o8os': 'H.E.R.'},66,False,Solo
+360,34zBwp36K4bllpwnXAlkoN,MotorSport,"('MotorSport', 'Migos, Nicki Minaj & Cardi B')",{'2Z88fKsL22PDUEVWwAR1RT': '2017 Dynamo Hitz'},0,False,Solo
+361,4HbiCvH1R7mVOJ7KY7JQBD,GUMMO,"('Gummo', '6ix9ine')",{'7gZfnEnfiaHzxARJ2LeXrf': '6ix9ine'},68,True,Solo
+362,4vaxvNDaLSoD36iZX515ug,Betrayed,"('Betrayed', 'Lil Xan')",{'3EXdLajEO02ziZ90P90bSW': 'Lil Xan'},73,True,Solo
+363,3e7Y6sfFlIdBMJhX7wpqVO,44 More,"('44 More', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},72,True,Solo
+364,0FbSpY8RPxTRxi1Fpj9Dz9,Booty,"('Booty', 'Blac Youngsta')",{'41klVmDluQZmGGqoidNfbe': 'Blac Youngsta'},60,True,Solo
+365,6V4KHt9xu4TPEnDFoBeacT,Rubbin off the Paint,"('Rubbin Off The Paint', 'YBN Nahmir')",{'3gGUMEwIX6XodWsYEvKSal': 'YBN Nahmir'},69,True,Solo
+366,5Z3GHaZ6ec9bsiI5BenrbY,Young Dumb & Broke,"('Young Dumb & Broke', 'Khalid')",{'6LuN9FCkKOj5PcnpouEgny': 'Khalid'},82,False,Solo
+367,6wmAHw1szh5RCKSRjiXhPe,How Long,"('How Long', 'Charlie Puth')",{'6VuMaDnrHyPL1p4EHjYLi7': 'Charlie Puth'},74,False,Solo
+368,7CkbRn6S0itJqcqn88AtSV,going down!,"('Going Down!', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},67,True,Solo
+369,6ufrOaf4v6Qady6GiIpQ0s,Everybody Hates Me,"('Everybody Hates Me', 'The Chainsmokers')",{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers'},67,False,Solo
+370,7gvd8xj4QgPqbQSsn5pV7d,Sorry Not Sorry,"('Sorry Not Sorry', 'Demi Lovato')",{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato'},79,True,Solo
+371,7u90MSvVyEjL0c8icaE7jl,Contra,"('Contra', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},61,True,Solo
+372,3s3VVLE1kB7Xk2AoJKlGmr,Overnight,"('Overnight', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},60,True,Solo
+373,1GtVGc1UYin3zpMUdNSSpM,Midnight,"('Midnight', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},63,True,Solo
+374,0D5CXSUx8GOCHSY8KWgi9h,Yuck,"('Yuck', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},58,True,Solo
+375,4fZxGiES1FKbNqJPrI4L3s,BoomTrap Protocol,"('BoomTrap Protocol', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},58,True,Solo
+376,6IqEmqDuOVHUQHzYH0pJtu,Stranger Things,"('Stranger Things', 'Joyner Lucas & Chris Brown')",{'0kwBswqLAwOSM0PdZAEKaM': '2018 DJ Grime'},1,False,Solo
+377,2tPcTFiQF9MbVUyjZ3zDhA,Paramedic!,"('Paramedic!', 'SOB X RBE')",{'2TImI3DW7o5MdRXJs4D37h': 'SOB X RBE'},67,True,Solo
+378,3g2qgbWPl8TcgJIkstWpSV,Bodak Yellow (Money Moves),"('Bodak Yellow (Money Moves)', 'Cardi B')",{'2Z88fKsL22PDUEVWwAR1RT': '2017 Dynamo Hitz'},17,False,Solo
+379,2vHfabj6nFebekTYODqntl,Want You Back,"('Want You Back', '5 Seconds Of Summer')",{'5Rl15oVamLq7FbSb0NNBNy': '5 Seconds of Summer'},69,True,Solo
+380,6RSNKGdv3nDTHqgw4bdzyF,Yours,"('Yours', 'Russell Dickerson')",{'1E2AEtxaFaJtH0lO7kgNKw': 'Russell Dickerson'},70,False,Solo
+381,6UsoV6X96Rox9mfxoz7SFy,You Broke Up with Me,"('You Broke Up With Me', 'Walker Hayes')",{'7sKxqpSqbIzphAKAhrqvlf': 'Walker Hayes'},65,False,Solo
+382,0tYHqwTW4s6VuPWDSD7n7K,KOODA,"('Kooda', '6ix9ine')",{'7gZfnEnfiaHzxARJ2LeXrf': '6ix9ine'},65,True,Solo
+383,5gW5dSy3vXJxgzma4rQuzH,Make Me Feel,"('Make Me Feel', 'Janelle Monae')",{'6ueGR6SWhUJfvEhqkvMsVs': 'Janelle Monáe'},67,True,Solo
+384,0QVISdPWRllAmoDBG3DEHU,Rock,"('Rock', 'Plies')",{'3jksrX4oBklxR78ft8gv3j': 'Plies'},53,True,Solo
+385,7qiZfU4dY1lWllzX7mPBI3,Shape of You,"('Shape Of You', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},84,False,Solo
+386,1mXVgsBdtIVeCLJnSnmtdV,Too Good At Goodbyes,"('Too Good At Goodbyes', 'Sam Smith')",{'2wY79sveU1sp5g7SokKOiI': 'Sam Smith'},81,False,Solo
+387,43ZyHQITOjhciSUUNPVRHc,Gucci Gang,"('Gucci Gang', 'Lil Pump')",{'3wyVrVrFCkukjdVIdirGVY': 'Lil Pump'},73,True,Solo
+388,6vlxmQGwmlyp07YjkugV6K,Legends,"('Legends', 'Kelsea Ballerini')",{'3RqBeV12Tt7A8xH3zBDDUF': 'Kelsea Ballerini'},59,False,Solo
+389,0iQ77tSa7ncj7zBPtVx6cU,One Foot,"('One Foot', 'WALK THE MOON')",{'6DIS6PRrLS3wbnZsf7vYic': 'WALK THE MOON'},63,False,Solo
+390,6p01Q7WF857BsAsByBXyaG,Female,"('Female', 'Keith Urban')",{'0u2FHSq3ln94y5Q57xazwf': 'Keith Urban'},45,False,Solo
+391,5ZpjODX6OH1xZs3AOewTO6,Filthy,"('Filthy', 'Justin Timberlake')",{'31TPClRtHm23RisEBtV3X7': 'Justin Timberlake'},59,False,Solo
+392,5qN4HFkapdAOV94XPryVof,Black Panther,"('Black Panther', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},57,True,Solo
+393,31gpXWZEOgWhkEhyVGuOe2,Rewrite The Stars,"('Rewrite The Stars', 'Zac Efron & Zendaya')",{'3ubJycxLEy7j9MMwwEOHfp': '2018 Dynamo Hitz'},9,False,Solo
+394,3T6MAweakkNrMYs8jZIWtg,Like I Loved You,"('Like I Loved You', 'Brett Young')",{'0fiWOxhsBsQQvFDtxUQWo0': 'Brett Young'},66,False,Solo
+395,6waqLPcT6ruMhmd36OhmFO,Losing Sleep,"('Losing Sleep', 'Chris Young')",{'4BYxqVkZyFjtik7crYLg5Q': 'Chris Young'},66,False,Solo
+396,4KTU5aa5s547f1JF5DImhF,Man of the Woods,"('Man Of The Woods', 'Justin Timberlake')",{'31TPClRtHm23RisEBtV3X7': 'Justin Timberlake'},56,False,Solo
+397,4haJoBPbPj9QFKNpp9e8kx,Diplomatic Immunity,"('Diplomatic Immunity', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},56,True,Solo
+398,58kZ9spgxmlEznXGu6FPdQ,Sick Boy,"('Sick Boy', 'The Chainsmokers')",{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers'},73,False,Solo
+399,3AsNVBJ7LHsltdu9490ZiS,A Girl Like You,"('A Girl Like You', 'Easton Corbin')",{'070kGpqtESdDsLb3gdMIyx': 'Easton Corbin'},61,False,Solo
+400,6jT85s2dZ55HBqjXYi2rfI,Supplies,"('Supplies', 'Justin Timberlake')",{'31TPClRtHm23RisEBtV3X7': 'Justin Timberlake'},54,False,Solo
+401,0pqnGHJpmpxLKifKRmU6WP,Believer,"('Believer', 'Imagine Dragons')",{'53XhwfbYqKCa1cC15pYq2q': 'Imagine Dragons'},86,False,Solo
+402,7yt6eiZQCkVFEzwGp4Pbor,Supastars,"('Supastars', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},57,True,Solo
+403,6RKkHI2fkmgZq7uQPPav8f,Gang Gang,"('Gang Gang', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},60,True,Solo
+404,43dOwOq0mB4i6j4SpcSkqC,Higher We Go - Intro,"('Higher We Go (Intro)', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},53,True,Solo
+405,4Kw3CztmD15X1QGDnnHmLD,Auto Pilot,"('Auto Pilot', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},51,True,Solo
+406,0G9rmRmQDFk9O2tzZLyRkc,Emoji A Chain,"('Emoji A Chain', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},54,True,Solo
+407,52ioLaTnO2J7BWY8UN2n9D,Round Here Buzz,"('Round Here Buzz', 'Eric Church')",{'2IvkS5MXK0vPGnwyJsrEyV': 'Eric Church'},62,False,Solo
+408,2fQrGHiQOvpL9UgPvtYy6G,Bank Account,"('Bank Account', '21 Savage')",{'1URnnhqYAYcrqrcwql10ft': '21 Savage'},78,True,Solo
+409,5cF0dROlMOK5uNZtivgu50,Attention,"('Attention', 'Charlie Puth')",{'6VuMaDnrHyPL1p4EHjYLi7': 'Charlie Puth'},80,False,Solo
+410,2yQZwi1P8AkkxxFhQ8rMEK,Greatest Love Story,"('Greatest Love Story', 'LANCO')",{'2lRH2dgU5Kk4Bc5phmII4T': 'LANCO'},72,False,Solo
+411,7hdw5gAGMyyn9z0XgfTv1j,NO NAME,"('No Name', 'NF')",{'6fOMl44jA4Sp5b9PpYCkzz': 'NF'},67,False,Solo
+412,3wdfLVUhmX64lIyWIIEW8s,Ice Tray,"('Ice Tray', 'Quavo & Lil Yachty')","{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6icQOAFXDZKsumw3YXyusw': 'Lil Yachty', '6i392l38cR3uBPF0DbNs7S': 'Quality Control'}",67,True,Collaboration
+413,4ylWMuGbMXNDgDd8lErEle,The Greatest Show,"('The Greatest Show', 'Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble')","{'63nv0hWWDob56Rk8GlNpN8': 'The Greatest Showman Ensemble', '6sCbFbEjbYepqswM1vWjjs': 'Zendaya', '7HV2RI2qNug4EcQqLbCAKS': 'Keala Settle', '6U1dBXJhC8gXFjamvFTmHg': 'Zac Efron', '5F1aoppMtU3OMiltO8ymJ2': 'Hugh Jackman'}",74,False,Collaboration
+414,0Gl5s8IhMmQE5YQwM8Qx1J,Never Enough,"('Never Enough', 'Loren Allred')",{'0LyOADBjj28cbvJWTXUEGA': 'Loren Allred'},75,False,Solo
+415,49K3jbwZmZKaDGTfjpIVg0,My Dawg,"('My Dawg', 'Lil Baby')","{'5f7VJjfbwm532GiveGC0ZK': 'Lil Baby', '0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6i392l38cR3uBPF0DbNs7S': 'Quality Control', '46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black', '3tJoFztHeIJkJWMrx0td2f': 'Moneybagg Yo'}",61,True,Collaboration
+416,609qKv3KPAbdtp0LQH2buA,I'll Name the Dogs,"(""I'll Name The Dogs"", 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},62,False,Solo
+417,6gU9OKjOE7ghfEd55oRO57,The Weekend,"('The Weekend', 'SZA')",{'7tYKF4w9nC0nq9CsPZTHyP': 'SZA'},73,True,Solo
+418,4NiehSBQthimPzRsVeOgCT,My My My!,"('My My My!', 'Troye Sivan')",{'3WGpXCj9YhhfX11TToZcXP': 'Troye Sivan'},73,False,Solo
+419,2yLa0QULdQr0qAIvVwN6B5,...Ready For It?,"('...Ready For It?', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},68,False,Solo
+420,0KKkJNfGyhkQ5aFogxQAPU,That's What I Like,"(""That's What I Like"", 'Bruno Mars')",{'0du5cEVh5yTK9QJze8zA0C': 'Bruno Mars'},81,False,Solo
+421,09iyGiljLWRYXdRazFkdtJ,I Could Use a Love Song,"('I Could Use A Love Song', 'Maren Morris')",{'6WY7D3jk8zTrHtmkqqo5GI': 'Maren Morris'},66,False,Solo
+422,39jXnbACjiaiTwwhsr5sY5,Too Much To Ask,"('Too Much To Ask', 'Niall Horan')",{'1Hsdzj7Dlq2I7tHP7501T4': 'Niall Horan'},73,True,Solo
+423,1psC5iHzQxaTMZ5dWGfM6I,Juice,"('Juice', 'Yo Gotti')",{'6Ha4aES39QiVjR0L2lwuwq': 'Yo Gotti'},56,True,Solo
+424,0Qh38w01QRXK6KHIv0e3hb,What About Us,"('What About Us', 'P!nk')",{'1KCSPY1glIKqW2TotWuXOR': 'P!nk'},74,False,Solo
+425,1JbR9RDP3ogVNEWFgNXAjh,Look What You Made Me Do,"('Look What You Made Me Do', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},73,False,Solo
+426,5w3NgfV8v1nNZFLUBlGHIL,Light It Up,"('Light It Up', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},63,False,Solo
+427,3wGXyJGsCf1myH5MooQIqE,The Race,"('The Race', 'Tay-K')",{'2ODbg2404zUzTi02qIPEjB': 'Tay-K'},73,True,Solo
+428,7J6bnDDitOwfelaJNixHhL,Modern Slavery,"('Modern Slavery', 'Huncho Jack')","{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6extd4B6hl8VTmnlhpl2bY': 'Huncho Jack', '0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'}",61,True,Collaboration
+429,628Ueb4sRiXApObhcU9iPU,Black & Chinese,"('Black & Chinese', 'Huncho Jack')","{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6extd4B6hl8VTmnlhpl2bY': 'Huncho Jack', '0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'}",62,True,Collaboration
+430,7g7raxdQpiLZT7aOlib4S1,Motorcycle Patches,"('Motorcycle Patches', 'Huncho Jack')","{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6extd4B6hl8VTmnlhpl2bY': 'Huncho Jack', '0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'}",64,True,Collaboration
+431,7foypmc7KZyU716Yv63BPe,Saint,"('Saint', 'Huncho Jack')","{'0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '6extd4B6hl8VTmnlhpl2bY': 'Huncho Jack', '0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'}",65,True,Collaboration
+432,4iTyf5pLZMOR8YrEZgSopo,Believe,"('Believe', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},63,True,Solo
+433,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,"('Humble.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},81,True,Solo
+434,7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,"(""There's Nothing Holdin' Me Back"", 'Shawn Mendes')",{'7n2wHs1TKAczGzO7Dd2rGr': 'Shawn Mendes'},81,False,Solo
+435,1mMLMZYXkMueg65jRRWG1l,When It Rains It Pours,"('When It Rains It Pours', 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},77,False,Solo
+436,30MM5jWpUmOxtTNd9Ey5LZ,Unforgettable,"('Unforgettable', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},68,False,Solo
+437,6IvespQWGW4USXwexlVKDm,Untouchable,"('Untouchable', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},53,True,Solo
+438,16QN8cBubEq706vNtPpOME,Love So Soft,"('Love So Soft', 'Kelly Clarkson')",{'3BmGtnKgCSGYIUhmivXKWX': 'Kelly Clarkson'},61,False,Solo
+439,1WIZiOuNO3woKfdlSK2gNn,Transportin',"(""Transportin'"", 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},69,True,Solo
+440,1uL78kFWxhz3umTMWJu8n5,Sauce It Up,"('Sauce It Up', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},69,True,Solo
+441,0jdny0dhgjUwoIp5GkqEaA,Praying,"('Praying', 'Kesha')",{'6LqNN22kT3074XbTVUrhzX': 'Kesha'},74,False,Solo
+442,3Q3myFA7q4Op95DOpHplaY,do re mi,"('Do Re Mi', 'blackbear')",{'2cFrymmkijnjDg9SS92EPM': 'blackbear'},76,True,Solo
+443,2cOUlop2ZakjOKe4WinesN,Slow Hands,"('Slow Hands', 'Niall Horan')",{'1Hsdzj7Dlq2I7tHP7501T4': 'Niall Horan'},75,False,Solo
+444,0s6OWiWGuiCcm1Muzch5A8,Fix a Drink,"('Fix A Drink', 'Chris Janson')",{'60gmlHZmT16wiO9GiXKYK9': 'Chris Janson'},62,False,Solo
+445,5yuShbu70mtHXY0yLzCQLQ,Go Flex,"('Go Flex', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},78,True,Solo
+446,7Hr2XoaGpIMKbNXCZDZ3le,Awful Things,"('Awful Things', 'Lil Peep')","{'2kCcBybjl3SAtIcwdWpUe3': 'Lil Peep', '5g63iWaMJ2UrkZMkCC8dMi': 'Lil Tracy'}",71,True,Collaboration
+447,1Dm4iAvqwYrZjgSFJNW5TG,Every Little Thing,"('Every Little Thing', 'Carly Pearce')",{'4sIl4BTo9l9KqEi0Y3RE72': 'Carly Pearce'},54,False,Solo
+448,5XQMr19TL7Mfksq9zihbOu,Questions,"('Questions', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},65,False,Solo
+449,7GX5flRQZVHRAGd6B4TmDO,XO Tour Llif3,"('XO TOUR Llif3', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},82,True,Solo
+450,1dNIEtp7AY3oDAKCGg2XkH,Something Just Like This,"('Something Just Like This', 'The Chainsmokers & Coldplay')","{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers', '4gzpq5DPGxSnKTe4SA8HAU': 'Coldplay'}",75,False,Collaboration
+451,1GwMQaZz6Au3QLDbjbMdme,Call It What You Want,"('Call It What You Want', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},63,False,Solo
+452,12WvaS3V4dPRBU2o37vX69,Gorgeous,"('Gorgeous', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},66,False,Solo
+453,31x4wWBghN7f5PiEZUmcAW,Smooth,"('Smooth', 'Florida Georgia Line')",{'3b8QkneNDz4JHKKKlLgYZg': 'Florida Georgia Line'},58,False,Solo
+454,7fOPVfABNLg3sxtgXBhBdp,The Plan,"('The Plan', 'G-Eazy')",{'02kJSzxNuaWGqwubyUba0Z': 'G-Eazy'},58,True,Solo
+455,7mldq42yDuxiUNn08nvzHO,Body Like A Back Road,"('Body Like A Back Road', 'Sam Hunt')",{'2kucQ9jQwuD8jWdtR9Ef38': 'Sam Hunt'},77,False,Solo
+456,152lZdxL1OR0ZMW6KquMif,Location,"('Location', 'Khalid')",{'6LuN9FCkKOj5PcnpouEgny': 'Khalid'},80,False,Solo
+457,0w3Q14i073jLoew1hgJkwD,Heartache On The Dance Floor,"('Heartache On The Dance Floor', 'Jon Pardi')",{'4MoAOfV4ROWofLG3a3hhBN': 'Jon Pardi'},72,False,Solo
+458,1B6TmCvKjC4dopBohVW51x,B.E.D.,"('B.E.D.', 'Jacquees')",{'4tMm1dU6Gn04VAZ9ClHcIZ': 'Jacquees'},67,True,Solo
+459,66pxmg3Jhjm09tHoWR1wVR,All the Pretty Girls,"('All The Pretty Girls', 'Kenny Chesney')",{'3grHWM9bx2E9vwJCdlRv9O': 'Kenny Chesney'},68,False,Solo
+460,73WWkaWkIRSP3MYGZ14aY4,More Girls Like You,"('More Girls Like You', 'Kip Moore')",{'2hJPr4lk7Q8SSvCVBl9fWM': 'Kip Moore'},61,False,Solo
+461,3lyeSiAIdLoZUHhV8psOTI,Feed Me Dope,"('Feed Me Dope', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},54,True,Solo
+462,3IJ6BBFLD2I2CH3hHFQj3O,4 da Gang,"('4 Da Gang', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},52,True,Solo
+463,1OG4nxGMy72EklX2DwcN3Z,Bedroom Floor,"('Bedroom Floor', 'Liam Payne')",{'5pUo3fmmHT8bhCyHE52hA6': 'Liam Payne'},64,False,Solo
+464,5uCax9HTNlzGybIStD3vDh,Say You Won't Let Go,"(""Say You Won't Let Go"", 'James Arthur')",{'4IWBUUAFIplrNtaOHcJPRM': 'James Arthur'},82,False,Solo
+465,2YMhrXQYKkm4kXLcXKKd5z,Small Town Boy,"('Small Town Boy', 'Dustin Lynch')",{'1dID9zgn0OV0Y8ud7Mh2tS': 'Dustin Lynch'},73,False,Solo
+466,5zwKfokZAwe4kz68lEHtUf,They Don't Know,"(""They Don't Know"", 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},38,False,Solo
+467,3I7krC8kr0gFR7P6vInR1I,Do I Make You Wanna,"('Do I Make You Wanna', 'Billy Currington')",{'1By9QBFnjZAoI83BZppHlt': 'Billy Currington'},70,False,Solo
+468,2BJpuAoDeQ1QuPvnryfAWK,No Promises,"('No Promises', 'A Boogie Wit da Hoodie')",{'31W5EY0aAly4Qieq6OFu6I': 'A Boogie Wit da Hoodie'},58,True,Solo
+469,3AMnOVxEHUgVrythGgqPhI,Say A',"(""Say A'"", 'A Boogie Wit da Hoodie')",{'31W5EY0aAly4Qieq6OFu6I': 'A Boogie Wit da Hoodie'},64,True,Solo
+470,5SE57ljOIUJ1ybL9U6CuBH,DNA,"('DNA', 'BTS')",{'3Nrfpe0tUJi4K4DXYWgMUX': 'BTS'},71,False,Solo
+471,0wXuerDYiBnERgIpbb3JBR,Redbone,"('Redbone', 'Childish Gambino')",{'73sIBHcqh3Z3NyqHKZ7FOL': 'Childish Gambino'},79,True,Solo
+472,5JW8njiQorZ7m2VHYddTt6,Hi Bich,"('Hi Bich', 'Bhad Bhabie')",{'7DuTB6wdzqFJGFLSH17k8e': 'Bhad Bhabie'},60,True,Solo
+473,08wJ1B9yu9sPeoRa5fbpr3,It Ain't My Fault,"(""It Ain't My Fault"", 'Brothers Osborne')",{'39NR3AUhpbbqKM33vWn2fp': 'Brothers Osborne'},64,False,Solo
+474,0OlS52TmtK2gPaEtdmr7DN,No Such Thing as a Broken Heart,"('No Such Thing As A Broken Heart', 'Old Dominion')",{'6y8XlgIV8BLlIg1tT1R10i': 'Old Dominion'},66,False,Solo
+475,1RouRzlg8OKFeqc6LvdxmB,Felices los 4,"('Felices Los 4', 'Maluma')",{'1r4hJ1h58CWwUQe3MxPuau': 'Maluma'},76,False,Solo
+476,2EWpa5XnAuSn0sIkSSIhYk,Wish I Knew You,"('Wish I Knew You', 'The Revivalists')",{'5kuJibJcwOC53s3OkoGMRA': 'The Revivalists'},68,False,Solo
+477,0VgkVdmE4gld66l8iyGjgx,Mask Off,"('Mask Off', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},78,True,Solo
+478,2qcHhMi1MQBDEtzy8p4tRR,Drinkin' Problem,"(""Drinkin' Problem"", 'Midland')",{'1DTZRmlVZBxx2wRQBtx6yi': 'Midland'},63,False,Solo
+479,6SUxrwVN19Kmd9JfIbjJUj,These Heaux,"('These Heaux', 'Bhad Bhabie')",{'7DuTB6wdzqFJGFLSH17k8e': 'Bhad Bhabie'},56,True,Solo
+480,1e1JKLEDKP7hEQzJfNAgPl,Magnolia,"('Magnolia', 'Playboi Carti')",{'699OTQXzgjhIYAHMy9RyPD': 'Playboi Carti'},74,True,Solo
+481,4iLeL1aYGcQBsYcWIhXIUO,Found You,"('Found You', 'Kane Brown')",{'3oSJ7TBVCWMDMiYjXNiCKE': 'Kane Brown'},62,False,Solo
+482,0kN8xEmgMW9mh7UmDYHlJP,Versace on the Floor,"('Versace On The Floor', 'Bruno Mars')",{'0du5cEVh5yTK9QJze8zA0C': 'Bruno Mars'},74,False,Solo
+483,1QgTBfRN5m81a5K01qens6,444+222,"('444+222', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},61,True,Solo
+484,3izNaTiYdotdPL0Bs76JqO,My Girl,"('My Girl', 'Dylan Scott')",{'78YqeIji3mgAS2K1Maca6x': 'Dylan Scott'},67,False,Solo
+485,10GJQkjRJcZhGTLagFOC62,Most Girls,"('Most Girls', 'Hailee Steinfeld')",{'5p7f24Rk5HkUZsaS3BLG5F': 'Hailee Steinfeld'},75,False,Solo
+486,2ZdCrBA52bb4pIG3tOOZiQ,Dark Queen,"('Dark Queen', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},70,True,Solo
+487,5tRmoZRoupvMYPV1oezFrH,X,"('X', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},60,True,Solo
+488,5TXDeTFVRVY7Cvt0Dw4vWW,Revenge,"('Revenge', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},74,True,Solo
+489,3n2A6l4UayVe3GGKCvfQWV,Somebody Else Will,"('Somebody Else Will', 'Justin Moore')",{'30e8DmahrEamvLbFRPdWmk': 'Justin Moore'},58,False,Solo
+490,37F0uwRSrdzkBiuj0D5UHI,Reminder,"('Reminder', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},70,True,Solo
+491,2H881m3JRA8lpuuwaQL6zy,No Fear,"('No Fear', 'DeJ Loaf')",{'7kFfY4UjNdNyaeUgLIEbIF': 'DeJ Loaf'},63,False,Solo
+492,6HZILIRieu8S0iqY8kIKhj,DNA.,"('DNA.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},77,True,Solo
+493,3tcoEYOZUHKB3RKNByIN13,For Real,"('For Real', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},58,True,Solo
+494,0QV16pno66L6K3fn4W13b7,No Sleep Leak,"('No Sleep Leak', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},58,True,Solo
+495,2H3wWrnO758y0fPH7Ilerg,Depression & Obsession,"('Depression & Obsession', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},71,True,Solo
+496,2UwbhMie1EAYuTZ0QXeMwl,Save Me,"('Save Me', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},69,True,Solo
+497,2yZax79pOrYuyIFVW2cZY2,Carry On,"('Carry On', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},74,True,Solo
+498,7i2DJ88J7jQ8K7zqFX2fW8,Now Or Never,"('Now Or Never', 'Halsey')",{'26VFTg2z8YR0cCuwLzESi2': 'Halsey'},71,False,Solo
+499,6PCUP3dWmTjcTtXY02oFdT,Castle on the Hill,"('Castle On The Hill', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},78,False,Solo
+500,1dFLowBW25EaL2OC7eKEa2,You Look Good,"('You Look Good', 'Lady Antebellum')",{'32WkQRZEVKSzVAAYqukAEA': 'Lady Antebellum'},59,False,Solo
+501,2fGxYYMQbVqgIdaqfz2OwA,Younger Now,"('Younger Now', 'Miley Cyrus')",{'5YGY8feqx7naU7z4HrwZM6': 'Miley Cyrus'},61,False,Solo
+502,6KjbNLbRjuoa8rEq5yNA6H,Honest,"('Honest', 'The Chainsmokers')",{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers'},61,False,Solo
+503,424fL03cevdUjWZdtLMTdP,Flatliner,"('Flatliner', 'Cole Swindell')",{'2Z88fKsL22PDUEVWwAR1RT': '2017 Dynamo Hitz'},0,False,Solo
+504,19yTqpHTUrw7mOcRDvXYzn,For Her,"('For Her', 'Chris Lane')",{'68abRTdO4meYReMWHvBYb0': 'Chris Lane'},59,False,Solo
+505,0bXFIF7iL17TYLyx8JHziM,Patty Cake,"('Patty Cake', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},65,True,Solo
+506,4MofYf0f4ijlVV6elUW5S3,Untouchable,"('Untouchable', 'YoungBoy Never Broke Again')",{'7wlFDEWiM5OoIAt8RSli8b': 'YoungBoy Never Broke Again'},60,True,Solo
+507,2Vf2Pflg5rTWSvSCK4qq4A,Privacy,"('Privacy', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},63,True,Solo
+508,1DA7FEKgQeyRPtU44L5DOf,In Case You Didn't Know,"(""In Case You Didn't Know"", 'Brett Young')",{'0fiWOxhsBsQQvFDtxUQWo0': 'Brett Young'},69,False,Solo
+509,1UZOjK1BwmwWU14Erba9CZ,Malibu,"('Malibu', 'Miley Cyrus')",{'5YGY8feqx7naU7z4HrwZM6': 'Miley Cyrus'},76,False,Solo
+510,2fZQIJew3nkNe99s2PKzul,Bad Liar,"('Bad Liar', 'Selena Gomez')",{'0C8ZW7ezQVs4URX5aX7Kqx': 'Selena Gomez'},72,False,Solo
+511,3muBQDekYAg7jm6hDu6R0Z,First Day Out,"('First Day Out', 'Tee Grizzley')",{'6AUl0ykLLpvTktob97x9hO': 'Tee Grizzley'},71,True,Solo
+512,3umS4y3uQDkqekNjVpiRUs,El Amante,"('El Amante', 'Nicky Jam')",{'1SupJlEpv7RS2tPNRaHViT': 'Nicky Jam'},71,False,Solo
+513,0xG0SHshCStMEyNbNC5d4k,Issues,"('Issues', 'Julia Michaels')",{'0ZED1XzwlLHW4ZaG4lOT6m': 'Julia Michaels'},72,False,Solo
+514,0pSBuHjILhNEo55xK1zrRt,Rolex,"('Rolex', 'Ayo & Teo')",{'27mFvqQj8KpjmdKIqcw1mG': 'Ayo & Teo'},72,False,Solo
+515,5mCPDVBb16L4XQwDdbRUpz,Passionfruit,"('Passionfruit', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},78,True,Solo
+516,1g1TeDflB6atAy7HKwrzXu,Learn To Let Go,"('Learn To Let Go', 'Kesha')",{'6LqNN22kT3074XbTVUrhzX': 'Kesha'},56,False,Solo
+517,6Na5uKk5SsqZimk0hAWo8y,Signs,"('Signs', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},69,False,Solo
+518,2nLtzopw4rPReszdYBJU6h,Numb,"('Numb', 'Linkin Park')",{'6XyY86QOPPrYVGvF9ch6wz': 'Linkin Park'},79,False,Solo
+519,60a0Rd6pjrkxjPbaKzXjfq,In the End,"('In The End', 'Linkin Park')",{'6XyY86QOPPrYVGvF9ch6wz': 'Linkin Park'},81,False,Solo
+520,1GOuHB20lqVyxv3GdxovPY,Issues,"('Issues', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},47,True,Solo
+521,0hjLM1wMtk27Qd4ZihyHmi,Wins & Losses,"('Wins & Losses', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},54,True,Solo
+522,7sLDnUauivS2vN6Z9EfUJT,1942 Flows,"('1942 Flows', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},57,True,Solo
+523,4D4xJ4LyDXBWIf9thFSMAJ,Yours If You Want It,"('Yours If You Want It', 'Rascal Flatts')",{'0a1gHP0HAqALbEyxaD5Ngn': 'Rascal Flatts'},56,False,Solo
+524,6r46lnXFbE9fr2d3KNaGbe,Imitadora,"('Imitadora', 'Romeo Santos')",{'5lwmRuXgjX8xIwlnauTZIP': 'Romeo Santos'},69,False,Solo
+525,1QiwdLAzAnzmiwvoGMXM7b,Heavy Heart,"('Heavy Heart', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},45,True,Solo
+526,6b8Be6ljOzmkOmFslEb23P,24K Magic,"('24K Magic', 'Bruno Mars')",{'0du5cEVh5yTK9QJze8zA0C': 'Bruno Mars'},76,False,Solo
+527,1SJtlNRJDeYHioymcvsqev,Crying in the Club,"('Crying In The Club', 'Camila Cabello')",{'4nDoRrQiYLoBzwC5BhVJzF': 'Camila Cabello'},73,False,Solo
+528,0c4ICGb0jvszKj3KPR59JU,Every Time I Hear That Song,"('Every Time I Hear That Song', 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},58,False,Solo
+529,34oB5r0lcN3fYWCs2uA1k5,The Cure,"('The Cure', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},70,False,Solo
+530,3BuLtAmXKy5uQYl4ED1zBT,Weak,"('Weak', 'AJR')",{'6s22t5Y3prQHyaHWUN1R1C': 'AJR'},69,False,Solo
+531,1EaKU4dMbesXXd3BrLCtYG,ELEMENT.,"('Element.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},70,True,Solo
+532,6xHI9KjUjYT0FPtGO8Mxa1,Hurricane,"('Hurricane', 'Luke Combs')",{'718COspgdWOnwOFpJHRZHS': 'Luke Combs'},76,False,Solo
+533,5BQ10lnTvVY7hw1LRGv9NR,Get Low,"('Get Low', 'Zedd & Liam Payne')",{'3Sg5HEdx7PdMFmU7qRoihI': '2017 DJ Mo Fleeks'},0,False,Solo
+534,6g0TAJ1grweRwBMLQyiZFb,Famous,"('Famous', '21 Savage')",{'1URnnhqYAYcrqrcwql10ft': '21 Savage'},55,True,Solo
+535,6gBFPUFcJLzWGx4lenP6h2,goosebumps,"('Goosebumps', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},82,True,Solo
+536,7KOlJ92bu51cltsD9KU5I7,T-Shirt,"('T-Shirt', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},69,True,Solo
+537,4Q3N4Ct4zCuIHuZ65E3BD4,Tunnel Vision,"('Tunnel Vision', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},72,True,Solo
+538,5Ohxk2dO5COHF1krpoPigN,Sign of the Times,"('Sign Of The Times', 'Harry Styles')",{'6KImCVD70vtIoJWnq6nGn3': 'Harry Styles'},75,False,Solo
+539,21yRtB6B8EMounImAfHRCP,Who Dat Boy,"('Who Dat Boy', 'Tyler, The Creator')","{'13ubrt8QOOCPljQ2FL1Kca': 'A$AP Rocky', '4V8LLVI7PbaPR0K2TGSxFF': 'Tyler, The Creator'}",68,True,Collaboration
+540,4cxMGhkinTocPSVVKWIw0d,Losin Control,"('Losin Control', 'Russ')",{'1z7b1Pr1rSlvWRzsW3HOrS': 'Russ'},75,True,Solo
+541,4n0xztUAbHPUV8G3NQvF30,How Not To,"('How Not To', 'Dan + Shay')",{'7z5WFjZAIYejWy0NI5lv4T': 'Dan + Shay'},66,False,Solo
+542,4Az17HfqonKSWNsaLgTBeK,If I Told You,"('If I Told You', 'Darius Rucker')",{'7FY5V3XMwlNBPitEjXowHQ': 'Darius Rucker'},63,False,Solo
+543,42ydLwx4i5V49RXHOozJZq,Scars To Your Beautiful,"('Scars To Your Beautiful', 'Alessia Cara')",{'2wUjUUtkb5lvLKcGKsKqsR': 'Alessia Cara'},75,False,Solo
+544,7floNISpH8VF4z4459Qo18,Look At Me!,"('Look At Me!', 'XXXTENTACION')",{'15UsOTVnJzReFVN1VCnxy4': 'XXXTENTACION'},76,True,Solo
+545,7AAnFzBtOlgoYceCQoLRUR,First Day Out,"('First Day Out', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},53,True,Solo
+546,6OzujJBXwYPxJ7KeqflLtr,My Old Man,"('My Old Man', 'Zac Brown Band')",{'6yJCxee7QumYr820xdIsjo': 'Zac Brown Band'},57,False,Solo
+547,1HOUzEsetdIPSpAgRPhZQt,Nobody Else but You,"('Nobody Else But You', 'Trey Songz')",{'2iojnBLj0qIMiKPvVhLnsH': 'Trey Songz'},65,False,Solo
+548,6mapJIPnQ23RTAevUoE0DL,Swang,"('Swang', 'Rae Sremmurd')",{'7iZtZyCzp3LItcw1wtPI3D': 'Rae Sremmurd'},72,True,Solo
+549,2lFtnEmkIPm2ClN55e2chV,Black,"('Black', 'Dierks Bentley')",{'7x8nK0m0cP2ksQf0mjWdPS': 'Dierks Bentley'},62,False,Solo
+550,5C6uh95eAL0RBTSGXKQwvk,Hometown Girl,"('Hometown Girl', 'Josh Turner')",{'7vCtweS8UVAXTyau2j0rDT': 'Josh Turner'},67,False,Solo
+551,6UjfByV1lDLW0SOVQA4NAi,Gyalchester,"('Gyalchester', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},68,True,Solo
+552,3ebXMykcMXOcLeJ9xZ17XH,Scared to Be Lonely,"('Scared To Be Lonely', 'Martin Garrix & Dua Lipa')","{'60d24wfXkVzDSfLS6hyCjZ': 'Martin Garrix', '6M2wZ9GZgrQXHCFfjv46we': 'Dua Lipa'}",79,False,Collaboration
+553,58zsLZPvfflaiIbNWoA22O,Human,"('Human', ""Rag'n'Bone Man"")","{'4f9iBmdUOhQWeP7dcAn1pf': ""Rag'n'Bone Man""}",77,False,Solo
+554,15vzANxN8G9wWfwAJLLMCg,Paris,"('Paris', 'The Chainsmokers')",{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers'},74,False,Solo
+555,3Jrs7cC2OJNlNSy9VnDOMZ,Somethin Tells Me,"('Somethin Tells Me', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},58,True,Solo
+556,4qknM1pQz53QOyfDVTjcM9,Me Enamoré,"('Me Enamore', 'Shakira')",{'0EmeFodog0BfCgMzAIvKQp': 'Shakira'},69,False,Solo
+557,2rUwQj4SWaP2anuGDtNpYR,Self-Made,"('Self-Made', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},59,True,Solo
+558,0OVhQZkNe7lh0fQeH96EFW,Don't Get Too High,"(""Don't Get Too High"", 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},52,True,Solo
+559,5GG3knKdxKWrNboRijxeKF,Run Me Dry,"('Run Me Dry', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},66,True,Solo
+560,4IdAIZRVkwuQQnHpi529cn,No Longer Friends,"('No Longer Friends', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},53,True,Solo
+561,7A8OfzqXBHYGk61FZTHoeo,Boy,"('Boy', 'Lee Brice')",{'5Zq7R5qmi58ByYyBQTlNuk': 'Lee Brice'},65,False,Solo
+562,6Wo5YxkdXgwzKQZbDg2r17,Either Way,"('Either Way', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},59,False,Solo
+563,7DEgL4rErTwjrsxLMlUVhf,Any Ol' Barstool,"(""Any Ol' Barstool"", 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},49,False,Solo
+564,5oO3drDxtziYU2H1X23ZIp,Love On The Brain,"('Love On The Brain', 'Rihanna')",{'5pKCCKE2ajJHZ9KAiaK11H': 'Rihanna'},76,True,Solo
+565,6yIdwnpDHufLWgQcveTPMk,I Don’t Wanna Live Forever (Fifty Shades Darker),"(""I Don't Wanna Live Forever (Fifty Shades Darker)"", 'Zayn / Taylor Swift')","{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift', '5ZsFI1h6hIdQRw2ti0hz81': 'ZAYN'}",75,False,Collaboration
+566,0SGkqnVQo9KPytSri1H6cF,Bounce Back,"('Bounce Back', 'Big Sean')",{'0c173mlxpT3dSFRgMO8XPh': 'Big Sean'},74,True,Solo
+567,2sSgZkaAOIfkzNDhndiLvZ,The Weekend,"('The Weekend', 'Brantley Gilbert')",{'5q8HGNo0BjLWaTAhRtbwxa': 'Brantley Gilbert'},57,False,Solo
+568,4AtZRwSR8BOTTQg5ihSggt,PRBLMS,"('Prblms', '6LACK')",{'4IVAbR2w4JJNJDDRFP3E83': '6LACK'},72,True,Solo
+569,2WaOQWSv0D1tZNxyLvnGAI,Yeah Boy,"('Yeah Boy', 'Kelsea Ballerini')",{'3RqBeV12Tt7A8xH3zBDDUF': 'Kelsea Ballerini'},61,False,Solo
+570,7cGFbx7MP0H23iHZTZpqMM,Everybody,"('Everybody', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},68,True,Solo
+571,6mORGLOz79w6VsCRLWYYuK,The Night We Met,"('The Night We Met', 'Lord Huron')",{'6ltzsmQQbmdoHHbLZ4ZN25': 'Lord Huron'},75,False,Solo
+572,0afhq8XCExXpqazXczTSve,Galway Girl,"('Galway Girl', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},79,False,Solo
+573,0Fv5N0cHBsl4bzCbollCAS,Moves,"('Moves', 'Big Sean')",{'0c173mlxpT3dSFRgMO8XPh': 'Big Sean'},65,True,Solo
+574,0ZQfn5nh2TnVE6Q0AT8eXr,Down,"('Down', 'Marian Hill')",{'1xHQO9GJIW9OXHxGBISYc5': 'Marian Hill'},61,False,Solo
+575,1Lm8SfYEBmj1J8GdNUaGEI,CAN’T STOP THE FEELING!,"(""Can't Stop The Feeling!"", 'Justin Timberlake')",{'5bHjVR4F2Tfq4Ha6x7K6wU': 'Rockabye Baby!'},33,False,Solo
+576,2Gl0FzuLxflY6nPifJp5Dr,First Time,"('First Time', 'Kygo & Ellie Goulding')","{'23fqKkggKUBHNkbKtXEls4': 'Kygo', '0X2BH1fck6amBIoJhDVmmJ': 'Ellie Goulding'}",69,False,Collaboration
+577,4BHSjbYylfOH5WAGusDyni,YAH.,"('Yah.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},62,True,Solo
+578,5kRPPEWFJIMox5qIkQkiz5,Sweet Creature,"('Sweet Creature', 'Harry Styles')",{'6KImCVD70vtIoJWnq6nGn3': 'Harry Styles'},71,False,Solo
+579,0t47PyJgXmnUAK5obb0mM2,Call on Me,"('Call On Me', 'Starley')",{'02A3cEvlLLCbIMVDrK2GHV': 'Starley'},41,False,Solo
+580,6U4VqEHy4n5VeiH4pQPL24,You're Welcome,"(""You're Welcome"", 'Dwayne Johnson')",{'1T8S48bD91THNKBByWBDyn': 'Dwayne Johnson'},72,False,Solo
+581,0AS63m1wHv9n4VVRizK6Hc,Mercy,"('Mercy', 'Shawn Mendes')",{'7n2wHs1TKAczGzO7Dd2rGr': 'Shawn Mendes'},79,False,Solo
+582,2LTlO3NuNVN70lp2ZbVswF,FEEL.,"('Feel.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},62,True,Solo
+583,6IZvVAP7VPPnsGX6bvgkqg,PRIDE.,"('Pride.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},63,True,Solo
+584,06FCvd7rrRcF3DdvWH5Isp,LUST.,"('Lust.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},62,True,Solo
+585,6ie2Bw3xLj2JcGowOlcMhb,Green Light,"('Green Light', 'Lorde')",{'163tK9Wjr9P9DmM0AVK7lm': 'Lorde'},71,False,Solo
+586,6mb6lVLNrcUgLnEN8QnDJd,How Far I'll Go,"(""How Far I'll Go"", ""Auli'i Cravalho"")","{'5mnS9jJdKQQcRSqFu5YPVe': ""Auli'i Cravalho""}",72,False,Solo
+587,0w5Bdu51Ka25Pf3hojsKHh,Hard Times,"('Hard Times', 'Paramore')",{'74XFHRwlV6OrjEM0A2NCMF': 'Paramore'},70,False,Solo
+588,23luOrEVHMfoX0AhfbQuS6,FEAR.,"('Fear.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},62,True,Solo
+589,223teZfu22Av10Xl9PxA2n,No Frauds,"('No Frauds', 'Nicki Minaj, Drake & Lil Wayne')",{'2Z88fKsL22PDUEVWwAR1RT': '2017 Dynamo Hitz'},0,False,Solo
+590,5p3NP9mQblDsVJLdfNZJ3I,GOD.,"('God.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},61,True,Solo
+591,6I6NX6tjGsxFAsIfGzY9lJ,Deja Vu,"('Deja Vu', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},68,True,Solo
+592,1n4jwRVXdkK2U34nBDUKKT,BLOOD.,"('Blood.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},58,True,Solo
+593,7f08qp3HROTkfrtNpiYGGo,Dirt On My Boots,"('Dirt On My Boots', 'Jon Pardi')",{'4MoAOfV4ROWofLG3a3hhBN': 'Jon Pardi'},70,False,Solo
+594,0y9uTzK9cNKSAEHnpeRG8C,DUCKWORTH.,"('Duckworth.', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},62,True,Solo
+595,2gYiCTytrSRtuaHP1Nac6u,Fast,"('Fast', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},59,False,Solo
+596,343YBumqHu19cGoGARUTsd,Fake Love,"('Fake Love', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},72,True,Solo
+597,77hjM9bMmgfTGJXv14UFmi,Play That Song,"('Play That Song', 'Train')",{'3FUY2gzHeIiaesXtOAdB7A': 'Train'},66,False,Solo
+598,05KOgYg8PGeJyyWBPi5ja8,Free Smoke,"('Free Smoke', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},63,True,Solo
+599,0PNiEcV45g2TVpNlfYZz7H,Road Less Traveled,"('Road Less Traveled', 'Lauren Alaina')",{'1v3tdpIdBSW14rHUfiEVOv': 'Lauren Alaina'},36,False,Solo
+600,0wfbD5rAksdXUzRvMfM3x5,The One,"('The One', 'The Chainsmokers')",{'69GGBxA162lTqCwzJG5jLp': 'The Chainsmokers'},62,True,Solo
+601,4GkkxswcdEt1tkSyiRzgnC,Draco,"('Draco', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},54,True,Solo
+602,2XlHu0HcujBCkWMdIAvrqt,Blem,"('Blem', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},64,False,Solo
+603,4JjIIBNoho0V2gZjH4nEzR,Think a Little Less,"('Think A Little Less', 'Michael Ray')",{'6ghiFYcwn2Vzl6K50U0UPz': 'Michael Ray'},59,False,Solo
+604,6n3HGiq4v35D6eFOSwqYuo,Teenage Fever,"('Teenage Fever', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},70,True,Solo
+605,2flWhcGYxQHhb1EeeU2dOL,Bar at the End of the World,"('Bar At The End Of The World', 'Kenny Chesney')",{'3grHWM9bx2E9vwJCdlRv9O': 'Kenny Chesney'},54,False,Solo
+606,7dZ1Odmx9jWIweQSatnRqo,Million Reasons,"('Million Reasons', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},77,False,Solo
+607,4vb4mFvYsr2h6enhjJsq9Y,Water Under the Bridge,"('Water Under The Bridge', 'Adele')",{'4dpARuHxo51G3z768sgnrY': 'Adele'},65,False,Solo
+608,4ckQIgBy1gVeevf7UAereE,Tin Man,"('Tin Man', 'Miranda Lambert')",{'66lH4jAE7pqPlOlzUKbwA0': 'Miranda Lambert'},61,False,Solo
+609,1zayuwd1YLZsYDArkruHdL,The Heart Part 4,"('The Heart Part 4', 'Kendrick Lamar')",{'2YZyLoL8N0Wb9xBt1NhZWg': 'Kendrick Lamar'},48,True,Solo
+610,13e6f8t7RKXuxZ0JdaaJRG,Jorja Interlude,"('Jorja Interlude', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},59,True,Solo
+611,76gUmNLXGQVOsGhfcshkFP,Madiba Riddim,"('Madiba Riddim', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},62,False,Solo
+612,2KvHC9z14GSl4YpkNMX384,Do Not Disturb,"('Do Not Disturb', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},68,True,Solo
+613,5f5r2N4Lp9WoULWPH9zp2W,Can't Have Everything,"(""Can't Have Everything"", 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},58,True,Solo
+614,4F7A0DXBrmUAkp32uenhZt,Party Monster,"('Party Monster', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},69,True,Solo
+615,6MbH1QiphMCPTqVEVC7UYi,Nothings Into Somethings,"('Nothings Into Somethings', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},57,False,Solo
+616,2Na0z2gfN67Rzf0vp74Wi3,Lose You,"('Lose You', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},56,True,Solo
+617,2dfqS3MRtbLZSZA1IL8xY5,Skepta Interlude,"('Skepta Interlude', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},57,True,Solo
+618,6i0V12jOa3mr6uu4WYhUBr,Heathens,"('Heathens', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},79,False,Solo
+619,5hTpBe8h35rJ67eAWHQsJx,Caroline,"('Caroline', 'Amine')",{'3Gm5F95VdRxW3mqCn8RPBJ': 'Aminé'},75,True,Solo
+620,0j8zLbIueSkVqB3Tl6PsjA,Regret In Your Tears,"('Regret In Your Tears', 'Nicki Minaj')",{'0hCNtLu0JehylgoiP8L4Gh': 'Nicki Minaj'},53,True,Solo
+621,23TxRN09aR1RB0G0tFoT0b,Better Man,"('Better Man', 'Little Big Town')",{'3CygdxquGHurS7f9LjNLkv': 'Little Big Town'},62,False,Solo
+622,6Nle9hKrkL1wQpwNfEkxjh,Chanel,"('Chanel', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},74,True,Solo
+623,6Kkt27YmFyIFrcX3QXFi2o,Liability,"('Liability', 'Lorde')",{'163tK9Wjr9P9DmM0AVK7lm': 'Lorde'},68,False,Solo
+624,1FUViuNSldssMIawrOXF2i,I Got You,"('I Got You', 'Bebe Rexha')",{'64M6ah0SkkRsnPGtGiRAbb': 'Bebe Rexha'},62,False,Solo
+625,51ChrwmUPDJvedPQnIU8Ls,Dive,"('Dive', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},76,False,Solo
+626,1IO13V09b01gLSbmZJZ9dM,Today,"('Today', 'Brad Paisley')",{'13YmWQJFwgZrd4bf5IjMY4': 'Brad Paisley'},53,False,Solo
+627,2xbI8Vmyv3TkpTdywpPyNw,Selfish,"('Selfish', 'PnB Rock')",{'21WS9wngs9AqFckK7yYJPM': 'PnB Rock'},71,True,Solo
+628,2RttW7RAu5nOAfq6YFvApB,Happier,"('Happier', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},81,False,Solo
+629,1CnPYaKxTVb4LWOtiGOm0m,All Time Low,"('All Time Low', 'Jon Bellion')",{'50JJSqHUf2RQ9xsHs0KMHg': 'Jon Bellion'},71,True,Solo
+630,5HDPtsnyb3maFmPL8LLUTG,New Man,"('New Man', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},70,False,Solo
+631,4VuS959DSpr82t3qBqCrWG,Supermarket Flowers,"('Supermarket Flowers', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},76,False,Solo
+632,2pJZ1v8HezrAoZ0Fhzby92,What Do I Know?,"('What Do I Know?', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},71,False,Solo
+633,6PJ8FF6UR8FZXfEvpHkIVN,How Would You Feel (Paean),"('How Would You Feel (Paean)', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},70,False,Solo
+634,7oolFzHipTMg2nL7shhdz2,Eraser,"('Eraser', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},66,False,Solo
+635,2dfHh7ECGxfNqZTQno09Vk,Hearts Don't Break Around Here,"(""Hearts Don't Break Around Here"", 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},70,False,Solo
+636,3Lfiu5sZ4M4B6JaKMBc0FU,Barcelona,"('Barcelona', 'Ed Sheeran')",{'6eUKZXaKkcviH0Ku9w2n3V': 'Ed Sheeran'},70,False,Solo
+637,1nIyZKYmUsbEowiizbyr2Q,Star Of The Show,"('Star Of The Show', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},56,False,Solo
+638,5sjIhQzNljMVrDklI91ezp,A Guy with a Girl,"('A Guy With A Girl', 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},64,False,Solo
+639,3QGsuHI8jO1Rx4JWLUh9jd,Treat You Better,"('Treat You Better', 'Shawn Mendes')",{'7n2wHs1TKAczGzO7Dd2rGr': 'Shawn Mendes'},82,False,Solo
+640,1r6cyaW7yMykwSyxTuwcuM,Cash Me Outside (#CashmeOutside),"('Cash Me Outside (#CashMeOutside)', 'DJ Suede The Remix God')",{'7z7kN3prU5FQJk32gTDYAW': 'DJ Suede The Remix God'},42,True,Solo
+641,2Kerz9H9IejzeIpjhDJoYG,Love,"('Love', 'Lana Del Rey')",{'00FQb4jTyendYWaN8pK0wa': 'Lana Del Rey'},71,False,Solo
+642,6nxQdXa1uAL0rY72wPZu89,Love Me Now,"('Love Me Now', 'John Legend')",{'5y2Xq6xcjJb2jVM54GHK3t': 'John Legend'},65,False,Solo
+643,4STaHtfguDMkWbPEo6Fwcx,Not Nice,"('Not Nice', 'PARTYNEXTDOOR')",{'2HPaUgqeutzr3jx5a9WyDV': 'PARTYNEXTDOOR'},64,False,Solo
+644,0qvzXomUDJVaUboy2wMfiS,This Town,"('This Town', 'Niall Horan')",{'1Hsdzj7Dlq2I7tHP7501T4': 'Niall Horan'},73,False,Solo
+645,5W9QCBJ6Em0XWX333YrNhc,Rent Money,"('Rent Money', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},56,True,Solo
+646,0Xm8tw6qikotb8FAOZ2ks7,Guys My Age,"('Guys My Age', 'Hey Violet')",{'4JNfz6aO9ZFz0gp5GY88am': 'Hey Violet'},62,True,Solo
+647,7pxhKtuTwofDIdgHx2DcVK,Seein' Red,"(""Seein' Red"", 'Dustin Lynch')",{'1dID9zgn0OV0Y8ud7Mh2tS': 'Dustin Lynch'},58,False,Solo
+648,4XaW4jIud5YxwV4QRJOb40,Super Trapper,"('Super Trapper', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},48,True,Solo
+649,2BOqDYLOJBiMOXShCV1neZ,Dancing On My Own,"('Dancing On My Own', 'Calum Scott')",{'6ydoSd3N2mwgwBHtF6K7eX': 'Calum Scott'},80,False,Solo
+650,2IG6Te7JyvrtqhFeOF7le4,Zoom,"('Zoom', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},47,True,Solo
+651,4S6fv0puLCsfYjyBTPDb9k,Helium,"('Helium', 'Sia')",{'5WUlDfRSoLAfcVSX1WnrxN': 'Sia'},64,False,Solo
+652,6BdAwMv1YorLfkBWlE493X,Héroe Favorito,"('Heroe Favorito', 'Romeo Santos')",{'5lwmRuXgjX8xIwlnauTZIP': 'Romeo Santos'},63,False,Solo
+653,0y1QJc3SJVPKJ1OvFmFqe6,Way Down We Go,"('Way Down We Go', 'Kaleo')",{'7jdFEYD2LTYjfwxOdlVjmc': 'KALEO'},73,False,Solo
+654,78AucGxdmVa4Bx6HwDPOS4,Everything 1k,"('Everything 1K', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},45,True,Solo
+655,1XazlqB4YAtvouCmJPWXlM,Wanna Be That Song,"('Wanna Be That Song', 'Brett Eldredge')",{'0qSX3s5pJnAlSsgsCne8Cz': 'Brett Eldredge'},57,False,Solo
+656,7BiELrM90hRxpozaIXbsLw,Sex With Me,"('Sex With Me', 'Rihanna')",{'5pKCCKE2ajJHZ9KAiaK11H': 'Rihanna'},62,True,Solo
+657,4x3XzqDLZbRF7Ap6MIaJ9a,Bad Romance,"('Bad Romance', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},53,False,Solo
+658,7j56HrjR9cGzvekvZY3Faz,HandClap,"('HandClap', 'Fitz And The Tantrums')",{'4AcHt3JxKy59IX7JNNlZn4': 'Fitz and The Tantrums'},63,False,Solo
+659,4atJ40xfasjdM9ZF3p07BV,Halfway Off The Balcony,"('Halfway Off The Balcony', 'Big Sean')",{'0c173mlxpT3dSFRgMO8XPh': 'Big Sean'},52,True,Solo
+660,1jQsKN68yE94tMYml0wHMd,Jump Out The Window,"('Jump Out The Window', 'Big Sean')",{'0c173mlxpT3dSFRgMO8XPh': 'Big Sean'},68,True,Solo
+661,1u0MOgWF1bbylVxpJG2ZjB,Owe Me,"('Owe Me', 'Big Sean')",{'0c173mlxpT3dSFRgMO8XPh': 'Big Sean'},53,True,Solo
+662,7wMPhUSe6CZga1vOMpLTJP,Beauty and the Beast,"('Beauty And The Beast', 'Ariana Grande & John Legend')","{'5y2Xq6xcjJb2jVM54GHK3t': 'John Legend', '66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'}",65,False,Collaboration
+663,58spuRyMUsjKHQHEGwLC99,80s Mercedes,"('80s Mercedes', 'Maren Morris')",{'6WY7D3jk8zTrHtmkqqo5GI': 'Maren Morris'},62,False,Solo
+664,5qi7piHIt9zwTYYBnIvfNZ,OTW,"('OTW', 'DJ Luke Nasty')",{'1yZwlOVsfrp4wb6d29KkGM': 'DJ Luke Nasty'},49,True,Solo
+665,2CxmktXqJwP9KZv6WJtZCm,Blue Ain't Your Color,"(""Blue Ain't Your Color"", 'Keith Urban')",{'0u2FHSq3ln94y5Q57xazwf': 'Keith Urban'},52,False,Solo
+666,0jOfl1nZf6sVBTG08Q4brn,Call Casting,"('Call Casting', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},53,True,Solo
+667,76Y0gxtTxN0FyDCYh5qYQj,Get Right Witcha,"('Get Right Witcha', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},64,True,Solo
+668,1LZNdHSaGjV2S9q8BrZwnh,If the Boot Fits,"('If The Boot Fits', 'Granger Smith')",{'4sTFGCigAQIUiEy8wSSQNF': 'Granger Smith'},53,False,Solo
+669,5qRRiqndqXaq2QBudIrkYU,Dirty Laundry,"('Dirty Laundry', 'Carrie Underwood')",{'4xFUf1FHVy696Q1JQZMTRj': 'Carrie Underwood'},57,False,Solo
+670,5NDUXbMwcnTQp66tI2zcdR,Fresh Eyes,"('Fresh Eyes', 'Andy Grammer')",{'2oX42qP5ineK3hrhBECLmj': 'Andy Grammer'},69,False,Solo
+671,3MEYFivt6bilQ9q9mFWZ4g,Alone,"('Alone', 'Marshmello')",{'64KEffDW9EtZ1y2vBYgq8T': 'Marshmello'},76,False,Solo
+672,0oiCeOPwm4zhwfyIpAE37y,Love on the Weekend,"('Love On The Weekend', 'John Mayer')",{'0hEurMDQu99nJRq8pTxO14': 'John Mayer'},65,False,Solo
+673,7px4t7HGiuMUvFkEOpZEwp,Song for Another Time,"('Song For Another Time', 'Old Dominion')",{'6y8XlgIV8BLlIg1tT1R10i': 'Old Dominion'},65,False,Solo
+674,6HEIBHUirx1J0JkUD24szt,Water,"('Water', 'Ugly God')",{'3Fdm9TFJQCLmC3AWMuGExi': 'Ugly God'},59,True,Solo
+675,2ANLarE8yHVsLWW21nj79M,You Was Right,"('You Was Right', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},70,True,Solo
+676,23L5CiUhw2jV1OIMwthR3S,In the Name of Love,"('In The Name Of Love', 'Martin Garrix & Bebe Rexha')","{'60d24wfXkVzDSfLS6hyCjZ': 'Martin Garrix', '64M6ah0SkkRsnPGtGiRAbb': 'Bebe Rexha'}",79,False,Collaboration
+677,57IT5XRc5ImuTqxwrFZFdd,Not Afraid Anymore,"('Not Afraid Anymore', 'Halsey')",{'26VFTg2z8YR0cCuwLzESi2': 'Halsey'},52,False,Solo
+678,3cqZH3cqvfbV8wVbvHyPbG,Red Opps,"('Red Opps', '21 Savage')",{'1URnnhqYAYcrqrcwql10ft': '21 Savage'},59,True,Solo
+679,0utlOiJy2weVl9WTkcEWHy,Neighbors,"('Neighbors', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},70,True,Solo
+680,5jROdl6MhcmP3O7h2sVgtw,Parachute,"('Parachute', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},69,False,Solo
+681,2lswu6PLGLtvqemWSnrrY5,Just Hold On,"('Just Hold On', 'Steve Aoki & Louis Tomlinson')",{'5zumHpAnvQ16ZHtgrHZqck': '2016 Dynamo Hitz'},11,False,Solo
+682,0ESJlaM8CE1jRWaNtwSNj8,beibs in the trap,"('Beibs In The Trap', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},69,True,Solo
+683,0D21XvHcVsIvJM6FcGY2BT,OOOUUU,"('OOOUUU', 'Young M.A')",{'7LvoDJUNGnOrPdGRzVtOJ9': 'Young M.A'},62,True,Solo
+684,7Ad0OLsUn63FoD4gnguZz5,Sleep Without You,"('Sleep Without You', 'Brett Young')",{'0fiWOxhsBsQQvFDtxUQWo0': 'Brett Young'},63,False,Solo
+685,6myp8eBOKdeaJm2g8YsOZz,Drinkin' Too Much,"(""Drinkin' Too Much"", 'Sam Hunt')",{'2kucQ9jQwuD8jWdtR9Ef38': 'Sam Hunt'},48,False,Solo
+686,6AGON2BGdPmPMJGiiNuuwl,Immortal,"('Immortal', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},64,True,Solo
+687,3pndPhlQWjuSoXhcIIdBjv,What They Want,"('What They Want', 'Russ')",{'1z7b1Pr1rSlvWRzsW3HOrS': 'Russ'},70,True,Solo
+688,7lGKEWMXVWWTt3X71Bv44I,Unsteady,"('Unsteady', 'X Ambassadors')",{'3NPpFNZtSTHheNBaWC82rB': 'X Ambassadors'},75,False,Solo
+689,2ZekuYUoEIBrUwHOY0gcgB,How I'll Always Be,"(""How I'll Always Be"", 'Tim McGraw')",{'6roFdX1y5BYSbp60OTJWMd': 'Tim McGraw'},53,False,Solo
+690,550rQQCGkrTzvp4SfpOPzx,Hallelujah,"('Hallelujah', 'Pentatonix')",{'26AHtbjWKiwYzsoGoUZq53': 'Pentatonix'},63,False,Solo
+691,7gcMKL3lnDxsp4bIXyv6Zk,Shaky Shaky,"('Shaky Shaky', 'Daddy Yankee')",{'4VMYDCV2IEDYJArk749S6m': 'Daddy Yankee'},66,False,Solo
+692,59eAcAyhYSLi5GKFrgHJzG,Faith,"('Faith', 'George Michael')",{'19ra5tSw0tWufvUp8GotLo': 'George Michael'},41,False,Solo
+693,34oWbFBfGEElvgO0a5c9V4,No Flockin,"('No Flockin', 'Kodak Black')",{'46SHBwWsqBkxI7EeeBEQG7': 'Kodak Black'},68,True,Solo
+694,6ATgDc6e4sPn84hvJsAmPt,hate u love u,"('Hate U Love U', ""Olivia O'Brien"")","{'1QRj3hoop9Mv5VvHQkwPEp': ""Olivia O'Brien""}",76,False,Solo
+695,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?","('Mary, Did You Know?', 'Pentatonix')",{'26AHtbjWKiwYzsoGoUZq53': 'Pentatonix'},52,False,Solo
+696,3pjUyVbFmM96tYhSaKJwTt,Change,"('Change', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},63,True,Solo
+697,0HtOJj7Kl74s1Ngf3MWeif,She's Mine Pt. 1,"(""She's Mine Pt.1"", 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},60,True,Solo
+698,2z3joGXrdGL2iEjIKQTiN1,Ville Mentality,"('Ville Mentality', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},61,True,Solo
+699,3MWlVSkoLS1e66nlZ2tuWJ,For Whom The Bell Tolls,"('For Whom The Bell Tolls', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},58,True,Solo
+700,4mU5iXHeLgbR94siF7p1sY,Six Feet Under,"('Six Feet Under', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},65,True,Solo
+701,77IAeEz8LEchPN8UNjaTJ2,Foldin Clothes,"('Foldin Clothes', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},58,True,Solo
+702,1vvnYpYEMVB4aq9I6tHIEB,4 Your Eyez Only,"('4 Your Eyez Only', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},62,True,Solo
+703,0eneujAc4PxkdjP25Gsue1,False Prophets,"('False Prophets', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},58,True,Solo
+704,1wIQtB3UQ1TfjNMZZqO6eh,everybody dies,"('Everybody Dies', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},59,True,Solo
+705,7lOkmIpzOEOufmOQbLlaHW,Darlin' Don't Go,"(""Darlin' Don't Go"", 'Sundance Head')",{'3HgDVnEnlN20dfe1vvaBXH': 'Sundance Head'},30,False,Solo
+706,2Ch7LmS7r2Gy2kc64wv3Bz,Die For You,"('Die For You', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},72,False,Solo
+707,2Z8WuEywRWYTKe1NybPQEW,Ride,"('Ride', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},80,False,Solo
+708,4pAl7FkDMNBsjykPXo91B3,Needed Me,"('Needed Me', 'Rihanna')",{'5pKCCKE2ajJHZ9KAiaK11H': 'Rihanna'},72,True,Solo
+709,3NJG6vMH1ZsectZkocMEm0,Tiimmy Turner,"('Tiimmy Turner', 'Desiigner')",{'7pFeBzX627ff0VnN6bxPR4': 'Desiigner'},70,True,Solo
+710,00NAQYOP4AmWR549nnYJZu,Secrets,"('Secrets', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},67,False,Solo
+711,31tf1qEai5o5f4r66Kd0pU,Me and Your Mama,"('Me And Your Mama', 'Childish Gambino')",{'73sIBHcqh3Z3NyqHKZ7FOL': 'Childish Gambino'},64,False,Solo
+712,1oGdVdYjeQvojGKDddxLQQ,True Colors,"('True Colors', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},66,False,Solo
+713,38gZVjeaeR3gcnCzziAxBm,Middle of a Memory,"('Middle Of A Memory', 'Cole Swindell')",{'1mfDfLsMxYcOOZkzBxvSVW': 'Cole Swindell'},64,False,Solo
+714,0DnWCEOjCm7AJdmPyuoeJz,Rockin',"(""Rockin'"", 'The Weeknd')",{'72fQWyXObQBgUIUejMo6js': 'Molotov Cocktail Piano'},0,False,Solo
+715,2ACOWPLUe4A4KuQ5ioD2od,That's My Girl,"(""That's My Girl"", 'Fifth Harmony')",{'1l8Fu6IkuTP0U5QetQJ5Xt': 'Fifth Harmony'},69,False,Solo
+716,4oeaIftdpT3JuZLcCkKmVE,False Alarm,"('False Alarm', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},65,False,Solo
+717,6pDVjCUA3B1vg9waKutAsv,Attention,"('Attention', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},62,True,Solo
+718,15k2nBQJ0teDmPZHrOXL2N,Ordinary Life,"('Ordinary Life', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},62,False,Solo
+719,57qiTKh8bVX0VtfUNTQqhw,Nothing Without You,"('Nothing Without You', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},62,False,Solo
+720,0ifooM33X1iBxVYyOkSbXW,A Lonely Night,"('A Lonely Night', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},63,False,Solo
+721,27BgDmciSjoxTG0almHTpZ,Love To Lay,"('Love To Lay', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},61,False,Solo
+722,2wSQyp6VzUopSFBinRo1iD,Distraction,"('Distraction', 'Kehlani')",{'0cGUm45nv7Z6M6qdXYQGTX': 'Kehlani'},61,True,Solo
+723,5yxpevLrtCyza67wiwSVsH,A Little More Summertime,"('A Little More Summertime', 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},36,False,Solo
+724,2IGr3q6ljcpLvHDFLtI0yW,Look Alive,"('Look Alive', 'Rae Sremmurd')",{'7iZtZyCzp3LItcw1wtPI3D': 'Rae Sremmurd'},62,True,Solo
+725,3cCxoOgfi6hgt8MNteuiiD,Fade,"('Fade', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},66,True,Solo
+726,6ZSO7kPn8IMJFymyticbJO,Gold,"('Gold', 'Kiiara')",{'4u5smJBskI6Adzv08PuiUP': 'Kiiara'},68,False,Solo
+727,5YEOzOojehCqxGQCcQiyR4,Panda,"('Panda', 'Desiigner')",{'7pFeBzX627ff0VnN6bxPR4': 'Desiigner'},72,True,Solo
+728,16Ah4QqH4mgYVXqfC4mdSd,LUV,"('Luv', 'Tory Lanez')",{'2jku7tDXc6XoB6MO2hFuqg': 'Tory Lanez'},66,True,Solo
+729,1vvNmPOiUuyCbgWmtc6yfm,My Way,"('My Way', 'Calvin Harris')",{'7CajNmpbOovFoOoasH2HaY': 'Calvin Harris'},75,False,Solo
+730,0ADG9OgdVTL7fgREP75BrZ,Ain't My Fault,"(""Ain't My Fault"", 'Zara Larsson')",{'1Xylc3o4UrD53lo9CvFvVg': 'Zara Larsson'},69,False,Solo
+731,6qoH2pKeEibNUG1pnJIjmZ,Move,"('Move', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},60,False,Solo
+732,4Qtw0HNKSbIRT5sWUnbRXc,Vice,"('Vice', 'Miranda Lambert')",{'66lH4jAE7pqPlOlzUKbwA0': 'Miranda Lambert'},59,False,Solo
+733,4zW7Titqo6iTdhtIl8T3RG,PPAP(Pen-Pineapple-Apple-Pen),"('PPAP (Pen-Pineapple-Apple-Pen)', 'PIKOTARO')",{'37GBT1Lhfc2sgq4jZIt6n2': 'PIKOTARO'},25,False,Solo
+734,01xhMrdCefADl7HSttJaf7,Infinite,"('Infinite', 'Eminem')",{'7dGJo4pcD2V6oG8kP0tJRR': 'Eminem'},53,True,Solo
+735,4BHzQ9C00ceJxfG16AlNWb,Send My Love (To Your New Lover),"('Send My Love (To Your New Lover)', 'Adele')",{'4dpARuHxo51G3z768sgnrY': 'Adele'},69,False,Solo
+736,7yzbimr8WVyAtBX3Eg6UL9,Hallelujah,"('Hallelujah', 'Leonard Cohen')",{'5l8VQNuIg0turYE1VtM9zV': 'Leonard Cohen'},62,False,Solo
+737,3wUX7HpXS382s1DHTRouVk,We The People....,"('We The People....', 'A Tribe Called Quest')",{'09hVIj6vWgoCDtT03h8ZCa': 'A Tribe Called Quest'},55,True,Solo
+738,0iA1unTbTbDOWUSlbwJ1pS,It Don't Hurt Like It Used To,"(""It Don't Hurt Like It Used To"", 'Billy Currington')",{'1By9QBFnjZAoI83BZppHlt': 'Billy Currington'},66,False,Solo
+739,1pwo8l3Ko7idwaz4LVUEC4,Shout Out to My Ex,"('Shout Out To My Ex', 'Little Mix')",{'3e7awlrlDSwF3iM0WBjGMp': 'Little Mix'},75,False,Solo
+740,0Mlm5SrNK34Jqn8Rk1Gs3g,"Sit Still, Look Pretty","('Sit Still, Look Pretty', 'Daya')",{'6Dd3NScHWwnW6obMFbl1BH': 'Daya'},65,False,Solo
+741,0B8QzDH7YWih85V5SEMnyJ,Money Longer,"('Money Longer', 'Lil Uzi Vert')",{'4O15NlyKLIASxsJ0PrXPfz': 'Lil Uzi Vert'},74,True,Solo
+742,6pyshZbArprWRBXLbYVPO9,I Know Somebody,"('I Know Somebody', 'LOCASH')",{'5IcGbIAgdns0R5EJKHMjCQ': 'LOCASH'},57,False,Solo
+743,46IdjlVO3EmaMqooXZ1Hcu,"Wat U Mean (Aye, Aye, Aye)","('Wat U Mean (Aye, Aye, Aye)', 'Dae Dae')",{'41LfjfTCcTCUdykJqNyFw8': 'Dae Dae'},51,True,Solo
+744,0rzNMzZsubFcXSEh7dnem7,Hold Up,"('Hold Up', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},75,True,Solo
+745,1W7zkKgRv9mrLbfdQ8XyH3,Gangsta,"('Gangsta', 'Kehlani')",{'0cGUm45nv7Z6M6qdXYQGTX': 'Kehlani'},68,True,Solo
+746,3RiPr603aXAoi4GHyXx0uy,Hymn for the Weekend,"('Hymn For The Weekend', 'Coldplay')",{'4gzpq5DPGxSnKTe4SA8HAU': 'Coldplay'},75,False,Solo
+747,3m62bJJXGyQKdR9XyRocnl,"Two Birds, One Stone","('Two Birds, One Stone', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},48,True,Solo
+748,0bLwBXrMd3z96utPHeuQDK,On the Regular,"('On The Regular', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},49,True,Solo
+749,7Gs3otHnZDq514kFHf0nx7,Blue Notes,"('Blue Notes', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},62,True,Solo
+750,7lidCG4c4lX6hIRXt0MKVA,Blessed Up,"('Blessed Up', 'Meek Mill')",{'20sxb77xiYeusSH8cVdatc': 'Meek Mill'},46,True,Solo
+751,3tJ4y2Zqx6gM9xOAuFfsSF,Cool Girl,"('Cool Girl', 'Tove Lo')",{'4NHQUGzhtTLFvgF5SZesLK': 'Tove Lo'},67,True,Solo
+752,2meEiZKWkiN28gITzFwQo5,Into You,"('Into You', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},78,False,Solo
+753,3O8NlPh2LByMU9lSRSHedm,Controlla,"('Controlla', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},72,True,Solo
+754,6Az2Ll2CPnWYQ2BgiHf4Di,A-YO,"('A-YO', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},58,False,Solo
+755,56ZrTFkANjeAMiS14njg4E,Perfect Illusion,"('Perfect Illusion', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},64,False,Solo
+756,6Dwtha2FtZFoMEBh5GR2sq,CRZY,"('CRZY', 'Kehlani')",{'0cGUm45nv7Z6M6qdXYQGTX': 'Kehlani'},60,True,Solo
+757,7kJlTKjNZVT26iwiDUVhRm,Blow Your Mind (Mwah),"('Blow Your Mind (Mwah)', 'Dua Lipa')",{'6M2wZ9GZgrQXHCFfjv46we': 'Dua Lipa'},68,True,Solo
+758,4WtkYdCG4n80h08Ep5SmDI,I Met a Girl,"('I Met A Girl', 'William Michael Morgan')",{'03tfKFHhDoDqF73vCI3cxn': 'William Michael Morgan'},52,False,Solo
+759,4pu6lPTEoBRw8mnul2XF5C,Just Like Fire,"('Just Like Fire', 'P!nk')",{'648dUUIlz7RSeg3O8CbTat': 'Midnite String Quartet'},2,False,Solo
+760,4KW1lqgSr8TKrvBII0Brf8,Father Stretch My Hands Pt. 1,"('Father Stretch My Hands Pt. 1', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},71,True,Solo
+761,2wqXQjOmQ9KoBm9Ssgt4Fo,Peter Pan,"('Peter Pan', 'Kelsea Ballerini')",{'3RqBeV12Tt7A8xH3zBDDUF': 'Kelsea Ballerini'},61,False,Solo
+762,5mQNY6pTeSDl2doFB7uLbE,Kids,"('Kids', 'OneRepublic')",{'5Pwc4xIPtQLFEnJriah9YJ': 'OneRepublic'},61,False,Solo
+763,48EjSdYh8wz2gBxxqzrsLe,Cranes in the Sky,"('Cranes In The Sky', 'Solange')",{'2auiVi8sUZo17dLy1HwrTU': 'Solange'},62,False,Solo
+764,0xwPzLmBAYro8BUz7MrtAo,Make You Miss Me,"('Make You Miss Me', 'Sam Hunt')",{'2kucQ9jQwuD8jWdtR9Ef38': 'Sam Hunt'},67,False,Solo
+765,2DHWM8Bm4zuzuH7UOXscJw,LIFTED,"('LIFTED', 'CL')",{'0tzSBCPJZmHTdOA3ZV2mN3': 'CL'},50,False,Solo
+766,7zzoxJbgjme3366mOp5UnH,I Took A Pill In Ibiza,"('I Took A Pill In Ibiza', 'Mike Posner')",{'2KsP6tYLJlTBvSUxnwlVWa': 'Mike Posner'},54,True,Solo
+767,0BCy325UZyR9z0t0uxwn2N,H.O.L.Y.,"('H.O.L.Y.', 'Florida Georgia Line')",{'3b8QkneNDz4JHKKKlLgYZg': 'Florida Georgia Line'},71,False,Solo
+768,5ArQzSBevAdXTxRY6Ulhbq,Mama Said,"('Mama Said', 'Lukas Graham')",{'25u4wHJWxCA9vO0CzxAbK7': 'Lukas Graham'},64,False,Solo
+769,3KwwE4sgCzMaKWq6QBebmX,Me Too,"('Me Too', 'Meghan Trainor')",{'6JL8zeS1NmiOftqZTRgdTz': 'Meghan Trainor'},70,False,Solo
+770,2GICtNjlmq5w1XIQ9s0D9y,With You Tonight (Hasta El Amanecer),"('With You Tonight / Hasta El Amanecer', 'Nicky Jam')",{'1SupJlEpv7RS2tPNRaHViT': 'Nicky Jam'},49,False,Solo
+771,1TGJxtVHgPHKVt6K7sPn1T,You Look Like I Need A Drink,"('You Look Like I Need A Drink', 'Justin Moore')",{'30e8DmahrEamvLbFRPdWmk': 'Justin Moore'},56,False,Solo
+772,5kqIPrATaCc2LqxVWzQGbk,7 Years,"('7 Years', 'Lukas Graham')",{'25u4wHJWxCA9vO0CzxAbK7': 'Lukas Graham'},77,False,Solo
+773,19W5OTEcQI3ZoRW1HERMyy,Cancer,"('Cancer', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},65,False,Solo
+774,4jK1VQQGDnNOLfyVXCxGsR,MY PYT,"('My PYT', 'Wale')",{'67nwj3Y5sZQLl72VNUHEYE': 'Wale'},56,True,Solo
+775,6DaE3A1uIvDqVrVSNvUy6B,Grass Ain't Greener,"(""Grass Ain't Greener"", 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},59,True,Solo
+776,3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out,"('Stressed Out', 'twenty one pilots')",{'3YQKmKGau1PzlVlkL1iodx': 'Twenty One Pilots'},81,False,Solo
+777,27PmvZoffODNFW2p7ehZTQ,Don't Mind,"(""Don't Mind"", 'Kent Jones')",{'3jHBxvZ9gbBkZ17wKUqVsO': 'Kent Jones'},66,True,Solo
+778,1CwNogTShsnsn1C8UhRmYX,Rise,"('Rise', 'Katy Perry')",{'6jJ0s89eD6GaHleKKya26X': 'Katy Perry'},64,False,Solo
+779,3JffB4CABj9lA0NC63kbCp,She's Got a Way with Words,"(""She's Got A Way With Words"", 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},56,False,Solo
+780,3NxAG2ni1lLa8RKL6a0INc,Childs Play,"('Childs Play', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},64,True,Solo
+781,0O1x2tRm8ZpfDbcpOWZp7z,American Country Love Song,"('American Country Love Song', 'Jake Owen')",{'1n2pb9Tsfe4SwAjmUac6YT': 'Jake Owen'},63,False,Solo
+782,0lnIJmgcUpEpe4AZACjayW,Sorry,"('Sorry', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},72,True,Solo
+783,0lQJBl9YEsoMtE8D4yTE9g,From the Ground Up,"('From The Ground Up', 'Dan + Shay')",{'7z5WFjZAIYejWy0NI5lv4T': 'Dan + Shay'},66,False,Solo
+784,7KxhSJOYiqCDclXDBNlFSZ,Kill Em With Kindness,"('Kill Em With Kindness', 'Selena Gomez')",{'0C8ZW7ezQVs4URX5aX7Kqx': 'Selena Gomez'},67,False,Solo
+785,19a3JfW8BQwqHWUMbcqSx8,Famous,"('Famous', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},70,True,Solo
+786,76hfruVvmfQbw0eYn1nmeC,Cake By The Ocean,"('Cake By The Ocean', 'DNCE')",{'6T5tfhQCknKG4UnH90qGnz': 'DNCE'},78,True,Solo
+787,6BbINUfGabVyiNFJpQXn3x,Wicked,"('Wicked', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},60,True,Solo
+788,55OdqrG8WLmsYyY1jijD9b,Wyclef Jean,"('Wyclef Jean', 'Young Thug')",{'50co4Is1HCEo8bhOyUWKpn': 'Young Thug'},65,True,Solo
+789,5fSPbm5lcwtqwXkeQQswW8,Record Year,"('Record Year', 'Eric Church')",{'2IvkS5MXK0vPGnwyJsrEyV': 'Eric Church'},66,False,Solo
+790,67citk3uzWs5qbaIVKTeg8,Church Bells,"('Church Bells', 'Carrie Underwood')",{'4xFUf1FHVy696Q1JQZMTRj': 'Carrie Underwood'},64,False,Solo
+791,50kpGaPAhYJ3sGmk6vplg0,Love Yourself,"('Love Yourself', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},80,False,Solo
+792,19YKaevk2bce4odJkP5L22,Nikes,"('Nikes', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},69,True,Solo
+793,2ZWlPOoWh0626oTaHrnl2a,Ivy,"('Ivy', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},74,True,Solo
+794,3xKsf9qdS1CyvXSMEid6g8,Pink + White,"('Pink + White', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},74,False,Solo
+795,35xSkNIXi504fcEwz9USRB,Solo,"('Solo', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},66,True,Solo
+796,7eqoqGkKwgOaWNNHx90uEZ,Nights,"('Nights', 'Frank Ocean')",{'2h93pZq0e7k5yf4dywlkpM': 'Frank Ocean'},75,True,Solo
+797,7zBPzAjKAqQpcv8F8GCq5s,Uber Everywhere,"('Uber Everywhere', 'MadeinTYO')",{'5SyGEPymt1G2uto47tVWvZ': 'MadeinTYO'},64,True,Solo
+798,6iaJUPHLONFJ02RTeaMuy8,Hit or Miss,"('Hit Or Miss', 'Jacob Sartorius')",{'6czdbISBoxGckbBX8F4m8L': 'Jacob Sartorius'},48,False,Solo
+799,6gXuwld0PRtinePSXV2Vn1,Fix,"('Fix', 'Chris Lane')",{'68abRTdO4meYReMWHvBYb0': 'Chris Lane'},58,False,Solo
+800,7ciLq0Cip0yxiz6KANrOUq,Toothbrush,"('Toothbrush', 'DNCE')",{'6T5tfhQCknKG4UnH90qGnz': 'DNCE'},70,False,Solo
+801,5aPGxR67OwJmu1eEsErW5e,Lights Come On,"('Lights Come On', 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},40,False,Solo
+802,5PNcJn4oFNvlRfrZBHfqWh,Castaway,"('Castaway', 'Zac Brown Band')",{'6yJCxee7QumYr820xdIsjo': 'Zac Brown Band'},62,False,Solo
+803,0gb1J5UrTpzaU1s3nupgCd,No Money,"('No Money', 'Galantis')",{'4sTQVOfp9vEMCemLw50sbu': 'Galantis'},71,False,Solo
+804,7c46IFYepx7IcebqEp0GHM,Wasted Time,"('Wasted Time', 'Keith Urban')",{'0u2FHSq3ln94y5Q57xazwf': 'Keith Urban'},40,False,Solo
+805,3nnG7AM9QopHVPEuLX3Khk,Let It Go,"('Let It Go', 'James Bay')",{'4EzkuveR9pLvDVFNx6foYD': 'James Bay'},72,False,Solo
+806,09CtPGIpYB4BrO8qb1RGsF,Sorry,"('Sorry', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},78,False,Solo
+807,4ly1QBXEwYoDmje9rmEgC4,Head Over Boots,"('Head Over Boots', 'Jon Pardi')",{'4MoAOfV4ROWofLG3a3hhBN': 'Jon Pardi'},72,False,Solo
+808,2YSbHu9XF4bNYWt3MnIhgE,Bohemian Rhapsody,"('Bohemian Rhapsody', 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},62,False,Solo
+809,6BOtDFg6GJm0rPUDuNmx57,Wake Up,"('Wake Up', 'Fetty Wap')",{'6PXS4YHDkKvl1wkIl4V8DL': 'Fetty Wap'},56,True,Solo
+810,0dbzWSYpMcRtwjI1S7Pkql,"Huntin', Fishin' And Lovin' Every Day","(""Huntin', Fishin' & Lovin' Every Day"", 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},66,False,Solo
+811,6Knv6wdA0luoMUuuoYi2i1,My House,"('My House', 'Flo Rida')",{'0jnsk9HBra6NMjO2oANoPY': 'Flo Rida'},74,False,Solo
+812,7l94dyN2hX9c6wWcZQuOGJ,Dangerous Woman,"('Dangerous Woman', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},76,False,Solo
+813,1rIKgCH4H52lrvDcz50hS8,Lush Life,"('Lush Life', 'Zara Larsson')",{'1Xylc3o4UrD53lo9CvFvVg': 'Zara Larsson'},76,False,Solo
+814,3IpG4SvqxHmbZslvDSIIZP,Brand New,"('Brand New', 'Ben Rector')",{'4AapPt7H6bGH4i7chTulpI': 'Ben Rector'},63,False,Solo
+815,46jLy47W8rkf8rEX04gMKB,Wherever I Go,"('Wherever I Go', 'OneRepublic')",{'5Pwc4xIPtQLFEnJriah9YJ': 'OneRepublic'},63,False,Solo
+816,4h0zU3O9R5xzuTmNO7dNDU,Lost Boy,"('Lost Boy', 'Ruth B')",{'2WzaAvm2bBCf4pEhyuDgCY': 'Ruth B.'},75,False,Solo
+817,3Z7mlFcLRRA4CYJOF8XVhn,Girls Talk Boys,"('Girls Talk Boys', '5 Seconds Of Summer')",{'37tDZAbgcfTyqn6JZdTjaz': 'Music Box Mania'},0,False,Solo
+818,7xrA11O07xo57Bbg6p4hck,Body Say,"('Body Say', 'Demi Lovato')",{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato'},62,False,Solo
+819,0l0CvurVUrr2w3Jj1hOVFc,NO,"('No', 'Meghan Trainor')",{'6JL8zeS1NmiOftqZTRgdTz': 'Meghan Trainor'},67,False,Solo
+820,3osQ5lSSqZb8HWRozdbVPw,M.I.L.F. $,"('M.I.L.F. $', 'Fergie')",{'3r17AfJCCUqC9Lf0OAc73G': 'Fergie'},61,True,Solo
+821,5y2pNuAvWcPKiORZ12e44S,Night's On Fire,"(""Night's On Fire"", 'David Nail')",{'4DZGvSv2oMkBUnPz67E6z6': 'David Nail'},60,False,Solo
+822,5NORWMFC27ywGSZxi8uquP,Ophelia,"('Ophelia', 'The Lumineers')",{'16oZKvXb6WkQlVAjwo2Wbg': 'The Lumineers'},68,False,Solo
+823,0PDUDa38GO8lMxLCRc4lL1,PILLOWTALK,"('Pillowtalk', 'Zayn')",{'5ZsFI1h6hIdQRw2ti0hz81': 'ZAYN'},75,True,Solo
+824,6jaywaMM3ieLkZxPSFyS9C,T-Shirt,"('T-Shirt', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},47,False,Solo
+825,0XN2BcoaKE4Z2hnq1ZeDY1,Noise,"('Noise', 'Kenny Chesney')",{'3grHWM9bx2E9vwJCdlRv9O': 'Kenny Chesney'},53,False,Solo
+826,1N7qGCKRRnvjoy8MGyHgpS,Came Here to Forget,"('Came Here To Forget', 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},59,False,Solo
+827,44TuSOP6xIAEeJmZsN3nXO,Bored To Death,"('Bored To Death', 'Blink-182')",{'6FBDaR13swtiWwGhX1WQsP': 'blink-182'},61,False,Solo
+828,0PJIbOdMs3bd5AT8liULMQ,oui,"('Oui', 'Jeremih')",{'3KV3p5EY4AvKxOlhGHORLg': 'Jeremih'},72,False,Solo
+829,0PAj9Y5kFEzhGeWkockoxv,Wild Things,"('Wild Things', 'Alessia Cara')",{'2wUjUUtkb5lvLKcGKsKqsR': 'Alessia Cara'},63,False,Solo
+830,1Cj2vqUwlJVG27gJrun92y,The Sound of Silence,"('The Sound Of Silence', 'Disturbed')",{'3TOqt5oJwL9BE2NG9MEwDa': 'Disturbed'},72,False,Solo
+831,433P7tDcIAi6NLnf4Sh6tI,Still Here,"('Still Here', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},61,True,Solo
+832,5NFYuqu8V6QXc6mzcLImd6,Hype,"('Hype', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},60,True,Solo
+833,2c8sgbZoEanC3QyFNZxUcA,Flexicution,"('Flexicution', 'Logic')",{'4xRYI6VqpkE3UwrDrAZL8L': 'Logic'},65,True,Solo
+834,10I3CmmwT0BkOVhduDy53o,Really Really,"('Really Really', 'Kevin Gates')",{'1gPhS1zisyXr5dHTYZyiMe': 'Kevin Gates'},68,True,Solo
+835,1N3dZ7TTWO6VcD4Y3hHYLZ,Try Everything,"('Try Everything', 'Shakira')",{'0EmeFodog0BfCgMzAIvKQp': 'Shakira'},66,False,Solo
+836,2nBI3iWLhupR7LyAJ5GGkE,Champions,"('Champions', 'Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner')","{'7pFeBzX627ff0VnN6bxPR4': 'Desiigner', '6Ha4aES39QiVjR0L2lwuwq': 'Yo Gotti', '13y7CgLHjMVRMDqxdx0Xdo': 'Gucci Mane', '17lzZA2AlOHwCwFALHttmp': '2 Chainz', '0VRj0yCOv2FXJNP47XQnx5': 'Quavo', '5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West', '0c173mlxpT3dSFRgMO8XPh': 'Big Sean', '0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'}",66,True,Collaboration
+837,2oaK4JLVnmRGIO9ytBE1bt,Dark Necessities,"('Dark Necessities', 'Red Hot Chili Peppers')",{'0L8ExT028jH3ddEcZwqJJ5': 'Red Hot Chili Peppers'},71,False,Solo
+838,0wdKiSBUT7aZkXUIdJWcwC,2 Phones,"('2 Phones', 'Kevin Gates')",{'1gPhS1zisyXr5dHTYZyiMe': 'Kevin Gates'},68,True,Solo
+839,4Pn0JlCUusD2QHjADuOzuV,Humble And Kind,"('Humble And Kind', 'Tim McGraw')",{'6roFdX1y5BYSbp60OTJWMd': 'Tim McGraw'},66,False,Solo
+840,7IYU41rxDOremaBZi0vEMn,What the World Needs Now Is Love,"('What The World Needs Now Is Love', 'Broadway For Orlando')",{'6For8X8tvxvDol46ZOQrtr': 'Broadway for Orlando'},13,False,Solo
+841,2I5ao7JannZZMlweLTz0hO,Ain't No Stopping Us Now,"(""Ain't No Stopping Us Now"", 'Kane Brown')",{'3oSJ7TBVCWMDMiYjXNiCKE': 'Kane Brown'},52,False,Solo
+842,0UHB9METy4VCXNgkcGqHqS,Kiss It Better,"('Kiss It Better', 'Rihanna')",{'5pKCCKE2ajJHZ9KAiaK11H': 'Rihanna'},64,True,Solo
+843,43PuMrRfbyyuz4QpZ3oAwN,Exchange,"('Exchange', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},76,True,Solo
+844,5CG9Ps5ynNjpKJHmwc95pa,Somewhere On A Beach,"('Somewhere On A Beach', 'Dierks Bentley')",{'7x8nK0m0cP2ksQf0mjWdPS': 'Dierks Bentley'},66,False,Solo
+845,0B3LaidsxjnBTUlKgKQQe5,Sweatshirt,"('Sweatshirt', 'Jacob Sartorius')",{'6czdbISBoxGckbBX8F4m8L': 'Jacob Sartorius'},50,False,Solo
+846,7gHs73wELdeycvS48JfIos,Faded,"('Faded', 'Alan Walker')",{'7vk5e3vY1uw9plTHJAMwjN': 'Alan Walker'},75,False,Solo
+847,1LM5zQv5pBKPyO7rm7Uz6U,My Church,"('My Church', 'Maren Morris')",{'6WY7D3jk8zTrHtmkqqo5GI': 'Maren Morris'},66,False,Solo
+848,7I5fYc4qKJddht8Ozhqqdx,Snapback,"('Snapback', 'Old Dominion')",{'6y8XlgIV8BLlIg1tT1R10i': 'Old Dominion'},64,False,Solo
+849,2MNapHbu7QASoukvVVIxyr,Mind Reader,"('Mind Reader', 'Dustin Lynch')",{'1dID9zgn0OV0Y8ud7Mh2tS': 'Dustin Lynch'},60,False,Solo
+850,6g0Orsxv6glTJCt4cHsRsQ,Formation,"('Formation', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},74,True,Solo
+851,3cjF2OFRmip8spwZYQRKxP,Feel No Ways,"('Feel No Ways', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},64,True,Solo
+852,2NELtMgQ8HSdrGrYQPLnC3,Piece by Piece,"('Piece By Piece', 'Kelly Clarkson')",{'3BmGtnKgCSGYIUhmivXKWX': 'Kelly Clarkson'},57,False,Solo
+853,5htB2gxndGHrLb09x1Q3Vp,Moolah,"('Moolah', 'Young Greatness')",{'6eUSUma6IbsuvfAs9c0Kti': 'Young Greatness'},52,True,Solo
+854,0nhBKubnVz9yFNNprBniWz,YOUTH,"('Youth', 'Troye Sivan')",{'3WGpXCj9YhhfX11TToZcXP': 'Troye Sivan'},67,False,Solo
+855,2SIN7qUVEY1vCuuxp76VQ9,My Boo,"('My Boo', ""Ghost Town DJ's"")",{'6q3SdY5D2t8g04pEk6eNLO': 'Ghost Town DJ'},42,False,Solo
+856,5YHR8wBR5jXfGtP766NiAT,If It Ain't Love,"(""If It Ain't Love"", 'Jason Derulo')",{'07YZf4WDAMNwqr4jfgOZ8y': 'Jason Derulo'},59,False,Solo
+857,1C7KSXR2GVxknex6I4ANco,9,"('9', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},58,True,Solo
+858,37R0bQOQj5a7DOqh1TGzvB,One Call Away,"('One Call Away', 'Charlie Puth')",{'6VuMaDnrHyPL1p4EHjYLi7': 'Charlie Puth'},69,False,Solo
+859,03L2AoiRbWhvt7BDMx1jUB,U With Me?,"('U With Me?', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},58,True,Solo
+860,4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,"('Fire & Desire', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},65,True,Solo
+861,4cRBqWBjuccCowYVHFlXK6,Redemption,"('Redemption', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},62,True,Solo
+862,3zkWCteF82vJwv0hRLba76,Stitches,"('Stitches', 'Shawn Mendes')",{'7n2wHs1TKAczGzO7Dd2rGr': 'Shawn Mendes'},75,False,Solo
+863,3pXF1nA74528Edde4of9CC,Don't,"(""Don't"", 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},75,True,Solo
+864,4PA16FAl8LPmFmOhARawdV,Weston Road Flows,"('Weston Road Flows', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},57,True,Solo
+865,7sBwAWyXfiIgrYQ8BaJESH,Keep The Family Close,"('Keep The Family Close', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},55,True,Solo
+866,2hgzdQdnfWwtdpZbhZlV72,Ain't Your Mama,"(""Ain't Your Mama"", 'Jennifer Lopez')",{'2DlGxzQSjYe5N6G9nkYghR': 'Jennifer Lopez'},70,False,Solo
+867,6KCUliK0a3lHcMiGaqNdHR,I Like The Sound Of That,"('I Like The Sound Of That', 'Rascal Flatts')",{'0a1gHP0HAqALbEyxaD5Ngn': 'Rascal Flatts'},53,False,Solo
+868,6IFPfV8PNSYOmufzQ95hmm,Confession,"('Confession', 'Florida Georgia Line')",{'3b8QkneNDz4JHKKKlLgYZg': 'Florida Georgia Line'},61,False,Solo
+869,2bocAPQcUTLUXx8lAOTiK3,Team,"('Team', 'Iggy Azalea')",{'5yG7ZAZafVaAlMTeBybKAL': 'Iggy Azalea'},60,True,Solo
+870,7oAuqs6akGnPU3Tb00ZmyM,All Night,"('All Night', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},67,False,Solo
+871,71OvX5NNLrmz7rpq1ANTQn,Daddy Lessons,"('Daddy Lessons', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},68,False,Solo
+872,7rLDARtJALM7QdiJDMXW7m,Pray You Catch Me,"('Pray You Catch Me', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},64,False,Solo
+873,2FNPJWVdGxYhWaotd6rULS,Sandcastles,"('Sandcastles', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},64,True,Solo
+874,2RQAG0wQt35UzAPEyVJFWN,Love Drought,"('Love Drought', 'Beyonce')",{'6vWDO969PvNqNYHIOW5v0m': 'Beyoncé'},63,False,Solo
+875,2ZRJRe82aZaVhOKKlbJr4v,Summer Sixteen,"('Summer Sixteen', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},51,True,Solo
+876,54X78diSLoUDI3joC2bjMz,Purple Rain,"('Purple Rain', 'Prince And The Revolution')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},73,False,Solo
+877,51H2y6YrNNXcy3dfc3qSbA,When Doves Cry,"('When Doves Cry', 'Prince')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},68,False,Solo
+878,4iozhXt27eMl39W5z7R8H6,Little Red Corvette,"('Little Red Corvette', 'Prince')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},53,True,Solo
+879,62LJFaYihsdVrrkgUOJC05,Kiss,"('Kiss', 'Prince And The Revolution')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},72,False,Solo
+880,0QeI79sp1vS8L3JgpEO7mD,Let's Go Crazy,"(""Let's Go Crazy"", 'Prince And The Revolution')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},60,True,Solo
+881,2H7PHVdQ3mXqEHXcvclTB0,1999,"('1999', 'Prince')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},66,False,Solo
+882,5jSz894ljfWE0IcHBSM39i,Raspberry Beret,"('Raspberry Beret', 'Prince And The Revolution')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},67,False,Solo
+883,6fBwVe6udYdnRqwqo06if8,I Would Die 4 U,"('I Would Die 4 U', 'Prince And The Revolution')",{'5a2EaR3hamoenG9rDuVn8j': 'Prince'},58,False,Solo
+884,0OfzPUxPzxpI6ndQOTXbdg,Jumpman,"('Jumpman', 'Drake & Future')",{'7vtnVU0zOWlN9R4OOz0IjC': 'BeatRunnaz'},2,False,Solo
+885,6dlpABcXrQKRU9G00i6Zba,Back To Sleep,"('Back To Sleep', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},63,True,Solo
+886,63thx7OANplv4I4BQsanHk,You Should Be Here,"('You Should Be Here', 'Cole Swindell')",{'1mfDfLsMxYcOOZkzBxvSVW': 'Cole Swindell'},62,False,Solo
+887,61uyGDPJ06MkxJtHgPmuyO,Company,"('Company', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},69,False,Solo
+888,7uJH0YdSZL6psjxI6Xy08b,Acquainted,"('Acquainted', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},68,True,Solo
+889,2l1fWY1albInvAG9t8WP2p,That Don't Sound Like You,"(""That Don't Sound Like You"", 'Lee Brice')",{'5Zq7R5qmi58ByYyBQTlNuk': 'Lee Brice'},57,False,Solo
+890,3CJvmtWw2bJsudbAC5uCQk,Hands To Myself,"('Hands To Myself', 'Selena Gomez')",{'0C8ZW7ezQVs4URX5aX7Kqx': 'Selena Gomez'},67,False,Solo
+891,4sPmO7WMQUAf45kwMOtONw,Hello,"('Hello', 'Adele')",{'4dpARuHxo51G3z768sgnrY': 'Adele'},69,False,Solo
+892,7fBv7CLKzipRk6EC6TWHOB,The Hills,"('The Hills', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},79,True,Solo
+893,0qAIiGFKLdV1xpNlEhjpq8,New Romantics,"('New Romantics', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},57,False,Solo
+894,1jNNHFZmRGXZFHlil5uhei,Drunk on Your Love,"('Drunk On Your Love', 'Brett Eldredge')",{'0qSX3s5pJnAlSsgsCne8Cz': 'Brett Eldredge'},63,False,Solo
+895,4AumKAnMygP1baZGTZrRdp,Little Bit of You,"('Little Bit Of You', 'Chase Bryant')",{'7io3MyhMxDZoBYXp4rlRFA': 'Chase Bryant'},55,False,Solo
+896,7KLB6Jptw9wyQXkSLiO8qh,Might Be,"('Might Be', 'DJ Luke Nasty')",{'1yZwlOVsfrp4wb6d29KkGM': 'DJ Luke Nasty'},53,True,Solo
+897,1Wsbr1d2BouNGk2q92mIj7,Pt. 2,"('Pt. 2', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},64,True,Solo
+898,7s49Um7G06hq2rulrHPsIy,Jimmy Choo,"('Jimmy Choo', 'Fetty Wap')",{'6PXS4YHDkKvl1wkIl4V8DL': 'Fetty Wap'},53,True,Solo
+899,6uTb5oNK9RkTjxmh73W7MG,Die A Happy Man,"('Die A Happy Man', 'Thomas Rhett')",{'6x2LnllRG5uGarZMsD4iO8': 'Thomas Rhett'},61,False,Solo
+900,4WRRCuJYRq7gUKiupxVH9W,Nobody To Blame,"('Nobody To Blame', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},62,False,Solo
+901,3nAq2hCr1oWsIU54tS98pL,Waves,"('Waves', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},70,True,Solo
+902,1eQBEelI2NCy7AUTerX0KS,Ultralight Beam,"('Ultralight Beam', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},68,True,Solo
+903,6od5hFv9IT5JHc7NEF9HRv,Victorious,"('Victorious', 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},67,False,Solo
+904,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,"('Hotline Bling', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},74,False,Solo
+905,7IWkJwX9C0J7tHurTD7ViL,When We Were Young,"('When We Were Young', 'Adele')",{'4dpARuHxo51G3z768sgnrY': 'Adele'},70,False,Solo
+906,33JcUj9qQDayKswunZP9ar,Best Friend,"('Best Friend', 'Young Thug')",{'50co4Is1HCEo8bhOyUWKpn': 'Young Thug'},63,True,Solo
+907,30Zcjs7pgEkmJA1lEbGSWT,FML,"('FML', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},65,True,Solo
+908,3fqwjXwUGN6vbzIwvyFMhx,Tennessee Whiskey,"('Tennessee Whiskey', 'Chris Stapleton')",{'4YLtscXsxbVgi031ovDDdh': 'Chris Stapleton'},75,False,Solo
+909,66Q3fAmSX5eHamgbKa9alP,Real Friends,"('Real Friends', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},65,True,Solo
+910,0vcfOQOvTCv8ckiRs8Xc1Z,Beautiful Drug,"('Beautiful Drug', 'Zac Brown Band')",{'6yJCxee7QumYr820xdIsjo': 'Zac Brown Band'},60,False,Solo
+911,05BgC2247XGi8ySwBzOO0o,Heartbeat,"('Heartbeat', 'Carrie Underwood')",{'4xFUf1FHVy696Q1JQZMTRj': 'Carrie Underwood'},57,False,Solo
+912,49fT6owWuknekShh9utsjv,Feedback,"('Feedback', 'Kanye West')",{'5K4W6rqBFWDnAN6FQUkS6x': 'Kanye West'},59,True,Solo
+913,4B0JvthVoAAuygILe3n4Bs,What Do You Mean?,"('What Do You Mean?', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},76,False,Solo
+914,2Gyc6e2cLxA5hoX1NOvYnU,Say It,"('Say It', 'Tory Lanez')",{'2jku7tDXc6XoB6MO2hFuqg': 'Tory Lanez'},69,True,Solo
+915,6eT7xZZlB2mwyzJ2sUKG6w,White Iverson,"('White Iverson', 'Post Malone')",{'246dkjvS1zLTtiykXe5h60': 'Post Malone'},78,True,Solo
+916,1zWMf9bVyhY5W3ZORbjNWt,LIKE I WOULD,"('Like I Would', 'Zayn')",{'5ZsFI1h6hIdQRw2ti0hz81': 'ZAYN'},61,False,Solo
+917,3kSXn1osC89W8JcPLozTzs,Stand By You,"('Stand By You', 'Rachel Platten')",{'3QLIkT4rD2FMusaqmkepbq': 'Rachel Platten'},62,False,Solo
+918,0tISnxqgVmxqhVghsTi2Rr,With Them,"('With Them', 'Young Thug')",{'50co4Is1HCEo8bhOyUWKpn': 'Young Thug'},57,True,Solo
+919,4cg1yakyRSIOjxKM2I7J1q,Digits,"('Digits', 'Young Thug')",{'50co4Is1HCEo8bhOyUWKpn': 'Young Thug'},67,True,Solo
+920,6Wytqpe4mfmyeT8s1xbczG,Something In The Way You Move,"('Something In The Way You Move', 'Ellie Goulding')",{'0X2BH1fck6amBIoJhDVmmJ': 'Ellie Goulding'},54,False,Solo
+921,5ViT05yjdBQgPOwckL762B,Make Me Like You,"('Make Me Like You', 'Gwen Stefani')",{'4yiQZ8tQPux8cPriYMWUFP': 'Gwen Stefani'},48,False,Solo
+922,6f5TuB9WtbA1g49A4DcMQ4,Be Alright,"('Be Alright', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},69,False,Solo
+923,6QzJcnl5cvlDHVrx9mhE99,Hide Away,"('Hide Away', 'Daya')",{'6Dd3NScHWwnW6obMFbl1BH': 'Daya'},62,False,Solo
+924,664gdARxaClFsoF5SXKOws,Here,"('Here', 'Alessia Cara')",{'2wUjUUtkb5lvLKcGKsKqsR': 'Alessia Cara'},65,False,Solo
+925,6ZANrVuAMp2rpjhfbOuJly,Same Old Love,"('Same Old Love', 'Selena Gomez')",{'0C8ZW7ezQVs4URX5aX7Kqx': 'Selena Gomez'},65,False,Solo
+926,70eDxAyAraNTiD6lx2ZEnH,Ex's & Oh's,"(""Ex's & Oh's"", 'Elle King')",{'3bhu7P5PfngueRHiB9hjcx': 'Elle King'},70,False,Solo
+927,25KybV9BOUlvcnv7nN3Pyo,In The Night,"('In The Night', 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},67,True,Solo
+928,69uxyAqqPIsUyTO8txoP2M,Adventure of a Lifetime,"('Adventure Of A Lifetime', 'Coldplay')",{'4gzpq5DPGxSnKTe4SA8HAU': 'Coldplay'},73,False,Solo
+929,6naYpFIKihKbGg6lGxpveI,Backroad Song,"('Backroad Song', 'Granger Smith')",{'4sTFGCigAQIUiEy8wSSQNF': 'Granger Smith'},62,False,Solo
+930,16bHRxM89ue0TiCKARYbRp,Sorry Not Sorry,"('Sorry Not Sorry', 'Bryson Tiller')",{'2EMAnMvWE2eb56ToJVfCWs': 'Bryson Tiller'},62,True,Solo
+931,22VdIZQfgXJea34mQxlt81,Can't Feel My Face,"(""Can't Feel My Face"", 'The Weeknd')",{'1Xyo4u8uXC1ZmMpatF05PJ': 'The Weeknd'},77,False,Solo
+932,7JnorPtXApoUw2AuJUGLY1,We Went,"('We Went', 'Randy Houser')",{'56x8mYvS3cyDGAi8N2FxbB': 'Randy Houser'},58,False,Solo
+933,6dg9Tceo2JpMgAKiNyLpKK,Break On Me,"('Break On Me.', 'Keith Urban')",{'0u2FHSq3ln94y5Q57xazwf': 'Keith Urban'},37,False,Solo
+934,22DKsoYFV5npPXmnPpXL7i,Watch Out,"('Watch Out', '2 Chainz')",{'17lzZA2AlOHwCwFALHttmp': '2 Chainz'},60,True,Solo
+935,1dl3vuXJS9anUXE7XnNP75,Get Ugly,"('Get Ugly', 'Jason Derulo')",{'07YZf4WDAMNwqr4jfgOZ8y': 'Jason Derulo'},63,True,Solo
+936,1wHZx0LgzFHyeIZkUydNXq,Antidote,"('Antidote', 'Travis Scott')",{'0Y5tJX1MQlPlqiwlOH1tJY': 'Travis Scott'},73,True,Solo
+937,6dtWKqqdveI3YvdYJQKWWn,iT's YoU,"(""It's You"", 'Zayn')",{'5ZsFI1h6hIdQRw2ti0hz81': 'ZAYN'},59,True,Solo
+938,3NLnwwAQbbFKcEcV8hDItk,Perfect,"('Perfect', 'One Direction')",{'4AK6F7OLvEQ5QYCBNiQWHq': 'One Direction'},70,False,Solo
+939,0bCCGLHflR08UVA6oJJc8I,Til It Happens To You,"('Til It Happens To You', 'Lady Gaga')",{'1HY2Jd0NmPuamShAr6KMms': 'Lady Gaga'},55,False,Solo
+940,5r5cp9IpziiIsR6b93vcnQ,Walking On A Dream,"('Walking On A Dream', 'Empire Of The Sun')",{'67hb7towEyKvt5Z8Bx306c': 'Empire of the Sun'},70,False,Solo
+941,0HMjXBAZmSYOTTi33WpMso,History,"('History', 'One Direction')",{'4AK6F7OLvEQ5QYCBNiQWHq': 'One Direction'},71,False,Solo
+942,3fVnlF4pGqWI9flVENcT28,Wildest Dreams,"('Wildest Dreams', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},71,False,Solo
+943,6FWrlXo99QRmPtOeUSWDjv,Dibs,"('Dibs', 'Kelsea Ballerini')",{'3RqBeV12Tt7A8xH3zBDDUF': 'Kelsea Ballerini'},57,False,Solo
+944,0qUnBLZ8bJqUNEeQgayL9t,Out Of The Woods,"('Out Of The Woods', 'Taylor Swift')",{'06HL4z0CvFAxyc27GXpf02': 'Taylor Swift'},61,False,Solo
+945,160hN2OsDXnmgExwtG7cvD,Hollow,"('Hollow', 'Tori Kelly')","{'1vSN1fsvrzpbttOYGsliDr': 'Tori Kelly', '0c173mlxpT3dSFRgMO8XPh': 'Big Sean'}",55,False,Collaboration
+946,20n5AhSbetBMt6Xbrm4fa7,Look At My Dab,"('Look At My Dab', 'Migos')",{'6oMuImdp5ZcFhWP0ESe6mG': 'Migos'},42,True,Solo
+947,21jkhW2773dELgTMRJcMfI,I Love This Life,"('I Love This Life', 'LOCASH')",{'5IcGbIAgdns0R5EJKHMjCQ': 'LOCASH'},59,False,Solo
+948,7aftSOGSOpSoIlVAQVBb71,Break Up In A Small Town,"('Break Up In A Small Town', 'Sam Hunt')",{'2kucQ9jQwuD8jWdtR9Ef38': 'Sam Hunt'},67,False,Solo
+949,5a7NdkF09AfD0H607eiOkX,On My Mind,"('On My Mind', 'Ellie Goulding')",{'0X2BH1fck6amBIoJhDVmmJ': 'Ellie Goulding'},63,False,Solo
+950,0Mn3amMRMoabaoTf1Publ4,Confident,"('Confident', 'Demi Lovato')",{'6S2OmqARrzebs0tKUEyXyp': 'Demi Lovato'},73,True,Solo
+951,23EkfwUdsRIz7jAZIcC8gb,Stay A Little Longer,"('Stay A Little Longer', 'Brothers Osborne')",{'39NR3AUhpbbqKM33vWn2fp': 'Brothers Osborne'},62,False,Solo
+952,1wMALZpuqAy7amQsFBWQ8m,All I Ask,"('All I Ask', 'Adele')",{'4dpARuHxo51G3z768sgnrY': 'Adele'},68,False,Solo
+953,3gHc5XTAywdFQUsHS6DD7G,Good To Be Alive (Hallelujah),"('Good To Be Alive (Hallelujah)', 'Andy Grammer')",{'2oX42qP5ineK3hrhBECLmj': 'Andy Grammer'},58,False,Solo
+954,3znPiywA0q1VK2jgAZFDoI,Irresistible,"('Irresistible', 'Fall Out Boy')",{'4UXqAaa6dQYAk18Lv7PEgX': 'Fall Out Boy'},62,False,Solo
+955,0z9hbAY5d0RhmvZr3DWMPK,Do It Like Me,"('Do It Like Me', 'DLOW')",{'2wr9il91kGyzsfs4ypVr02': 'DLOW'},46,False,Solo
+956,3mg29Lwvo673TkDhE3kB9W,Dessert,"('Dessert', 'Dawin')",{'46GXASE9LHzyssNqKOInUu': 'Dawin'},58,False,Solo
+957,1mExCoXAGKI6abLGXoG7O3,Die a Happy Man,"('Die A Happy Man', 'Nelly')",{'2gBjLmx6zQnFGQJCAQpRgw': 'Nelly'},48,False,Solo
+958,6EdSZmWCQJfO8T66x9VCID,Whisper,"('Whisper', 'Chase Rice')",{'6pBNfggcZZDCmb0p92OnGn': 'Chase Rice'},46,False,Solo
+959,62vpWI1CHwFy7tMIcSStl8,No Role Modelz,"('No Role Modelz', 'J. Cole')",{'6l3HvQ5sa6mXTsMTB19rO5': 'J. Cole'},79,True,Solo
+960,3ESSGgWzRf1xvP7G5hHMhB,Again,"('Again', 'Fetty Wap')",{'6PXS4YHDkKvl1wkIl4V8DL': 'Fetty Wap'},64,True,Solo
+961,4yL5WpJZmoxAV4udhE55VY,Country Nation,"('Country Nation', 'Brad Paisley')",{'13YmWQJFwgZrd4bf5IjMY4': 'Brad Paisley'},47,False,Solo
+962,25R5Tdr4K7ENb6umHzdCXn,Alive,"('Alive', 'Sia')",{'5WUlDfRSoLAfcVSX1WnrxN': 'Sia'},62,False,Solo
+963,6VZCuvHwk3xmjwgKga0bNi,I Got the Boy,"('I Got The Boy', 'Jana Kramer')",{'2PaRhxWFaqCUZybJDDoNrf': 'Jana Kramer'},53,False,Solo
+964,79dlQxvdsCDApoM8XChkpy,Mr. Misunderstood,"('Mr. Misunderstood', 'Eric Church')",{'2IvkS5MXK0vPGnwyJsrEyV': 'Eric Church'},58,False,Solo
+965,1cdzfFjEbUbgTm5nv3FgXR,Focus,"('Focus', 'Ariana Grande')",{'66CXWjxzNUsdJxJ2JdwvnR': 'Ariana Grande'},63,False,Solo
+966,1uhaXll708Tq7NDwu7fJBd,Gonna Know We Were Here,"('Gonna Know We Were Here', 'Jason Aldean')",{'3FfvYsEGaIb52QPXhg4DcH': 'Jason Aldean'},37,False,Solo
+967,3px2rAPu74ltbkf9eZsZ8h,Emperor's New Clothes,"(""Emperor's New Clothes"", 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},70,False,Solo
+968,0SNIAtRCPVVLoGEPcuHSIc,I'll Show You,"(""I'll Show You"", 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},64,False,Solo
+969,6Xs7OKt6i0Ddq8B4M5Dgvr,New Americana,"('New Americana', 'Halsey')",{'26VFTg2z8YR0cCuwLzESi2': 'Halsey'},63,False,Solo
+970,1BECwm5qkaBwlbfo4kpYx8,Death of a Bachelor,"('Death Of A Bachelor', 'Panic! At The Disco')",{'20JZFwl6HVl6yg8a4H3ZqK': 'Panic! At The Disco'},73,False,Solo
+971,3lSR267IJfT54p0Gfuw7mi,Right Hand,"('Right Hand', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},61,True,Solo
+972,1Ser4X0TKttOvo8bgdytTP,Come Get Her,"('Come Get Her', 'Rae Sremmurd')",{'7iZtZyCzp3LItcw1wtPI3D': 'Rae Sremmurd'},74,True,Solo
+973,27OnRI6jSkxN9EAqZEVHjv,Ginza,"('Ginza', 'J Balvin')",{'1vyhD5VmyZ7KMfW5gqLgo5': 'J Balvin'},44,False,Solo
+974,2d8JP84HNLKhmd6IYOoupQ,Trap Queen,"('Trap Queen', 'Fetty Wap')",{'6PXS4YHDkKvl1wkIl4V8DL': 'Fetty Wap'},72,True,Solo
+975,3Vn9oCZbdI1EMO7jxdz2Rc,Lazarus,"('Lazarus', 'David Bowie')",{'0oSGxfWSnnOXhD2fKuz2Gy': 'David Bowie'},56,False,Solo
+976,6kEyuKmF4kZylB5LcuRd8Y,Space Oddity,"('Space Oddity', 'David Bowie')",{'0oSGxfWSnnOXhD2fKuz2Gy': 'David Bowie'},43,False,Solo
+977,0Fao855T3klV3REFRFHRF3,Blackstar,"('Blackstar', 'David Bowie')",{'0oSGxfWSnnOXhD2fKuz2Gy': 'David Bowie'},49,False,Solo
+978,07nHpBQ9itIMxguWZOk5Fb,Used To Love You,"('Used To Love You', 'Gwen Stefani')",{'4yiQZ8tQPux8cPriYMWUFP': 'Gwen Stefani'},44,False,Solo
+979,57gS5wJqIH6sbtBIIiioNY,Gonna,"('Gonna', 'Blake Shelton')",{'1UTPBmNbXNTittyMJrNkvw': 'Blake Shelton'},53,False,Solo
+980,1iuljeYz6ZG3GTJOZZkoer,RGF Island,"('RGF Island', 'Fetty Wap')",{'6PXS4YHDkKvl1wkIl4V8DL': 'Fetty Wap'},58,True,Solo
+981,4pdoeoOQSu6DNznlfNc5FP,Top Of The World,"('Top Of The World', 'Tim McGraw')",{'6roFdX1y5BYSbp60OTJWMd': 'Tim McGraw'},50,False,Solo
+982,46W2wkCzFerbeQbNz3EIaa,Smoke Break,"('Smoke Break', 'Carrie Underwood')",{'4xFUf1FHVy696Q1JQZMTRj': 'Carrie Underwood'},52,False,Solo
+983,2zhk0kypGeOPsaaZcjyc14,Burning House,"('Burning House', 'Cam')",{'5WRElKaZsn1tGnrgmJVAeO': 'Cam'},61,False,Solo
+984,2IjyFRCRn8x1bEquOM3vxg,Purpose,"('Purpose', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},68,False,Solo
+985,5u7o3wXWJI7AN1b9KIf3m8,Liquor,"('Liquor', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},56,True,Solo
+986,20fAoPjfYltmd3K3bO7gbt,Stick Talk,"('Stick Talk', 'Future')",{'1RyvyyTE3xzB2ZywiAwp0i': 'Future'},61,True,Solo
+987,3wrP2GVxWH8VpHPOsKhYgz,Zero,"('Zero', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},54,True,Solo
+988,0GhuwiwcAuw3zU5QHCmBiP,Hallelujah,"('Hallelujah', 'Lindsey Stirling')",{'378dH6EszOLFShpRzAQkVM': 'Lindsey Stirling'},43,False,Solo
+989,4lvQiZUhHgG8Oldd8S97hd,Little More (Royalty),"('Little More (Royalty)', 'Chris Brown')",{'7bXgB6jMjp9ATFy66eO08Z': 'Chris Brown'},52,False,Solo
+990,5ByIHT8s38diBQf6dkEWbt,Cheerleader,"('Cheerleader', 'OMI')",{'5MouCg6ta7zAxsfMEbc1uh': 'OMI'},57,False,Solo
+991,2K87XMYnUMqLcX3zvtAF4G,Drag Me Down,"('Drag Me Down', 'One Direction')",{'4AK6F7OLvEQ5QYCBNiQWHq': 'One Direction'},73,False,Solo
+992,5lFDtgWsjRJu8fPOAyJIAK,Back To Back,"('Back To Back', 'Drake')",{'3TVXtAsR1Inumwj472S9r4': 'Drake'},68,True,Solo
+993,4W38RXuQNuoTSwVsQA1OGC,Nothin' Like You,"(""Nothin' Like You"", 'Dan + Shay')",{'7z5WFjZAIYejWy0NI5lv4T': 'Dan + Shay'},65,False,Solo
+994,5XFu5S1vBY7sNHlheCapOz,Strip It Down,"('Strip It Down', 'Luke Bryan')",{'0BvkDsjIUla7X0k6CSWh1I': 'Luke Bryan'},62,False,Solo
+995,0fYVliAYKHuPmECRs1pbRf,Renegades,"('Renegades', 'X Ambassadors')",{'3NPpFNZtSTHheNBaWC82rB': 'X Ambassadors'},72,False,Solo
+996,2SnNaoNhMjC1WRMTWD8qTX,Mark My Words,"('Mark My Words', 'Justin Bieber')",{'1uNFoZAHBGtllmzznpCI3s': 'Justin Bieber'},59,False,Solo
+997,3jSyE8r8vgg8fmwojoMzql,Already Callin' You Mine,"(""Already Callin' You Mine"", 'Parmalee')",{'4TshyQDihSYXSWqvclXl3I': 'Parmalee'},51,False,Solo
+998,422lAAWQO9TqL1LxIPdhOn,Random,"('Random', 'G-Eazy')",{'02kJSzxNuaWGqwubyUba0Z': 'G-Eazy'},60,True,Solo
+999,0H04yVa3DJxoXbLBpAb7iV,I'm Comin' Over,"(""I'm Comin' Over"", 'Chris Young')",{'4BYxqVkZyFjtik7crYLg5Q': 'Chris Young'},68,False,Solo
