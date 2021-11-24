@@ -164,9 +164,14 @@ table.to_csv('relationTable5000.csv', sep=',')
 > Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
 
 ## Evolução do Projeto
-> Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
-> Podem ser apresentados destaques na evolução dos modelos conceitual e lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
-> Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+> * Ideia Inicial: Analisar como as características pessoais de um determinado indivíduo influenciam no seu gosto musical. Com base no gosto dos indivíduos por gêneros musicais, poderíamos verificar quais características tem mais peso na atração por determinado gênero musical.
+> 
+> * Evolução da Ideia: À partir da relação entre os gêneros musicais construída pela ideia inicial do projeto, planejamos relacionar as músicas entre si. Com essa relação, iríamos criar um sistema de recomendação de músicas.
+> 
+> * Problemas Encontrados: Os datasets que encontramos não atrelam gênero às músicas, tornando inviável a relação com o dataset inicial de características pessoais dos indivíduos.
+> 
+> * Ideia Final: Mudamos os parâmetros para criar a relação entre as músicas. Os parâmetros utilizados foram características das próprias músicas, como: artistas, popularidade, conteúdo explícito, tipo de música e números de playlists que 2 músicas apareciam juntas.
+
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
