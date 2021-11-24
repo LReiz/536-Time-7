@@ -85,9 +85,8 @@ RELACAO(_IdMusica1_, _IdMusica2_, Peso)
 > 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`musicTable1000.csv` | `(data/processed/musicTable1000.csv)` | `Conjunto de dados contendo propriedades sobre 1000 músicas`
------ | ----- | -----
-`relationTable1000.csv` | `(data/processed/relationTable1000.csv)` | `Conjunto de dados contendo as relações entre 1000 músicas`
+`musicTable1000.csv` | `![musicTable1000] (data/processed/musicTable1000.csv)` | `Conjunto de dados contendo propriedades sobre 1000 músicas`
+`relationTable1000.csv` | `![relationTable1000] (data/processed/relationTable1000.csv)` | `Conjunto de dados contendo as relações entre 1000 músicas`
 
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
